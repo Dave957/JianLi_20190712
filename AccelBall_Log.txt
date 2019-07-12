@@ -1,0 +1,3751 @@
+[2018/8/23 17:12:35] AccelBall Start 
+[2018/8/23 17:12:35] IsXiaoXinPC   : True
+[2018/8/23 17:12:35] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/23 17:12:35] BigData-> clickEvent :SB011
+[2018/8/23 17:43:24] BigData-> businessEvent :SB002
+[2018/8/23 17:45:52] App_Deactivated
+[2018/8/23 18:06:14] App_Deactivated
+[2018/8/23 18:06:46] App_Deactivated
+[2018/8/23 18:06:48] ClearMemory
+[2018/8/23 18:06:49]  GridWing.Visibility : Visible
+[2018/8/23 18:06:50] App_Deactivated
+[2018/8/23 18:06:53] GridWing.Visibility = Visibility.Collapsed
+[2018/8/23 18:06:53] GetGameNoDisStatus :False
+[2018/8/23 18:10:45] App_Deactivated
+[2018/8/23 18:10:54] App_Deactivated
+[2018/8/23 18:14:12] BigData-> businessEvent :SB002
+[2018/8/23 18:20:36] App_Deactivated
+[2018/8/23 18:21:55] App_Deactivated
+[2018/8/23 18:23:36] App_Deactivated
+[2018/8/23 18:23:49] App_Deactivated
+[2018/8/23 18:24:30] GetGameNoDisStatus :False
+[2018/8/23 18:24:35] App_Deactivated
+[2018/8/23 18:24:38] App_Deactivated
+[2018/8/23 18:25:07] App_Deactivated
+[2018/8/23 18:25:46] App_Deactivated
+[2018/8/23 18:25:58] ClearMemory
+[2018/8/23 18:26:02] ClearMemory
+[2018/8/23 18:26:08] App_Deactivated
+[2018/8/23 18:26:12] ClearMemory
+[2018/8/23 18:26:17] App_Deactivated
+[2018/8/23 18:26:51] App_Deactivated
+[2018/8/23 18:27:18] App_Deactivated
+[2018/8/23 18:27:37] App_Deactivated
+[2018/8/23 18:27:38] App_Deactivated
+[2018/8/23 18:29:33] App_Deactivated
+[2018/8/23 18:29:57] App_Deactivated
+[2018/8/23 18:30:31]  GridWing.Visibility : Visible
+[2018/8/23 18:30:40] GridWing.Visibility = Visibility.Collapsed
+[2018/8/23 18:30:40] GetGameNoDisStatus :False
+[2018/8/23 18:30:59] App_Deactivated
+[2018/8/23 18:30:59] App_Deactivated
+[2018/8/23 18:31:16] App_Deactivated
+[2018/8/23 18:32:35] App_Deactivated
+[2018/8/23 18:34:47] App_Deactivated
+[2018/8/23 18:34:53] App_Deactivated
+[2018/8/23 18:36:14] App_Deactivated
+[2018/8/23 18:36:40] App_Deactivated
+[2018/8/23 18:37:03] App_Deactivated
+[2018/8/23 18:40:58] App_Deactivated
+[2018/8/23 18:40:58] App_Deactivated
+[2018/8/23 18:41:57] App_Deactivated
+[2018/8/23 18:44:57] BigData-> businessEvent :SB002
+[2018/8/23 18:45:00] App_Deactivated
+[2018/8/23 18:45:29] App_Deactivated
+[2018/8/23 18:49:15] App_Deactivated
+[2018/8/23 18:52:43] App_Deactivated
+[2018/8/23 18:58:54] App_Deactivated
+[2018/8/23 18:58:56] App_Deactivated
+[2018/8/23 18:58:59] App_Deactivated
+[2018/8/24 9:27:27] AccelBall Start 
+[2018/8/24 9:27:27] IsXiaoXinPC   : True
+[2018/8/24 9:27:27] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/24 9:27:27] BigData-> clickEvent :SB011
+[2018/8/24 9:29:25] App_Deactivated
+[2018/8/24 9:29:26] App_Deactivated
+[2018/8/24 9:36:24] App_Deactivated
+[2018/8/24 9:38:11] App_Deactivated
+[2018/8/24 9:41:43] App_Deactivated
+[2018/8/24 9:53:22] App_Deactivated
+[2018/8/24 9:55:41] App_Deactivated
+[2018/8/24 9:55:59] App_Deactivated
+[2018/8/24 9:58:09] App_Deactivated
+[2018/8/24 9:58:30] BigData-> businessEvent :SB002
+[2018/8/24 9:59:26] App_Deactivated
+[2018/8/24 10:03:46] App_Deactivated
+[2018/8/24 10:03:54] App_Deactivated
+[2018/8/24 10:05:25] App_Deactivated
+[2018/8/24 10:05:54] App_Deactivated
+[2018/8/24 10:06:37] App_Deactivated
+[2018/8/24 10:12:25] App_Deactivated
+[2018/8/24 10:13:38] App_Deactivated
+[2018/8/24 10:13:39] App_Deactivated
+[2018/8/24 10:13:57] App_Deactivated
+[2018/8/24 10:14:01] App_Deactivated
+[2018/8/24 10:14:18] App_Deactivated
+[2018/8/24 10:14:20] App_Deactivated
+[2018/8/24 10:14:21] App_Deactivated
+[2018/8/24 10:14:35] App_Deactivated
+[2018/8/24 10:14:42] App_Deactivated
+[2018/8/24 10:15:48] App_Deactivated
+[2018/8/24 10:26:10] App_Deactivated
+[2018/8/24 10:29:28] BigData-> businessEvent :SB002
+[2018/8/24 11:00:27] BigData-> businessEvent :SB002
+[2018/8/24 11:31:35] BigData-> businessEvent :SB002
+[2018/8/24 12:02:28] BigData-> businessEvent :SB002
+[2018/8/24 14:01:23] ClearMemory
+[2018/8/24 14:01:29] GetGameNoDisStatus :False
+[2018/8/24 14:01:31] BigData-> clickEvent :SB010
+[2018/8/24 14:01:32] App_Deactivated
+[2018/8/24 14:03:11] App_Deactivated
+[2018/8/24 14:05:00] BigData-> businessEvent :SB002
+[2018/8/24 14:51:21] App_Deactivated
+[2018/8/24 14:51:26] BigData-> businessEvent :SB002
+[2018/8/24 15:22:25] BigData-> businessEvent :SB002
+[2018/8/24 15:53:18] BigData-> businessEvent :SB002
+[2018/8/24 16:24:23] BigData-> businessEvent :SB002
+[2018/8/24 16:32:05] App_Deactivated
+[2018/8/24 16:38:09] App_Deactivated
+[2018/8/24 16:40:37] App_Deactivated
+[2018/8/24 16:41:54] App_Deactivated
+[2018/8/24 16:45:10] App_Deactivated
+[2018/8/24 16:45:12] App_Deactivated
+[2018/8/24 16:45:33] App_Deactivated
+[2018/8/24 16:45:37] App_Deactivated
+[2018/8/24 16:45:45] App_Deactivated
+[2018/8/24 16:45:49] App_Deactivated
+[2018/8/24 16:55:17] BigData-> businessEvent :SB002
+[2018/8/24 17:26:16] BigData-> businessEvent :SB002
+[2018/8/24 17:57:15] BigData-> businessEvent :SB002
+[2018/8/24 18:28:08] BigData-> businessEvent :SB002
+[2018/8/24 18:59:04] BigData-> businessEvent :SB002
+[2018/8/24 19:14:25] App_Deactivated
+[2018/8/24 19:14:28] App_Deactivated
+[2018/8/24 19:14:28] App_Deactivated
+[2018/8/24 19:14:28] App_Deactivated
+[2018/8/24 19:14:29] App_Deactivated
+[2018/8/24 19:14:30] App_Deactivated
+[2018/8/27 9:22:56] AccelBall Start 
+[2018/8/27 9:22:56] IsXiaoXinPC   : True
+[2018/8/27 9:22:56] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/27 9:22:56] BigData-> clickEvent :SB011
+[2018/8/27 9:23:20] App_Deactivated
+[2018/8/27 9:23:51] GetGameNoDisStatus :False
+[2018/8/27 9:23:52] BigData-> clickEvent :SB013
+[2018/8/27 9:23:52] UnInitGameZone : True
+[2018/8/27 9:23:52] BigData-> clickEvent :SB020
+[2018/8/27 9:23:52] SetOCStatus(False) :False
+[2018/8/27 9:23:52] App_Deactivated
+[2018/8/28 8:58:30] AccelBall Start 
+[2018/8/28 8:58:30] IsXiaoXinPC   : True
+[2018/8/28 8:58:31] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/28 8:58:31] BigData-> clickEvent :SB011
+[2018/8/28 9:53:11] App_Deactivated
+[2018/8/28 9:54:14] App_Deactivated
+[2018/8/28 9:54:27] BigData-> businessEvent :SB002
+[2018/8/28 10:03:20] App_Deactivated
+[2018/8/28 10:04:39] App_Deactivated
+[2018/8/28 10:25:17] BigData-> businessEvent :SB002
+[2018/8/28 10:35:00] App_Deactivated
+[2018/8/28 10:35:54] App_Deactivated
+[2018/8/28 10:42:33] App_Deactivated
+[2018/8/28 10:56:20] BigData-> businessEvent :SB002
+[2018/8/28 11:03:40] App_Deactivated
+[2018/8/28 11:03:41] App_Deactivated
+[2018/8/28 11:27:19] BigData-> businessEvent :SB002
+[2018/8/28 11:40:14] App_Deactivated
+[2018/8/28 11:48:47] App_Deactivated
+[2018/8/28 11:54:28] App_Deactivated
+[2018/8/28 11:54:41] App_Deactivated
+[2018/8/28 11:55:49] App_Deactivated
+[2018/8/28 11:58:05] BigData-> businessEvent :SB002
+[2018/8/28 12:28:49] BigData-> businessEvent :SB002
+[2018/8/28 12:59:41] BigData-> businessEvent :SB002
+[2018/8/28 13:30:30] BigData-> businessEvent :SB002
+[2018/8/28 14:01:17] BigData-> businessEvent :SB002
+[2018/8/28 14:32:06] BigData-> businessEvent :SB002
+[2018/8/28 14:40:06] App_Deactivated
+[2018/8/28 14:45:03] App_Deactivated
+[2018/8/28 14:47:02] App_Deactivated
+[2018/8/28 14:48:00] App_Deactivated
+[2018/8/28 14:48:04] App_Deactivated
+[2018/8/28 14:49:48] App_Deactivated
+[2018/8/28 14:49:56] App_Deactivated
+[2018/8/28 15:02:36]  GridWing.Visibility : Visible
+[2018/8/28 15:02:43] ClearMemory
+[2018/8/28 15:02:43]  GridWing.Visibility : Visible
+[2018/8/28 15:02:50] App_Deactivated
+[2018/8/28 15:02:59] GridWing.Visibility = Visibility.Collapsed
+[2018/8/28 15:02:59] GetGameNoDisStatus :False
+[2018/8/28 15:03:01] BigData-> businessEvent :SB002
+[2018/8/28 15:03:12] ClearMemory
+[2018/8/28 15:03:27] App_Deactivated
+[2018/8/28 15:03:45] App_Deactivated
+[2018/8/28 15:06:11] App_Deactivated
+[2018/8/28 15:06:16] App_Deactivated
+[2018/8/28 15:08:30] App_Deactivated
+[2018/8/28 15:11:20] App_Deactivated
+[2018/8/28 15:12:08] App_Deactivated
+[2018/8/28 15:12:09] App_Deactivated
+[2018/8/28 15:12:30] App_Deactivated
+[2018/8/28 15:12:52] App_Deactivated
+[2018/8/28 15:34:10] BigData-> businessEvent :SB002
+[2018/8/28 15:59:17] App_Deactivated
+[2018/8/28 16:05:13] BigData-> businessEvent :SB002
+[2018/8/28 16:36:29] BigData-> businessEvent :SB002
+[2018/8/28 17:07:09] App_Deactivated
+[2018/8/28 17:07:38] BigData-> businessEvent :SB002
+[2018/8/28 17:11:28] App_Deactivated
+[2018/8/28 17:12:57] App_Deactivated
+[2018/8/28 17:12:59] App_Deactivated
+[2018/8/28 17:13:37] App_Deactivated
+[2018/8/28 17:15:33] App_Deactivated
+[2018/8/28 17:16:09] App_Deactivated
+[2018/8/28 17:22:54] App_Deactivated
+[2018/8/28 17:23:08] App_Deactivated
+[2018/8/28 17:23:13] App_Deactivated
+[2018/8/28 17:38:45] BigData-> businessEvent :SB002
+[2018/8/28 18:09:45] BigData-> businessEvent :SB002
+[2018/8/28 18:40:26] App_Deactivated
+[2018/8/28 18:40:29] App_Deactivated
+[2018/8/28 18:40:31] App_Deactivated
+[2018/8/28 18:40:31] App_Deactivated
+[2018/8/28 18:40:32] App_Deactivated
+[2018/8/28 18:40:38] App_Deactivated
+[2018/8/29 9:52:37] AccelBall Start 
+[2018/8/29 9:52:37] IsXiaoXinPC   : True
+[2018/8/29 9:52:37] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/29 9:52:37] BigData-> clickEvent :SB011
+[2018/8/29 9:53:37] App_Deactivated
+[2018/8/29 9:54:25] App_Deactivated
+[2018/8/29 9:54:39] App_Deactivated
+[2018/8/29 10:02:38] App_Deactivated
+[2018/8/29 10:16:00] App_Deactivated
+[2018/8/29 10:23:18] BigData-> businessEvent :SB002
+[2018/8/29 10:40:29] App_Deactivated
+[2018/8/29 10:54:00] BigData-> businessEvent :SB002
+[2018/8/29 11:24:47] BigData-> businessEvent :SB002
+[2018/8/29 11:38:35] App_Deactivated
+[2018/8/29 11:47:52] App_Deactivated
+[2018/8/29 11:48:03] App_Deactivated
+[2018/8/29 11:55:40] BigData-> businessEvent :SB002
+[2018/8/29 12:26:29] BigData-> businessEvent :SB002
+[2018/8/29 12:57:16] BigData-> businessEvent :SB002
+[2018/8/29 13:28:07] BigData-> businessEvent :SB002
+[2018/8/29 13:58:55] BigData-> businessEvent :SB002
+[2018/8/29 14:29:51] BigData-> businessEvent :SB002
+[2018/8/29 14:33:58] App_Deactivated
+[2018/8/29 14:34:01] App_Deactivated
+[2018/8/29 14:34:01] App_Deactivated
+[2018/8/29 14:34:01] App_Deactivated
+[2018/8/29 14:35:41] AccelBall Start 
+[2018/8/29 14:35:41] IsXiaoXinPC   : True
+[2018/8/29 14:35:41] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/29 14:35:41] BigData-> clickEvent :SB011
+[2018/8/29 14:40:42] App_Deactivated
+[2018/8/29 14:41:43] App_Deactivated
+[2018/8/29 14:44:29] App_Deactivated
+[2018/8/29 14:45:54] App_Deactivated
+[2018/8/29 14:46:02] App_Deactivated
+[2018/8/29 14:57:24] App_Deactivated
+[2018/8/29 14:58:03] App_Deactivated
+[2018/8/29 14:59:26] App_Deactivated
+[2018/8/29 15:00:09] App_Deactivated
+[2018/8/29 15:00:10] App_Deactivated
+[2018/8/29 15:02:58] App_Deactivated
+[2018/8/29 15:03:19] App_Deactivated
+[2018/8/29 15:03:39] App_Deactivated
+[2018/8/29 15:06:32] BigData-> businessEvent :SB002
+[2018/8/29 15:37:05] App_Deactivated
+[2018/8/29 15:37:20] BigData-> businessEvent :SB002
+[2018/8/29 15:40:00] App_Deactivated
+[2018/8/29 16:04:24] App_Deactivated
+[2018/8/29 16:04:54] App_Deactivated
+[2018/8/29 16:08:08] BigData-> businessEvent :SB002
+[2018/8/29 16:09:50] App_Deactivated
+[2018/8/29 16:38:57] BigData-> businessEvent :SB002
+[2018/8/29 17:09:42] BigData-> businessEvent :SB002
+[2018/8/29 17:16:23] App_Deactivated
+[2018/8/29 17:27:36] App_Deactivated
+[2018/8/29 17:27:50] App_Deactivated
+[2018/8/29 17:28:09] App_Deactivated
+[2018/8/29 17:31:39] App_Deactivated
+[2018/8/29 17:31:49]  GridWing.Visibility : Visible
+[2018/8/29 17:31:53] App_Deactivated
+[2018/8/29 17:31:53] GridWing.Visibility = Visibility.Collapsed
+[2018/8/29 17:31:53] GetGameNoDisStatus :False
+[2018/8/29 17:32:11] App_Deactivated
+[2018/8/29 17:32:25] App_Deactivated
+[2018/8/29 17:32:47] App_Deactivated
+[2018/8/29 17:33:13] App_Deactivated
+[2018/8/29 17:35:13] App_Deactivated
+[2018/8/29 17:35:27] App_Deactivated
+[2018/8/29 17:40:19] BigData-> businessEvent :SB002
+[2018/8/29 17:54:38] App_Deactivated
+[2018/8/29 17:55:09]  GridWing.Visibility : Visible
+[2018/8/29 17:55:13] App_Deactivated
+[2018/8/29 17:55:15] GridWing.Visibility = Visibility.Collapsed
+[2018/8/29 17:55:15] GetGameNoDisStatus :False
+[2018/8/29 17:55:34] App_Deactivated
+[2018/8/29 17:55:36] App_Deactivated
+[2018/8/29 17:55:42] App_Deactivated
+[2018/8/29 17:56:47] App_Deactivated
+[2018/8/29 17:56:51]  GridWing.Visibility : Visible
+[2018/8/29 17:56:52] App_Deactivated
+[2018/8/29 17:56:55] GridWing.Visibility = Visibility.Collapsed
+[2018/8/29 17:56:55] GetGameNoDisStatus :False
+[2018/8/29 17:57:41] App_Deactivated
+[2018/8/29 17:57:53] App_Deactivated
+[2018/8/29 18:10:59] BigData-> businessEvent :SB002
+[2018/8/29 18:25:48] App_Deactivated
+[2018/8/29 18:25:57] App_Deactivated
+[2018/8/29 18:26:51] App_Deactivated
+[2018/8/29 18:26:52] ClearMemory
+[2018/8/29 18:26:54] App_Deactivated
+[2018/8/29 18:29:04] App_Deactivated
+[2018/8/29 18:29:05] ClearMemory
+[2018/8/29 18:29:07] App_Deactivated
+[2018/8/29 18:34:23] App_Deactivated
+[2018/8/29 18:34:46] App_Deactivated
+[2018/8/29 18:34:51] App_Deactivated
+[2018/8/29 18:34:59] App_Deactivated
+[2018/8/29 18:36:57] App_Deactivated
+[2018/8/30 9:08:34] AccelBall Start 
+[2018/8/30 9:08:34] IsXiaoXinPC   : True
+[2018/8/30 9:08:34] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/30 9:08:34] BigData-> clickEvent :SB011
+[2018/8/30 9:21:07] App_Deactivated
+[2018/8/30 9:23:37] App_Deactivated
+[2018/8/30 9:37:30] App_Deactivated
+[2018/8/30 9:37:40] App_Deactivated
+[2018/8/30 9:39:27] BigData-> businessEvent :SB002
+[2018/8/30 9:45:57] App_Deactivated
+[2018/8/30 9:53:18] App_Deactivated
+[2018/8/30 9:56:08] App_Deactivated
+[2018/8/30 9:56:32] App_Deactivated
+[2018/8/30 9:56:33] App_Deactivated
+[2018/8/30 10:00:29] App_Deactivated
+[2018/8/30 10:00:43] App_Deactivated
+[2018/8/30 10:00:59] App_Deactivated
+[2018/8/30 10:01:00] App_Deactivated
+[2018/8/30 10:01:05] App_Deactivated
+[2018/8/30 10:01:06] App_Deactivated
+[2018/8/30 10:02:54] App_Deactivated
+[2018/8/30 10:02:56] App_Deactivated
+[2018/8/30 10:03:12] App_Deactivated
+[2018/8/30 10:03:14] App_Deactivated
+[2018/8/30 10:10:16] BigData-> businessEvent :SB002
+[2018/8/30 10:41:09] BigData-> businessEvent :SB002
+[2018/8/30 10:44:17] App_Deactivated
+[2018/8/30 10:50:29]  GridWing.Visibility : Visible
+[2018/8/30 10:50:47] GridWing.Visibility = Visibility.Collapsed
+[2018/8/30 10:50:47] GetGameNoDisStatus :False
+[2018/8/30 10:53:42] App_Deactivated
+[2018/8/30 10:53:44] App_Deactivated
+[2018/8/30 10:54:14] App_Deactivated
+[2018/8/30 10:55:18] App_Deactivated
+[2018/8/30 10:56:49] App_Deactivated
+[2018/8/30 10:57:29] App_Deactivated
+[2018/8/30 11:01:51] App_Deactivated
+[2018/8/30 11:01:59] App_Deactivated
+[2018/8/30 11:02:41] App_Deactivated
+[2018/8/30 11:03:16] App_Deactivated
+[2018/8/30 11:03:22] App_Deactivated
+[2018/8/30 11:07:59] App_Deactivated
+[2018/8/30 11:10:38] App_Deactivated
+[2018/8/30 11:12:04] BigData-> businessEvent :SB002
+[2018/8/30 11:43:04] BigData-> businessEvent :SB002
+[2018/8/30 12:14:00] BigData-> businessEvent :SB002
+[2018/8/30 12:44:00] BigData-> businessEvent :SB002
+[2018/8/30 13:14:42] BigData-> businessEvent :SB002
+[2018/8/30 13:45:21] BigData-> businessEvent :SB002
+[2018/8/30 14:16:06] BigData-> businessEvent :SB002
+[2018/8/30 14:46:57] BigData-> businessEvent :SB002
+[2018/8/30 15:11:58] App_Deactivated
+[2018/8/30 15:13:40] App_Deactivated
+[2018/8/30 15:14:04] App_Deactivated
+[2018/8/30 15:14:35] App_Deactivated
+[2018/8/30 15:14:35] App_Deactivated
+[2018/8/30 15:14:36] App_Deactivated
+[2018/8/30 15:14:43] App_Deactivated
+[2018/8/30 15:40:41] AccelBall Start 
+[2018/8/30 15:40:41] IsXiaoXinPC   : True
+[2018/8/30 15:40:41] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/30 15:40:41] BigData-> clickEvent :SB011
+[2018/8/30 15:41:31] App_Deactivated
+[2018/8/30 15:41:32] App_Deactivated
+[2018/8/30 15:41:43] App_Deactivated
+[2018/8/30 15:41:44] App_Deactivated
+[2018/8/30 15:44:29] AccelBall Start 
+[2018/8/30 15:44:29] IsXiaoXinPC   : True
+[2018/8/30 15:44:29] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/30 15:44:29] BigData-> clickEvent :SB011
+[2018/8/30 15:44:39] App_Deactivated
+[2018/8/30 15:45:26] App_Deactivated
+[2018/8/30 15:58:43] App_Deactivated
+[2018/8/30 15:59:00] App_Deactivated
+[2018/8/30 16:01:41] App_Deactivated
+[2018/8/30 16:01:41] App_Deactivated
+[2018/8/30 16:06:36] App_Deactivated
+[2018/8/30 16:10:07] App_Deactivated
+[2018/8/30 16:11:13] App_Deactivated
+[2018/8/30 16:14:26] BigData-> businessEvent :SB002
+[2018/8/30 16:15:54] App_Deactivated
+[2018/8/30 16:16:01] App_Deactivated
+[2018/8/30 16:16:14] App_Deactivated
+[2018/8/30 16:16:38] App_Deactivated
+[2018/8/30 16:16:39] App_Deactivated
+[2018/8/30 16:16:40] App_Deactivated
+[2018/8/30 16:17:04] App_Deactivated
+[2018/8/30 16:17:25] App_Deactivated
+[2018/8/30 16:20:42] App_Deactivated
+[2018/8/30 16:33:48] App_Deactivated
+[2018/8/30 16:36:04] App_Deactivated
+[2018/8/30 16:45:12] BigData-> businessEvent :SB002
+[2018/8/30 16:57:26] App_Deactivated
+[2018/8/30 16:58:41] App_Deactivated
+[2018/8/30 17:00:10] App_Deactivated
+[2018/8/30 17:00:20] App_Deactivated
+[2018/8/30 17:00:50] App_Deactivated
+[2018/8/30 17:00:55] App_Deactivated
+[2018/8/30 17:01:32] App_Deactivated
+[2018/8/30 17:01:33] App_Deactivated
+[2018/8/30 17:01:35] App_Deactivated
+[2018/8/30 17:01:38] App_Deactivated
+[2018/8/30 17:01:55] App_Deactivated
+[2018/8/30 17:03:28] App_Deactivated
+[2018/8/30 17:03:31] App_Deactivated
+[2018/8/30 17:04:46] App_Deactivated
+[2018/8/30 17:06:05] App_Deactivated
+[2018/8/30 17:06:21] App_Deactivated
+[2018/8/30 17:10:53] App_Deactivated
+[2018/8/30 17:15:55] BigData-> businessEvent :SB002
+[2018/8/30 17:16:14] App_Deactivated
+[2018/8/30 17:16:16] App_Deactivated
+[2018/8/30 17:16:18] App_Deactivated
+[2018/8/30 17:16:19] App_Deactivated
+[2018/8/30 17:16:31] App_Deactivated
+[2018/8/30 17:16:33] App_Deactivated
+[2018/8/30 17:46:41] BigData-> businessEvent :SB002
+[2018/8/30 18:03:11] App_Deactivated
+[2018/8/30 18:07:26] App_Deactivated
+[2018/8/30 18:08:05] App_Deactivated
+[2018/8/30 18:09:43] App_Deactivated
+[2018/8/30 18:17:21] BigData-> businessEvent :SB002
+[2018/8/30 18:18:06] App_Deactivated
+[2018/8/30 18:21:43] App_Deactivated
+[2018/8/30 18:21:44] App_Deactivated
+[2018/8/30 18:21:50] App_Deactivated
+[2018/8/30 18:23:02] App_Deactivated
+[2018/8/30 18:30:50] App_Deactivated
+[2018/8/30 18:35:11] App_Deactivated
+[2018/8/30 18:35:43] App_Deactivated
+[2018/8/30 18:45:33] App_Deactivated
+[2018/8/30 18:48:09] BigData-> businessEvent :SB002
+[2018/8/30 18:48:55] App_Deactivated
+[2018/8/30 18:49:15] App_Deactivated
+[2018/8/30 18:49:45] App_Deactivated
+[2018/8/30 18:49:46] App_Deactivated
+[2018/8/30 18:49:58] App_Deactivated
+[2018/8/30 18:49:59] App_Deactivated
+[2018/8/30 18:50:00] App_Deactivated
+[2018/8/30 18:50:03] App_Deactivated
+[2018/8/30 18:51:37] App_Deactivated
+[2018/8/30 19:07:08] App_Deactivated
+[2018/8/30 19:07:19] App_Deactivated
+[2018/8/30 19:07:41] App_Deactivated
+[2018/8/30 19:07:44] App_Deactivated
+[2018/8/31 9:06:38] AccelBall Start 
+[2018/8/31 9:06:38] IsXiaoXinPC   : True
+[2018/8/31 9:06:38] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/31 9:06:38] BigData-> clickEvent :SB011
+[2018/8/31 9:07:54] App_Deactivated
+[2018/8/31 9:09:04] App_Deactivated
+[2018/8/31 9:09:31] App_Deactivated
+[2018/8/31 9:09:32] App_Deactivated
+[2018/8/31 9:10:59] App_Deactivated
+[2018/8/31 9:11:34] App_Deactivated
+[2018/8/31 9:37:32] BigData-> businessEvent :SB002
+[2018/8/31 9:48:17] App_Deactivated
+[2018/8/31 9:48:39] App_Deactivated
+[2018/8/31 9:48:55]  GridWing.Visibility : Visible
+[2018/8/31 9:49:05] GridWing.Visibility = Visibility.Collapsed
+[2018/8/31 9:49:05] GetGameNoDisStatus :False
+[2018/8/31 9:49:11] App_Deactivated
+[2018/8/31 9:49:16] App_Deactivated
+[2018/8/31 9:52:03] App_Deactivated
+[2018/8/31 10:08:27] BigData-> businessEvent :SB002
+[2018/8/31 10:15:55] App_Deactivated
+[2018/8/31 10:15:57] App_Deactivated
+[2018/8/31 10:15:59] App_Deactivated
+[2018/8/31 10:16:43] App_Deactivated
+[2018/8/31 10:16:58] App_Deactivated
+[2018/8/31 10:25:24] App_Deactivated
+[2018/8/31 10:25:26] App_Deactivated
+[2018/8/31 10:31:49] App_Deactivated
+[2018/8/31 10:39:24] BigData-> businessEvent :SB002
+[2018/8/31 10:49:37] App_Deactivated
+[2018/8/31 10:50:15] App_Deactivated
+[2018/8/31 10:51:58] App_Deactivated
+[2018/8/31 10:52:17] App_Deactivated
+[2018/8/31 10:52:20] App_Deactivated
+[2018/8/31 10:52:53] App_Deactivated
+[2018/8/31 10:52:56] App_Deactivated
+[2018/8/31 10:52:58] App_Deactivated
+[2018/8/31 10:54:22] App_Deactivated
+[2018/8/31 10:54:25] App_Deactivated
+[2018/8/31 10:54:30] App_Deactivated
+[2018/8/31 11:07:56] App_Deactivated
+[2018/8/31 11:10:17] BigData-> businessEvent :SB002
+[2018/8/31 11:11:22] App_Deactivated
+[2018/8/31 11:15:55] App_Deactivated
+[2018/8/31 11:16:13] App_Deactivated
+[2018/8/31 11:17:38] App_Deactivated
+[2018/8/31 11:17:51] App_Deactivated
+[2018/8/31 11:18:00] App_Deactivated
+[2018/8/31 11:18:02] App_Deactivated
+[2018/8/31 11:18:51] App_Deactivated
+[2018/8/31 11:27:59] App_Deactivated
+[2018/8/31 11:28:01] App_Deactivated
+[2018/8/31 11:31:17] App_Deactivated
+[2018/8/31 11:33:43] App_Deactivated
+[2018/8/31 11:34:08] App_Deactivated
+[2018/8/31 11:34:09] App_Deactivated
+[2018/8/31 11:34:26] App_Deactivated
+[2018/8/31 11:34:28] App_Deactivated
+[2018/8/31 11:34:30] App_Deactivated
+[2018/8/31 11:39:27] App_Deactivated
+[2018/8/31 11:40:10] App_Deactivated
+[2018/8/31 11:40:11] ClearMemory
+[2018/8/31 11:40:13] App_Deactivated
+[2018/8/31 11:40:20] App_Deactivated
+[2018/8/31 11:41:15] BigData-> businessEvent :SB002
+[2018/8/31 11:45:31] App_Deactivated
+[2018/8/31 11:45:38] App_Deactivated
+[2018/8/31 11:47:33] App_Deactivated
+[2018/8/31 12:12:19] BigData-> businessEvent :SB002
+[2018/8/31 12:45:38] ClearMemory
+[2018/8/31 12:45:52] App_Deactivated
+[2018/8/31 12:45:55] App_Deactivated
+[2018/8/31 12:46:08] App_Deactivated
+[2018/8/31 12:46:52] App_Deactivated
+[2018/8/31 12:54:56] BigData-> businessEvent :SB002
+[2018/8/31 14:06:14] App_Deactivated
+[2018/8/31 14:06:22] App_Deactivated
+[2018/8/31 14:06:34] App_Deactivated
+[2018/8/31 14:07:02] App_Deactivated
+[2018/8/31 14:08:52] App_Deactivated
+[2018/8/31 14:11:00] BigData-> businessEvent :SB002
+[2018/8/31 14:11:41] App_Deactivated
+[2018/8/31 14:11:58] App_Deactivated
+[2018/8/31 14:12:13] App_Deactivated
+[2018/8/31 14:34:03] App_Deactivated
+[2018/8/31 14:41:27] App_Deactivated
+[2018/8/31 14:42:06] App_Deactivated
+[2018/8/31 14:42:06] BigData-> businessEvent :SB002
+[2018/8/31 14:51:56] App_Deactivated
+[2018/8/31 14:55:17] App_Deactivated
+[2018/8/31 14:55:27] App_Deactivated
+[2018/8/31 14:55:47] App_Deactivated
+[2018/8/31 15:01:57]  GridWing.Visibility : Visible
+[2018/8/31 15:02:00] App_Deactivated
+[2018/8/31 15:02:02] ClearMemory
+[2018/8/31 15:02:02]  GridWing.Visibility : Visible
+[2018/8/31 15:02:04] App_Deactivated
+[2018/8/31 15:02:06] GridWing.Visibility = Visibility.Collapsed
+[2018/8/31 15:02:06] GetGameNoDisStatus :False
+[2018/8/31 15:13:43] BigData-> businessEvent :SB002
+[2018/8/31 15:19:11] App_Deactivated
+[2018/8/31 15:26:49] App_Deactivated
+[2018/8/31 15:44:36] BigData-> businessEvent :SB002
+[2018/8/31 15:48:08] App_Deactivated
+[2018/8/31 15:48:15] App_Deactivated
+[2018/8/31 15:49:53] App_Deactivated
+[2018/8/31 15:50:04] App_Deactivated
+[2018/8/31 15:51:49] App_Deactivated
+[2018/8/31 15:52:47] App_Deactivated
+[2018/8/31 15:54:48] App_Deactivated
+[2018/8/31 15:54:52] App_Deactivated
+[2018/8/31 15:54:52] App_Deactivated
+[2018/8/31 15:58:31] App_Deactivated
+[2018/8/31 15:58:44] App_Deactivated
+[2018/8/31 16:04:09] App_Deactivated
+[2018/8/31 16:04:43] App_Deactivated
+[2018/8/31 16:04:47] App_Deactivated
+[2018/8/31 16:04:56] App_Deactivated
+[2018/8/31 16:11:16] App_Deactivated
+[2018/8/31 16:11:21] App_Deactivated
+[2018/8/31 16:12:12] App_Deactivated
+[2018/8/31 16:13:28] App_Deactivated
+[2018/8/31 16:13:31] App_Deactivated
+[2018/8/31 16:13:34] App_Deactivated
+[2018/8/31 16:13:48] App_Deactivated
+[2018/8/31 16:13:50] App_Deactivated
+[2018/8/31 16:15:27] BigData-> businessEvent :SB002
+[2018/8/31 16:26:19] App_Deactivated
+[2018/8/31 16:26:53] App_Deactivated
+[2018/8/31 16:26:56] App_Deactivated
+[2018/8/31 16:27:03] App_Deactivated
+[2018/8/31 16:27:21] App_Deactivated
+[2018/8/31 16:34:36] App_Deactivated
+[2018/8/31 16:46:19] BigData-> businessEvent :SB002
+[2018/8/31 16:57:17] App_Deactivated
+[2018/8/31 16:57:32] App_Deactivated
+[2018/8/31 17:17:16] BigData-> businessEvent :SB002
+[2018/8/31 17:27:08] App_Deactivated
+[2018/8/31 17:27:48] App_Deactivated
+[2018/8/31 17:48:12] BigData-> businessEvent :SB002
+[2018/8/31 17:53:05] App_Deactivated
+[2018/8/31 17:56:19] App_Deactivated
+[2018/8/31 17:56:38] App_Deactivated
+[2018/8/31 17:56:48] App_Deactivated
+[2018/8/31 17:57:13] App_Deactivated
+[2018/8/31 17:59:04] App_Deactivated
+[2018/8/31 17:59:13] App_Deactivated
+[2018/8/31 18:15:51] App_Deactivated
+[2018/8/31 18:15:52] App_Deactivated
+[2018/8/31 18:16:20] App_Deactivated
+[2018/8/31 18:18:12] App_Deactivated
+[2018/8/31 18:19:03] BigData-> businessEvent :SB002
+[2018/8/31 18:29:42] App_Deactivated
+[2018/8/31 18:29:46] App_Deactivated
+[2018/8/31 18:30:01] App_Deactivated
+[2018/8/31 18:34:31] App_Deactivated
+[2018/8/31 18:35:01] App_Deactivated
+[2018/8/31 18:35:03] App_Deactivated
+[2018/8/31 18:39:43] App_Deactivated
+[2018/8/31 18:39:45] App_Deactivated
+[2018/8/31 18:41:03] App_Deactivated
+[2018/8/31 18:41:24] App_Deactivated
+[2018/8/31 18:43:58] App_Deactivated
+[2018/8/31 18:46:03] App_Deactivated
+[2018/8/31 18:50:03] BigData-> businessEvent :SB002
+[2018/8/31 19:13:44] App_Deactivated
+[2018/8/31 19:13:48] App_Deactivated
+[2018/8/31 19:13:49] App_Deactivated
+[2018/8/31 19:13:49] App_Deactivated
+[2018/8/31 19:13:50] App_Deactivated
+[2018/8/31 19:13:54] App_Deactivated
+[2018/9/3 9:49:13] AccelBall Start 
+[2018/9/3 9:49:13] IsXiaoXinPC   : True
+[2018/9/3 9:49:13] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/3 9:49:13] BigData-> clickEvent :SB011
+[2018/9/3 9:49:47] App_Deactivated
+[2018/9/3 9:49:55] ClearMemory
+[2018/9/3 9:50:01] App_Deactivated
+[2018/9/3 9:50:23] App_Deactivated
+[2018/9/3 9:53:51] App_Deactivated
+[2018/9/3 9:54:38] App_Deactivated
+[2018/9/3 9:54:59] App_Deactivated
+[2018/9/3 9:58:01] App_Deactivated
+[2018/9/3 10:00:44] App_Deactivated
+[2018/9/3 10:01:28] App_Deactivated
+[2018/9/3 10:01:39] App_Deactivated
+[2018/9/3 10:11:14] App_Deactivated
+[2018/9/3 10:11:19] App_Deactivated
+[2018/9/3 10:11:52] App_Deactivated
+[2018/9/3 10:11:54] App_Deactivated
+[2018/9/3 10:12:33] App_Deactivated
+[2018/9/3 10:12:42] App_Deactivated
+[2018/9/3 10:20:11] BigData-> businessEvent :SB002
+[2018/9/3 10:33:21] App_Deactivated
+[2018/9/3 10:33:45] App_Deactivated
+[2018/9/3 10:33:55] App_Deactivated
+[2018/9/3 10:42:13] App_Deactivated
+[2018/9/3 10:42:59] App_Deactivated
+[2018/9/3 10:51:16] BigData-> businessEvent :SB002
+[2018/9/3 11:11:17] App_Deactivated
+[2018/9/3 11:11:42] App_Deactivated
+[2018/9/3 11:22:19] BigData-> businessEvent :SB002
+[2018/9/3 11:53:23] BigData-> businessEvent :SB002
+[2018/9/3 12:24:21] BigData-> businessEvent :SB002
+[2018/9/3 14:48:13] BigData-> businessEvent :SB002
+[2018/9/3 15:08:53] App_Deactivated
+[2018/9/3 15:09:10] App_Deactivated
+[2018/9/3 15:09:12] App_Deactivated
+[2018/9/3 15:09:18] App_Deactivated
+[2018/9/3 15:13:01] App_Deactivated
+[2018/9/3 15:13:03] App_Deactivated
+[2018/9/3 15:13:07] App_Deactivated
+[2018/9/3 15:13:08] App_Deactivated
+[2018/9/3 15:19:13] BigData-> businessEvent :SB002
+[2018/9/3 15:29:35] App_Deactivated
+[2018/9/3 15:31:41] App_Deactivated
+[2018/9/3 15:44:05] ClearMemory
+[2018/9/3 15:44:06]  GridWing.Visibility : Visible
+[2018/9/3 15:44:08] ClearMemory
+[2018/9/3 15:44:12] App_Deactivated
+[2018/9/3 15:44:55] App_Deactivated
+[2018/9/3 15:46:12] App_Deactivated
+[2018/9/3 15:50:14] BigData-> businessEvent :SB002
+[2018/9/3 15:50:22] App_Deactivated
+[2018/9/3 15:50:24] App_Deactivated
+[2018/9/3 15:55:38] App_Deactivated
+[2018/9/3 15:56:02] App_Deactivated
+[2018/9/3 15:56:24] App_Deactivated
+[2018/9/3 15:56:31] App_Deactivated
+[2018/9/3 15:56:38] App_Deactivated
+[2018/9/3 15:57:17] App_Deactivated
+[2018/9/3 15:57:18] App_Deactivated
+[2018/9/3 15:57:19] App_Deactivated
+[2018/9/3 15:57:20] App_Deactivated
+[2018/9/3 15:57:22] App_Deactivated
+[2018/9/3 15:57:26] App_Deactivated
+[2018/9/3 15:57:35] App_Deactivated
+[2018/9/3 15:57:41] App_Deactivated
+[2018/9/3 15:58:47] App_Deactivated
+[2018/9/3 16:02:12] App_Deactivated
+[2018/9/3 16:02:14] App_Deactivated
+[2018/9/3 16:06:42] App_Deactivated
+[2018/9/3 16:21:20] BigData-> businessEvent :SB002
+[2018/9/3 16:52:25] BigData-> businessEvent :SB002
+[2018/9/3 17:10:03] App_Deactivated
+[2018/9/3 17:10:05] App_Deactivated
+[2018/9/3 17:10:19] App_Deactivated
+[2018/9/3 17:15:12] App_Deactivated
+[2018/9/3 17:15:21] App_Deactivated
+[2018/9/3 17:15:24] App_Deactivated
+[2018/9/3 17:15:28] App_Deactivated
+[2018/9/3 17:15:32] App_Deactivated
+[2018/9/3 17:15:33] App_Deactivated
+[2018/9/3 17:18:24] App_Deactivated
+[2018/9/3 17:19:35] App_Deactivated
+[2018/9/3 17:23:31] BigData-> businessEvent :SB002
+[2018/9/3 17:53:15] App_Deactivated
+[2018/9/3 17:54:16] App_Deactivated
+[2018/9/3 17:54:35] BigData-> businessEvent :SB002
+[2018/9/3 17:55:27] App_Deactivated
+[2018/9/3 17:57:05] App_Deactivated
+[2018/9/3 18:00:20] App_Deactivated
+[2018/9/3 18:01:35] App_Deactivated
+[2018/9/3 18:11:02] App_Deactivated
+[2018/9/3 18:11:06] App_Deactivated
+[2018/9/3 18:11:40] App_Deactivated
+[2018/9/3 18:11:47] App_Deactivated
+[2018/9/3 18:12:39] App_Deactivated
+[2018/9/3 18:17:41] App_Deactivated
+[2018/9/3 18:17:50] App_Deactivated
+[2018/9/3 18:17:58] App_Deactivated
+[2018/9/3 18:18:04] App_Deactivated
+[2018/9/3 18:18:08] App_Deactivated
+[2018/9/3 18:25:40] BigData-> businessEvent :SB002
+[2018/9/3 18:38:51] App_Deactivated
+[2018/9/3 18:41:33] App_Deactivated
+[2018/9/3 18:41:39] App_Deactivated
+[2018/9/3 18:41:40] App_Deactivated
+[2018/9/3 18:44:58] App_Deactivated
+[2018/9/3 18:49:46] App_Deactivated
+[2018/9/3 18:49:55] App_Deactivated
+[2018/9/3 18:50:51] App_Deactivated
+[2018/9/3 18:56:36] BigData-> businessEvent :SB002
+[2018/9/3 18:59:45] App_Deactivated
+[2018/9/3 19:00:31] App_Deactivated
+[2018/9/3 19:00:46] App_Deactivated
+[2018/9/3 19:02:30] App_Deactivated
+[2018/9/3 19:02:32] App_Deactivated
+[2018/9/3 19:02:42] App_Deactivated
+[2018/9/3 19:07:50] App_Deactivated
+[2018/9/3 19:08:32] App_Deactivated
+[2018/9/3 19:08:55] App_Deactivated
+[2018/9/3 19:09:30] App_Deactivated
+[2018/9/3 19:09:51] App_Deactivated
+[2018/9/3 19:12:01] App_Deactivated
+[2018/9/3 19:16:02] App_Deactivated
+[2018/9/3 19:21:30] App_Deactivated
+[2018/9/3 19:27:39] BigData-> businessEvent :SB002
+[2018/9/3 19:29:15] App_Deactivated
+[2018/9/3 19:34:08] App_Deactivated
+[2018/9/3 19:34:10] App_Deactivated
+[2018/9/3 19:34:14] App_Deactivated
+[2018/9/3 19:34:18] App_Deactivated
+[2018/9/3 19:34:25] App_Deactivated
+[2018/9/3 19:34:26] App_Deactivated
+[2018/9/3 19:34:27] App_Deactivated
+[2018/9/3 19:34:36] App_Deactivated
+[2018/9/4 9:30:10] AccelBall Start 
+[2018/9/4 9:30:10] IsXiaoXinPC   : True
+[2018/9/4 9:30:10] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/4 9:30:10] BigData-> clickEvent :SB011
+[2018/9/4 9:30:19] App_Deactivated
+[2018/9/4 9:31:58] App_Deactivated
+[2018/9/4 9:33:13] App_Deactivated
+[2018/9/4 9:36:39] App_Deactivated
+[2018/9/4 9:37:14] App_Deactivated
+[2018/9/4 10:01:08] BigData-> businessEvent :SB002
+[2018/9/4 10:12:59] App_Deactivated
+[2018/9/4 10:13:08] App_Deactivated
+[2018/9/4 10:14:36]  GridWing.Visibility : Visible
+[2018/9/4 10:14:37] App_Deactivated
+[2018/9/4 10:14:40] GridWing.Visibility = Visibility.Collapsed
+[2018/9/4 10:14:40] GetGameNoDisStatus :False
+[2018/9/4 10:32:15] BigData-> businessEvent :SB002
+[2018/9/4 11:03:03] BigData-> businessEvent :SB002
+[2018/9/4 11:03:22] App_Deactivated
+[2018/9/4 11:06:32] App_Deactivated
+[2018/9/4 11:06:47] App_Deactivated
+[2018/9/4 11:07:28] App_Deactivated
+[2018/9/4 11:07:34] App_Deactivated
+[2018/9/4 11:19:43] App_Deactivated
+[2018/9/4 11:34:12] BigData-> businessEvent :SB002
+[2018/9/4 11:52:57] ClearMemory
+[2018/9/4 11:52:58]  GridWing.Visibility : Visible
+[2018/9/4 11:53:02] GridWing.Visibility = Visibility.Collapsed
+[2018/9/4 11:53:02] GetGameNoDisStatus :False
+[2018/9/4 11:53:04] App_Deactivated
+[2018/9/4 12:05:16] BigData-> businessEvent :SB002
+[2018/9/4 12:36:23] BigData-> businessEvent :SB002
+[2018/9/4 14:33:50] BigData-> businessEvent :SB002
+[2018/9/4 14:55:34] App_Deactivated
+[2018/9/4 14:55:37] App_Deactivated
+[2018/9/4 15:04:54] BigData-> businessEvent :SB002
+[2018/9/4 15:35:41] BigData-> businessEvent :SB002
+[2018/9/4 16:06:25] BigData-> businessEvent :SB002
+[2018/9/4 16:14:17] App_Deactivated
+[2018/9/4 16:33:37] App_Deactivated
+[2018/9/4 16:33:38] App_Deactivated
+[2018/9/4 16:37:24] BigData-> businessEvent :SB002
+[2018/9/4 16:38:21] App_Deactivated
+[2018/9/4 17:08:25] BigData-> businessEvent :SB002
+[2018/9/4 17:16:20] ClearMemory
+[2018/9/4 17:16:22]  GridWing.Visibility : Visible
+[2018/9/4 17:16:27] GridWing.Visibility = Visibility.Collapsed
+[2018/9/4 17:16:27] GetGameNoDisStatus :False
+[2018/9/4 17:16:29] App_Deactivated
+[2018/9/4 17:26:50] App_Deactivated
+[2018/9/4 17:39:25] BigData-> businessEvent :SB002
+[2018/9/4 18:10:31] BigData-> businessEvent :SB002
+[2018/9/4 18:24:44] App_Deactivated
+[2018/9/4 18:35:57] App_Deactivated
+[2018/9/4 18:35:59] App_Deactivated
+[2018/9/4 18:38:29] App_Deactivated
+[2018/9/4 18:38:32] App_Deactivated
+[2018/9/4 18:38:32] App_Deactivated
+[2018/9/4 18:38:34] App_Deactivated
+[2018/9/5 9:08:47] AccelBall Start 
+[2018/9/5 9:08:47] IsXiaoXinPC   : True
+[2018/9/5 9:08:47] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/5 9:08:47] BigData-> clickEvent :SB011
+[2018/9/5 9:12:24] App_Deactivated
+[2018/9/5 9:12:54] App_Deactivated
+[2018/9/5 9:29:28] App_Deactivated
+[2018/9/5 9:39:32] BigData-> businessEvent :SB002
+[2018/9/5 9:44:54] App_Deactivated
+[2018/9/5 10:10:18] App_Deactivated
+[2018/9/5 10:10:24] BigData-> businessEvent :SB002
+[2018/9/5 10:10:26] App_Deactivated
+[2018/9/5 10:10:36] App_Deactivated
+[2018/9/5 10:10:44] App_Deactivated
+[2018/9/5 10:11:11] ClearMemory
+[2018/9/5 10:11:24] App_Deactivated
+[2018/9/5 10:11:28] App_Deactivated
+[2018/9/5 10:20:32] App_Deactivated
+[2018/9/5 10:41:15] BigData-> businessEvent :SB002
+[2018/9/5 11:12:00] BigData-> businessEvent :SB002
+[2018/9/5 11:37:06] App_Deactivated
+[2018/9/5 11:42:47] BigData-> businessEvent :SB002
+[2018/9/5 12:13:35] BigData-> businessEvent :SB002
+[2018/9/5 12:44:34] BigData-> businessEvent :SB002
+[2018/9/5 14:14:23] BigData-> businessEvent :SB002
+[2018/9/5 14:45:08] BigData-> businessEvent :SB002
+[2018/9/5 15:15:52] BigData-> businessEvent :SB002
+[2018/9/5 15:27:46] App_Deactivated
+[2018/9/5 15:32:10] App_Deactivated
+[2018/9/5 15:32:11] App_Deactivated
+[2018/9/5 15:32:17] App_Deactivated
+[2018/9/5 15:34:12] App_Deactivated
+[2018/9/5 15:43:45] App_Deactivated
+[2018/9/5 15:43:46] App_Deactivated
+[2018/9/5 15:43:47] App_Deactivated
+[2018/9/5 15:43:48] App_Deactivated
+[2018/9/5 15:43:50] App_Deactivated
+[2018/9/5 15:43:57] App_Deactivated
+[2018/9/5 15:43:59] App_Deactivated
+[2018/9/5 15:44:00] App_Deactivated
+[2018/9/5 15:44:14] App_Deactivated
+[2018/9/5 15:45:40] App_Deactivated
+[2018/9/5 15:46:45] BigData-> businessEvent :SB002
+[2018/9/5 16:17:41] BigData-> businessEvent :SB002
+[2018/9/5 16:48:40] BigData-> businessEvent :SB002
+[2018/9/5 17:19:39] BigData-> businessEvent :SB002
+[2018/9/5 17:41:48] App_Deactivated
+[2018/9/5 17:50:40] BigData-> businessEvent :SB002
+[2018/9/5 18:21:37] BigData-> businessEvent :SB002
+[2018/9/5 18:26:13] App_Deactivated
+[2018/9/5 18:27:28] App_Deactivated
+[2018/9/5 18:36:35] App_Deactivated
+[2018/9/5 18:43:13] App_Deactivated
+[2018/9/5 18:43:18] App_Deactivated
+[2018/9/5 18:43:18] App_Deactivated
+[2018/9/5 18:43:19] App_Deactivated
+[2018/9/6 9:06:07] AccelBall Start 
+[2018/9/6 9:06:07] IsXiaoXinPC   : True
+[2018/9/6 9:06:07] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/6 9:06:07] BigData-> clickEvent :SB011
+[2018/9/6 9:08:34] App_Deactivated
+[2018/9/6 9:21:07] App_Deactivated
+[2018/9/6 9:22:39] App_Deactivated
+[2018/9/6 9:28:47] App_Deactivated
+[2018/9/6 9:29:33] App_Deactivated
+[2018/9/6 9:29:48] App_Deactivated
+[2018/9/6 9:35:09] App_Deactivated
+[2018/9/6 9:36:55] BigData-> businessEvent :SB002
+[2018/9/6 9:39:16] App_Deactivated
+[2018/9/6 10:07:42] BigData-> businessEvent :SB002
+[2018/9/6 10:14:42] App_Deactivated
+[2018/9/6 10:38:32] BigData-> businessEvent :SB002
+[2018/9/6 10:59:42] App_Deactivated
+[2018/9/6 11:09:22] BigData-> businessEvent :SB002
+[2018/9/6 11:40:14] BigData-> businessEvent :SB002
+[2018/9/6 11:52:36] App_Deactivated
+[2018/9/6 11:53:02] App_Deactivated
+[2018/9/6 11:55:04] App_Deactivated
+[2018/9/6 11:55:08] App_Deactivated
+[2018/9/6 11:58:44] App_Deactivated
+[2018/9/6 12:11:05] BigData-> businessEvent :SB002
+[2018/9/6 12:41:54] BigData-> businessEvent :SB002
+[2018/9/6 14:03:03] App_Deactivated
+[2018/9/6 14:03:23] App_Deactivated
+[2018/9/6 14:03:45] App_Deactivated
+[2018/9/6 14:03:47] App_Deactivated
+[2018/9/6 14:03:48] App_Deactivated
+[2018/9/6 14:04:00] App_Deactivated
+[2018/9/6 14:22:43] BigData-> businessEvent :SB002
+[2018/9/6 14:53:31] BigData-> businessEvent :SB002
+[2018/9/6 15:24:15] BigData-> businessEvent :SB002
+[2018/9/6 15:55:14] BigData-> businessEvent :SB002
+[2018/9/6 16:18:39] App_Deactivated
+[2018/9/6 16:26:14] BigData-> businessEvent :SB002
+[2018/9/6 16:56:57] BigData-> businessEvent :SB002
+[2018/9/6 17:01:53] App_Deactivated
+[2018/9/6 17:27:42] BigData-> businessEvent :SB002
+[2018/9/6 17:58:26] BigData-> businessEvent :SB002
+[2018/9/6 18:01:26] App_Deactivated
+[2018/9/6 18:01:28] App_Deactivated
+[2018/9/6 18:01:28] App_Deactivated
+[2018/9/6 18:01:28] App_Deactivated
+[2018/9/6 18:01:34] App_Deactivated
+[2018/9/6 18:03:12] AccelBall Start 
+[2018/9/6 18:03:12] IsXiaoXinPC   : True
+[2018/9/6 18:03:12] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/6 18:03:12] BigData-> clickEvent :SB011
+[2018/9/6 18:03:18] App_Deactivated
+[2018/9/6 18:03:44] App_Deactivated
+[2018/9/6 18:05:16] App_Deactivated
+[2018/9/6 18:10:14] App_Deactivated
+[2018/9/6 18:12:46] App_Deactivated
+[2018/9/6 18:15:57] App_Deactivated
+[2018/9/6 18:33:50] BigData-> businessEvent :SB002
+[2018/9/6 18:36:21] App_Deactivated
+[2018/9/6 19:04:38] BigData-> businessEvent :SB002
+[2018/9/6 19:29:03] App_Deactivated
+[2018/9/6 19:29:08] App_Deactivated
+[2018/9/6 19:29:09] App_Deactivated
+[2018/9/6 19:29:11] App_Deactivated
+[2018/9/7 9:07:47] AccelBall Start 
+[2018/9/7 9:07:47] IsXiaoXinPC   : True
+[2018/9/7 9:07:47] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/7 9:07:47] BigData-> clickEvent :SB011
+[2018/9/7 9:10:53] App_Deactivated
+[2018/9/7 9:18:49] App_Deactivated
+[2018/9/7 9:20:59] App_Deactivated
+[2018/9/7 9:21:26] App_Deactivated
+[2018/9/7 9:38:37] BigData-> businessEvent :SB002
+[2018/9/7 10:09:32] BigData-> businessEvent :SB002
+[2018/9/7 10:34:41] App_Deactivated
+[2018/9/7 10:40:32] BigData-> businessEvent :SB002
+[2018/9/7 11:11:28] BigData-> businessEvent :SB002
+[2018/9/7 11:42:28] BigData-> businessEvent :SB002
+[2018/9/7 12:13:33] BigData-> businessEvent :SB002
+[2018/9/7 12:44:38] BigData-> businessEvent :SB002
+[2018/9/7 13:15:45] BigData-> businessEvent :SB002
+[2018/9/7 13:46:54] BigData-> businessEvent :SB002
+[2018/9/7 14:10:08] App_Deactivated
+[2018/9/7 14:10:11] App_Deactivated
+[2018/9/7 14:18:04] BigData-> businessEvent :SB002
+[2018/9/7 14:27:41] App_Deactivated
+[2018/9/7 14:28:06] App_Deactivated
+[2018/9/7 14:33:47] App_Deactivated
+[2018/9/7 14:35:04] App_Deactivated
+[2018/9/7 14:35:18] App_Deactivated
+[2018/9/7 14:49:00] BigData-> businessEvent :SB002
+[2018/9/7 15:01:40] App_Deactivated
+[2018/9/7 15:19:59] BigData-> businessEvent :SB002
+[2018/9/7 15:38:46] App_Deactivated
+[2018/9/7 15:39:33] App_Deactivated
+[2018/9/7 15:39:34] App_Deactivated
+[2018/9/7 15:39:38] App_Deactivated
+[2018/9/7 15:39:42] App_Deactivated
+[2018/9/7 15:39:47] App_Deactivated
+[2018/9/7 15:39:51] App_Deactivated
+[2018/9/7 15:42:32] App_Deactivated
+[2018/9/7 15:43:07] App_Deactivated
+[2018/9/7 15:50:55] BigData-> businessEvent :SB002
+[2018/9/7 15:56:23] App_Deactivated
+[2018/9/7 16:19:01] App_Deactivated
+[2018/9/7 16:22:00] BigData-> businessEvent :SB002
+[2018/9/7 16:52:58] BigData-> businessEvent :SB002
+[2018/9/7 17:24:01] BigData-> businessEvent :SB002
+[2018/9/7 17:33:21] App_Deactivated
+[2018/9/7 17:35:39] App_Deactivated
+[2018/9/7 17:55:00] BigData-> businessEvent :SB002
+[2018/9/7 18:21:50] App_Deactivated
+[2018/9/7 18:25:56] BigData-> businessEvent :SB002
+[2018/9/7 18:29:46]  GridWing.Visibility : Visible
+[2018/9/7 18:30:11] App_Deactivated
+[2018/9/7 18:30:12] GridWing.Visibility = Visibility.Collapsed
+[2018/9/7 18:30:12] GetGameNoDisStatus :False
+[2018/9/7 18:40:22] App_Deactivated
+[2018/9/7 18:40:32] App_Deactivated
+[2018/9/7 18:40:33] App_Deactivated
+[2018/9/7 18:40:34] App_Deactivated
+[2018/9/7 18:40:34] App_Deactivated
+[2018/9/7 18:40:34] App_Deactivated
+[2018/9/10 9:10:33] AccelBall Start 
+[2018/9/10 9:10:33] IsXiaoXinPC   : True
+[2018/9/10 9:10:33] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/10 9:10:33] BigData-> clickEvent :SB011
+[2018/9/10 9:17:01] App_Deactivated
+[2018/9/10 9:17:03] App_Deactivated
+[2018/9/10 9:17:55] App_Deactivated
+[2018/9/10 9:19:49] App_Deactivated
+[2018/9/10 9:20:53] App_Deactivated
+[2018/9/10 9:35:41] App_Deactivated
+[2018/9/10 9:41:18] BigData-> businessEvent :SB002
+[2018/9/10 9:55:03] App_Deactivated
+[2018/9/10 10:12:17] BigData-> businessEvent :SB002
+[2018/9/10 10:14:55] App_Deactivated
+[2018/9/10 10:15:48] App_Deactivated
+[2018/9/10 10:15:49] App_Deactivated
+[2018/9/10 10:15:55] App_Deactivated
+[2018/9/10 10:43:10] BigData-> businessEvent :SB002
+[2018/9/10 11:13:58] BigData-> businessEvent :SB002
+[2018/9/10 12:07:15] BigData-> businessEvent :SB002
+[2018/9/10 13:58:53] BigData-> businessEvent :SB002
+[2018/9/10 14:29:45] BigData-> businessEvent :SB002
+[2018/9/10 15:00:39] BigData-> businessEvent :SB002
+[2018/9/10 15:31:29] BigData-> businessEvent :SB002
+[2018/9/10 16:02:15] BigData-> businessEvent :SB002
+[2018/9/10 16:19:17] App_Deactivated
+[2018/9/10 16:33:06] BigData-> businessEvent :SB002
+[2018/9/10 16:45:52] App_Deactivated
+[2018/9/10 16:47:03] App_Deactivated
+[2018/9/10 17:03:54] BigData-> businessEvent :SB002
+[2018/9/10 17:07:57] App_Deactivated
+[2018/9/10 17:16:17] App_Deactivated
+[2018/9/10 17:16:21] App_Deactivated
+[2018/9/10 17:34:41] BigData-> businessEvent :SB002
+[2018/9/10 17:43:44] App_Deactivated
+[2018/9/10 18:05:30] BigData-> businessEvent :SB002
+[2018/9/10 18:11:59] App_Deactivated
+[2018/9/10 18:36:01] BigData-> businessEvent :SB002
+[2018/9/10 18:42:54] App_Deactivated
+[2018/9/10 18:42:58] App_Deactivated
+[2018/9/10 18:43:00] App_Deactivated
+[2018/9/11 9:15:58] AccelBall Start 
+[2018/9/11 9:15:58] IsXiaoXinPC   : True
+[2018/9/11 9:15:58] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/11 9:15:58] BigData-> clickEvent :SB011
+[2018/9/11 9:17:57] App_Deactivated
+[2018/9/11 9:18:10] App_Deactivated
+[2018/9/11 9:18:12] App_Deactivated
+[2018/9/11 9:21:19] App_Deactivated
+[2018/9/11 9:46:45] BigData-> businessEvent :SB002
+[2018/9/11 10:00:10] App_Deactivated
+[2018/9/11 10:00:12] App_Deactivated
+[2018/9/11 10:00:41] App_Deactivated
+[2018/9/11 10:00:43] App_Deactivated
+[2018/9/11 10:01:08] App_Deactivated
+[2018/9/11 10:01:11] App_Deactivated
+[2018/9/11 10:01:41] App_Deactivated
+[2018/9/11 10:05:07] App_Deactivated
+[2018/9/11 10:14:54] App_Deactivated
+[2018/9/11 10:17:32] BigData-> businessEvent :SB002
+[2018/9/11 10:48:23] BigData-> businessEvent :SB002
+[2018/9/11 11:19:16] BigData-> businessEvent :SB002
+[2018/9/11 11:27:56] App_Deactivated
+[2018/9/11 11:50:02] BigData-> businessEvent :SB002
+[2018/9/11 14:19:32] BigData-> businessEvent :SB002
+[2018/9/11 14:48:29] App_Deactivated
+[2018/9/11 14:50:17] BigData-> businessEvent :SB002
+[2018/9/11 15:20:49] BigData-> businessEvent :SB002
+[2018/9/11 15:43:01] App_Deactivated
+[2018/9/11 15:51:35] BigData-> businessEvent :SB002
+[2018/9/11 16:22:28] BigData-> businessEvent :SB002
+[2018/9/11 16:50:30] App_Deactivated
+[2018/9/11 16:50:33] App_Deactivated
+[2018/9/11 16:50:53] App_Deactivated
+[2018/9/11 16:52:03] App_Deactivated
+[2018/9/11 16:52:35] App_Deactivated
+[2018/9/11 16:52:57] App_Deactivated
+[2018/9/11 16:53:19] BigData-> businessEvent :SB002
+[2018/9/11 16:57:29] App_Deactivated
+[2018/9/11 17:01:44] App_Deactivated
+[2018/9/11 17:02:28] App_Deactivated
+[2018/9/11 17:02:33] App_Deactivated
+[2018/9/11 17:03:11] App_Deactivated
+[2018/9/11 17:08:10] App_Deactivated
+[2018/9/11 17:08:19] App_Deactivated
+[2018/9/11 17:08:49] App_Deactivated
+[2018/9/11 17:15:47] App_Deactivated
+[2018/9/11 17:15:55] App_Deactivated
+[2018/9/11 17:16:17] App_Deactivated
+[2018/9/11 17:23:58] BigData-> businessEvent :SB002
+[2018/9/11 17:24:40] App_Deactivated
+[2018/9/11 17:24:56] App_Deactivated
+[2018/9/11 17:25:03] App_Deactivated
+[2018/9/11 17:25:35] App_Deactivated
+[2018/9/11 17:25:41] App_Deactivated
+[2018/9/11 17:25:43] App_Deactivated
+[2018/9/11 17:26:46] App_Deactivated
+[2018/9/11 17:50:36] App_Deactivated
+[2018/9/11 17:54:37] BigData-> businessEvent :SB002
+[2018/9/11 18:25:14] App_Deactivated
+[2018/9/11 18:25:16] BigData-> businessEvent :SB002
+[2018/9/11 18:55:54] BigData-> businessEvent :SB002
+[2018/9/11 19:11:17] App_Deactivated
+[2018/9/11 19:11:26] App_Deactivated
+[2018/9/11 19:12:41] App_Deactivated
+[2018/9/11 19:13:44] App_Deactivated
+[2018/9/11 19:13:47] App_Deactivated
+[2018/9/12 9:00:18] AccelBall Start 
+[2018/9/12 9:00:18] IsXiaoXinPC   : True
+[2018/9/12 9:00:18] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/12 9:00:18] BigData-> clickEvent :SB011
+[2018/9/12 9:31:04] BigData-> businessEvent :SB002
+[2018/9/12 9:31:26] App_Deactivated
+[2018/9/12 9:31:50] App_Deactivated
+[2018/9/12 9:31:56] App_Deactivated
+[2018/9/12 10:00:28] App_Deactivated
+[2018/9/12 10:01:54] BigData-> businessEvent :SB002
+[2018/9/12 10:02:26] App_Deactivated
+[2018/9/12 10:07:24] App_Deactivated
+[2018/9/12 10:32:43] BigData-> businessEvent :SB002
+[2018/9/12 10:39:51] App_Deactivated
+[2018/9/12 10:40:15] App_Deactivated
+[2018/9/12 10:41:09] App_Deactivated
+[2018/9/12 10:42:37] App_Deactivated
+[2018/9/12 10:42:44] App_Deactivated
+[2018/9/12 11:03:44] App_Deactivated
+[2018/9/12 11:03:59] BigData-> businessEvent :SB002
+[2018/9/12 11:04:43] App_Deactivated
+[2018/9/12 11:05:04] App_Deactivated
+[2018/9/12 11:34:56] BigData-> businessEvent :SB002
+[2018/9/12 12:05:55] BigData-> businessEvent :SB002
+[2018/9/12 12:52:40] BigData-> businessEvent :SB002
+[2018/9/12 14:19:32] BigData-> businessEvent :SB002
+[2018/9/12 14:50:22] BigData-> businessEvent :SB002
+[2018/9/12 15:03:18] App_Deactivated
+[2018/9/12 15:03:50] App_Deactivated
+[2018/9/12 15:21:15] BigData-> businessEvent :SB002
+[2018/9/12 16:07:06] BigData-> businessEvent :SB002
+[2018/9/12 16:19:39]  GridWing.Visibility : Visible
+[2018/9/12 16:19:43] GridWing.Visibility = Visibility.Collapsed
+[2018/9/12 16:19:43] GetGameNoDisStatus :False
+[2018/9/12 16:20:50]  GridWing.Visibility : Visible
+[2018/9/12 16:20:55] App_Deactivated
+[2018/9/12 16:21:04] App_Deactivated
+[2018/9/12 16:21:06] GridWing.Visibility = Visibility.Collapsed
+[2018/9/12 16:21:06] GetGameNoDisStatus :False
+[2018/9/12 16:21:10] App_Deactivated
+[2018/9/12 16:33:48] App_Deactivated
+[2018/9/12 16:34:27] App_Deactivated
+[2018/9/12 16:34:28] App_Deactivated
+[2018/9/12 16:38:01] BigData-> businessEvent :SB002
+[2018/9/12 17:09:07] BigData-> businessEvent :SB002
+[2018/9/12 17:33:59] App_Deactivated
+[2018/9/12 17:34:55] App_Deactivated
+[2018/9/12 17:40:09] BigData-> businessEvent :SB002
+[2018/9/12 17:59:47] App_Deactivated
+[2018/9/12 18:02:50] App_Deactivated
+[2018/9/12 18:11:11] BigData-> businessEvent :SB002
+[2018/9/12 18:15:25] App_Deactivated
+[2018/9/12 18:15:54] App_Deactivated
+[2018/9/12 18:16:42] App_Deactivated
+[2018/9/12 18:16:49] App_Deactivated
+[2018/9/12 18:17:11] App_Deactivated
+[2018/9/12 18:17:41] App_Deactivated
+[2018/9/12 18:22:51] App_Deactivated
+[2018/9/12 18:42:08] BigData-> businessEvent :SB002
+[2018/9/12 19:13:10] BigData-> businessEvent :SB002
+[2018/9/12 19:20:18] App_Deactivated
+[2018/9/12 19:20:22] App_Deactivated
+[2018/9/12 19:20:29] App_Deactivated
+[2018/9/12 19:20:29] App_Deactivated
+[2018/9/12 19:20:29] App_Deactivated
+[2018/9/12 19:20:30] App_Deactivated
+[2018/9/12 19:20:42] App_Deactivated
+[2018/9/13 9:13:49] AccelBall Start 
+[2018/9/13 9:13:49] IsXiaoXinPC   : True
+[2018/9/13 9:13:49] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/13 9:13:49] BigData-> clickEvent :SB011
+[2018/9/13 9:15:09] App_Deactivated
+[2018/9/13 9:15:09] App_Deactivated
+[2018/9/13 9:15:53] App_Deactivated
+[2018/9/13 9:23:20] App_Deactivated
+[2018/9/13 9:44:29] BigData-> businessEvent :SB002
+[2018/9/13 10:15:12] BigData-> businessEvent :SB002
+[2018/9/13 10:45:57] BigData-> businessEvent :SB002
+[2018/9/13 10:52:14] ClearMemory
+[2018/9/13 10:52:16]  GridWing.Visibility : Visible
+[2018/9/13 10:52:19] GridWing.Visibility = Visibility.Collapsed
+[2018/9/13 10:52:19] GetGameNoDisStatus :False
+[2018/9/13 10:52:24] App_Deactivated
+[2018/9/13 11:17:05] BigData-> businessEvent :SB002
+[2018/9/13 11:22:51] App_Deactivated
+[2018/9/13 11:23:12] App_Deactivated
+[2018/9/13 11:23:28] App_Deactivated
+[2018/9/13 11:32:36] App_Deactivated
+[2018/9/13 11:32:36] App_Deactivated
+[2018/9/13 11:32:36] App_Deactivated
+[2018/9/13 11:32:36] App_Deactivated
+[2018/9/13 11:33:11] App_Deactivated
+[2018/9/13 11:33:41] App_Deactivated
+[2018/9/13 11:34:25] App_Deactivated
+[2018/9/13 11:37:20] App_Deactivated
+[2018/9/13 11:47:54] BigData-> businessEvent :SB002
+[2018/9/13 11:53:06] App_Deactivated
+[2018/9/13 12:18:56] BigData-> businessEvent :SB002
+[2018/9/13 14:00:56] App_Deactivated
+[2018/9/13 14:04:11] App_Deactivated
+[2018/9/13 14:04:23] App_Deactivated
+[2018/9/13 14:16:23] BigData-> businessEvent :SB002
+[2018/9/13 14:47:06] BigData-> businessEvent :SB002
+[2018/9/13 14:51:56] App_Deactivated
+[2018/9/13 14:52:00] App_Deactivated
+[2018/9/13 15:17:48] BigData-> businessEvent :SB002
+[2018/9/13 15:26:59] App_Deactivated
+[2018/9/13 15:48:31] BigData-> businessEvent :SB002
+[2018/9/13 16:19:16] BigData-> businessEvent :SB002
+[2018/9/13 16:26:22] App_Deactivated
+[2018/9/13 16:50:18] BigData-> businessEvent :SB002
+[2018/9/13 16:55:59] App_Deactivated
+[2018/9/13 17:21:30] BigData-> businessEvent :SB002
+[2018/9/13 17:52:45] BigData-> businessEvent :SB002
+[2018/9/13 18:09:27] App_Deactivated
+[2018/9/13 18:15:50] App_Deactivated
+[2018/9/13 18:16:13] App_Deactivated
+[2018/9/13 18:23:51] BigData-> businessEvent :SB002
+[2018/9/13 18:25:43] App_Deactivated
+[2018/9/13 18:30:44] App_Deactivated
+[2018/9/13 18:31:30] App_Deactivated
+[2018/9/13 18:32:00] App_Deactivated
+[2018/9/13 18:32:01] App_Deactivated
+[2018/9/13 18:33:29] App_Deactivated
+[2018/9/13 18:33:31] App_Deactivated
+[2018/9/13 18:33:35] App_Deactivated
+[2018/9/13 18:34:18] App_Deactivated
+[2018/9/13 18:34:21] App_Deactivated
+[2018/9/13 18:34:25] App_Deactivated
+[2018/9/13 18:34:29] App_Deactivated
+[2018/9/14 9:19:08] AccelBall Start 
+[2018/9/14 9:19:08] IsXiaoXinPC   : True
+[2018/9/14 9:19:08] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/14 9:19:08] BigData-> clickEvent :SB011
+[2018/9/14 9:19:50] App_Deactivated
+[2018/9/14 9:20:42] App_Deactivated
+[2018/9/14 9:21:40] App_Deactivated
+[2018/9/14 9:22:05] App_Deactivated
+[2018/9/14 9:49:47] BigData-> businessEvent :SB002
+[2018/9/14 10:17:47] App_Deactivated
+[2018/9/14 10:20:30] BigData-> businessEvent :SB002
+[2018/9/14 10:34:18] App_Deactivated
+[2018/9/14 10:42:58] App_Deactivated
+[2018/9/14 10:51:09] BigData-> businessEvent :SB002
+[2018/9/14 10:58:17] App_Deactivated
+[2018/9/14 11:21:52] BigData-> businessEvent :SB002
+[2018/9/14 11:52:40] BigData-> businessEvent :SB002
+[2018/9/14 12:23:34] BigData-> businessEvent :SB002
+[2018/9/14 14:32:32] BigData-> businessEvent :SB002
+[2018/9/14 14:39:07] App_Deactivated
+[2018/9/14 14:47:17] App_Deactivated
+[2018/9/14 14:48:35] App_Deactivated
+[2018/9/14 14:48:54] App_Deactivated
+[2018/9/14 14:49:26] App_Deactivated
+[2018/9/14 14:49:33] App_Deactivated
+[2018/9/14 14:56:41] App_Deactivated
+[2018/9/14 15:01:24] App_Deactivated
+[2018/9/14 15:02:07] App_Deactivated
+[2018/9/14 15:04:37] BigData-> businessEvent :SB002
+[2018/9/14 15:05:19] App_Deactivated
+[2018/9/14 15:05:26] App_Deactivated
+[2018/9/14 15:05:26] App_Deactivated
+[2018/9/14 15:06:04] App_Deactivated
+[2018/9/14 15:06:44] App_Deactivated
+[2018/9/14 15:06:45] App_Deactivated
+[2018/9/14 15:06:56] App_Deactivated
+[2018/9/14 15:07:30] App_Deactivated
+[2018/9/14 15:07:58] App_Deactivated
+[2018/9/14 15:07:59] App_Deactivated
+[2018/9/14 15:08:02] App_Deactivated
+[2018/9/14 15:08:08] App_Deactivated
+[2018/9/14 15:08:10] App_Deactivated
+[2018/9/14 15:08:11] App_Deactivated
+[2018/9/14 15:08:13] App_Deactivated
+[2018/9/14 15:08:18] App_Deactivated
+[2018/9/14 15:08:20] App_Deactivated
+[2018/9/14 15:16:54] App_Deactivated
+[2018/9/14 15:17:03] App_Deactivated
+[2018/9/14 15:19:07] App_Deactivated
+[2018/9/14 15:19:10] App_Deactivated
+[2018/9/14 15:21:15] App_Deactivated
+[2018/9/14 15:25:32] App_Deactivated
+[2018/9/14 15:25:40] App_Deactivated
+[2018/9/14 15:35:27] BigData-> businessEvent :SB002
+[2018/9/14 15:41:16] App_Deactivated
+[2018/9/14 15:45:45] App_Deactivated
+[2018/9/14 15:45:50] App_Deactivated
+[2018/9/14 16:06:19] BigData-> businessEvent :SB002
+[2018/9/14 16:20:43]  GridWing.Visibility : Visible
+[2018/9/14 16:20:46] App_Deactivated
+[2018/9/14 16:20:49] GridWing.Visibility = Visibility.Collapsed
+[2018/9/14 16:20:49] GetGameNoDisStatus :False
+[2018/9/14 16:37:05] BigData-> businessEvent :SB002
+[2018/9/14 17:07:59] BigData-> businessEvent :SB002
+[2018/9/14 17:39:00] BigData-> businessEvent :SB002
+[2018/9/14 18:04:54] App_Deactivated
+[2018/9/14 18:05:10] App_Deactivated
+[2018/9/14 18:10:17] BigData-> businessEvent :SB002
+[2018/9/14 18:41:12] BigData-> businessEvent :SB002
+[2018/9/14 18:46:00] App_Deactivated
+[2018/9/14 18:46:03] App_Deactivated
+[2018/9/14 18:46:07] App_Deactivated
+[2018/9/17 9:12:38] AccelBall Start 
+[2018/9/17 9:12:38] IsXiaoXinPC   : True
+[2018/9/17 9:12:38] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/17 9:12:38] BigData-> clickEvent :SB011
+[2018/9/17 9:13:06] App_Deactivated
+[2018/9/17 9:13:06] App_Deactivated
+[2018/9/17 9:15:21] App_Deactivated
+[2018/9/17 9:16:03] App_Deactivated
+[2018/9/17 9:16:14] App_Deactivated
+[2018/9/17 9:16:31] App_Deactivated
+[2018/9/17 9:17:04] App_Deactivated
+[2018/9/17 9:17:14] App_Deactivated
+[2018/9/17 9:43:41] BigData-> businessEvent :SB002
+[2018/9/17 9:52:53] App_Deactivated
+[2018/9/17 9:53:54] App_Deactivated
+[2018/9/17 10:01:16] App_Deactivated
+[2018/9/17 10:20:01] BigData-> businessEvent :SB002
+[2018/9/17 10:25:23] ClearMemory
+[2018/9/17 10:25:25] App_Deactivated
+[2018/9/17 10:30:33] App_Deactivated
+[2018/9/17 10:30:56] ClearMemory
+[2018/9/17 10:30:57]  GridWing.Visibility : Visible
+[2018/9/17 10:30:59] App_Deactivated
+[2018/9/17 10:31:01] GridWing.Visibility = Visibility.Collapsed
+[2018/9/17 10:31:01] GetGameNoDisStatus :False
+[2018/9/17 10:32:00] App_Deactivated
+[2018/9/17 10:34:07] App_Deactivated
+[2018/9/17 10:34:08] App_Deactivated
+[2018/9/17 10:34:09] App_Deactivated
+[2018/9/17 10:34:31] App_Deactivated
+[2018/9/17 10:34:34] App_Deactivated
+[2018/9/17 10:34:37] App_Deactivated
+[2018/9/17 10:34:41] App_Deactivated
+[2018/9/17 10:35:47] App_Deactivated
+[2018/9/17 10:36:15] App_Deactivated
+[2018/9/17 10:37:23] App_Deactivated
+[2018/9/17 10:37:24] App_Deactivated
+[2018/9/17 10:37:50] App_Deactivated
+[2018/9/17 10:50:57] BigData-> businessEvent :SB002
+[2018/9/17 11:09:31]  GridWing.Visibility : Visible
+[2018/9/17 11:09:34] App_Deactivated
+[2018/9/17 11:09:37] GridWing.Visibility = Visibility.Collapsed
+[2018/9/17 11:09:37] GetGameNoDisStatus :False
+[2018/9/17 11:19:00] App_Deactivated
+[2018/9/17 11:19:07] App_Deactivated
+[2018/9/17 11:21:56] BigData-> businessEvent :SB002
+[2018/9/17 11:52:55] BigData-> businessEvent :SB002
+[2018/9/17 11:53:00] App_Deactivated
+[2018/9/17 11:58:28] App_Deactivated
+[2018/9/17 12:23:46] BigData-> businessEvent :SB002
+[2018/9/17 12:34:25] App_Deactivated
+[2018/9/17 12:34:28] App_Deactivated
+[2018/9/17 12:36:39] App_Deactivated
+[2018/9/17 13:00:01] BigData-> businessEvent :SB002
+[2018/9/17 14:16:47] App_Deactivated
+[2018/9/17 14:16:48] App_Deactivated
+[2018/9/17 14:28:23] BigData-> businessEvent :SB002
+[2018/9/17 14:59:22] BigData-> businessEvent :SB002
+[2018/9/17 15:30:21] BigData-> businessEvent :SB002
+[2018/9/17 15:39:33]  GridWing.Visibility : Visible
+[2018/9/17 15:41:51] GridWing.Visibility = Visibility.Collapsed
+[2018/9/17 15:41:51] GetGameNoDisStatus :False
+[2018/9/17 15:55:18] App_Deactivated
+[2018/9/17 16:01:11] BigData-> businessEvent :SB002
+[2018/9/17 16:32:07] BigData-> businessEvent :SB002
+[2018/9/17 17:02:58] BigData-> businessEvent :SB002
+[2018/9/17 17:33:51] BigData-> businessEvent :SB002
+[2018/9/17 18:04:49] BigData-> businessEvent :SB002
+[2018/9/17 18:35:53] BigData-> businessEvent :SB002
+[2018/9/17 18:43:48] App_Deactivated
+[2018/9/17 18:43:57] App_Deactivated
+[2018/9/17 18:44:46] App_Deactivated
+[2018/9/17 18:44:47] App_Deactivated
+[2018/9/17 18:45:09] App_Deactivated
+[2018/9/17 18:47:28] App_Deactivated
+[2018/9/17 18:47:30] App_Deactivated
+[2018/9/17 18:47:30] App_Deactivated
+[2018/9/17 18:47:30] App_Deactivated
+[2018/9/17 18:47:30] App_Deactivated
+[2018/9/18 9:14:03] AccelBall Start 
+[2018/9/18 9:14:03] IsXiaoXinPC   : True
+[2018/9/18 9:14:03] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/18 9:14:03] BigData-> clickEvent :SB011
+[2018/9/18 9:14:56] App_Deactivated
+[2018/9/18 9:14:59] App_Deactivated
+[2018/9/18 9:16:50] App_Deactivated
+[2018/9/18 9:35:54] App_Deactivated
+[2018/9/18 9:44:49] BigData-> businessEvent :SB002
+[2018/9/18 9:45:34] App_Deactivated
+[2018/9/18 9:47:24] App_Deactivated
+[2018/9/18 9:48:30] App_Deactivated
+[2018/9/18 9:50:59] App_Deactivated
+[2018/9/18 10:07:33] App_Deactivated
+[2018/9/18 10:07:53] App_Deactivated
+[2018/9/18 10:09:20] App_Deactivated
+[2018/9/18 10:10:21] App_Deactivated
+[2018/9/18 10:10:23] App_Deactivated
+[2018/9/18 10:10:24] App_Deactivated
+[2018/9/18 10:10:26] App_Deactivated
+[2018/9/18 10:10:28] App_Deactivated
+[2018/9/18 10:10:29] App_Deactivated
+[2018/9/18 10:10:31] App_Deactivated
+[2018/9/18 10:10:32] App_Deactivated
+[2018/9/18 10:10:33] App_Deactivated
+[2018/9/18 10:10:34] App_Deactivated
+[2018/9/18 10:10:44] App_Deactivated
+[2018/9/18 10:10:45] App_Deactivated
+[2018/9/18 10:11:17] App_Deactivated
+[2018/9/18 10:11:19] App_Deactivated
+[2018/9/18 10:11:35] App_Deactivated
+[2018/9/18 10:11:36] App_Deactivated
+[2018/9/18 10:11:44] App_Deactivated
+[2018/9/18 10:15:39] BigData-> businessEvent :SB002
+[2018/9/18 10:46:24] BigData-> businessEvent :SB002
+[2018/9/18 11:17:24] BigData-> businessEvent :SB002
+[2018/9/18 11:48:11] BigData-> businessEvent :SB002
+[2018/9/18 12:18:59] BigData-> businessEvent :SB002
+[2018/9/18 14:24:39] BigData-> businessEvent :SB002
+[2018/9/18 14:55:32] BigData-> businessEvent :SB002
+[2018/9/18 15:11:17] App_Deactivated
+[2018/9/18 15:26:32] BigData-> businessEvent :SB002
+[2018/9/18 15:35:15] App_Deactivated
+[2018/9/18 15:39:34] App_Deactivated
+[2018/9/18 15:57:37] BigData-> businessEvent :SB002
+[2018/9/18 16:19:38] App_Deactivated
+[2018/9/18 16:19:54] App_Deactivated
+[2018/9/18 16:20:07] App_Deactivated
+[2018/9/18 16:21:05] App_Deactivated
+[2018/9/18 16:21:20] App_Deactivated
+[2018/9/18 16:28:38] BigData-> businessEvent :SB002
+[2018/9/18 16:55:12] App_Deactivated
+[2018/9/18 16:55:30] App_Deactivated
+[2018/9/18 16:58:49] App_Deactivated
+[2018/9/18 16:59:28] App_Deactivated
+[2018/9/18 16:59:43] BigData-> businessEvent :SB002
+[2018/9/18 17:00:19] App_Deactivated
+[2018/9/18 17:00:24] App_Deactivated
+[2018/9/18 17:00:28] App_Deactivated
+[2018/9/18 17:00:51] App_Deactivated
+[2018/9/18 17:01:09] App_Deactivated
+[2018/9/18 17:01:57] App_Deactivated
+[2018/9/18 17:04:27] App_Deactivated
+[2018/9/18 17:04:46] App_Deactivated
+[2018/9/18 17:04:51] App_Deactivated
+[2018/9/18 17:30:34] BigData-> businessEvent :SB002
+[2018/9/18 17:33:35] App_Deactivated
+[2018/9/18 17:33:38] App_Deactivated
+[2018/9/18 17:33:57] App_Deactivated
+[2018/9/18 17:41:40] App_Deactivated
+[2018/9/18 17:45:53] App_Deactivated
+[2018/9/18 17:45:55] App_Deactivated
+[2018/9/18 17:46:01] App_Deactivated
+[2018/9/18 17:53:48] App_Deactivated
+[2018/9/18 17:53:55] App_Deactivated
+[2018/9/18 17:53:59] App_Deactivated
+[2018/9/18 17:54:01] App_Deactivated
+[2018/9/18 17:54:02] App_Deactivated
+[2018/9/18 17:55:14] App_Deactivated
+[2018/9/18 17:55:20] App_Deactivated
+[2018/9/18 17:55:21] App_Deactivated
+[2018/9/18 17:55:33] App_Deactivated
+[2018/9/18 18:01:30] BigData-> businessEvent :SB002
+[2018/9/18 18:13:29] App_Deactivated
+[2018/9/18 18:31:20] App_Deactivated
+[2018/9/18 18:31:23] App_Deactivated
+[2018/9/18 18:31:23] App_Deactivated
+[2018/9/18 18:31:23] App_Deactivated
+[2018/9/18 18:31:23] App_Deactivated
+[2018/9/18 18:31:32] App_Deactivated
+[2018/9/18 18:31:34] App_Deactivated
+[2018/9/18 18:32:24] BigData-> businessEvent :SB002
+[2018/9/19 9:13:21] AccelBall Start 
+[2018/9/19 9:13:21] IsXiaoXinPC   : True
+[2018/9/19 9:13:21] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/19 9:13:21] BigData-> clickEvent :SB011
+[2018/9/19 9:17:41] App_Deactivated
+[2018/9/19 9:18:42] App_Deactivated
+[2018/9/19 9:19:03] App_Deactivated
+[2018/9/19 9:19:52] App_Deactivated
+[2018/9/19 9:20:22] App_Deactivated
+[2018/9/19 9:20:33] App_Deactivated
+[2018/9/19 9:20:49] App_Deactivated
+[2018/9/19 9:21:00] App_Deactivated
+[2018/9/19 9:21:11] App_Deactivated
+[2018/9/19 9:21:38] App_Deactivated
+[2018/9/19 9:27:18] App_Deactivated
+[2018/9/19 9:33:56] App_Deactivated
+[2018/9/19 9:44:15] BigData-> businessEvent :SB002
+[2018/9/19 10:15:10] BigData-> businessEvent :SB002
+[2018/9/19 10:46:04] BigData-> businessEvent :SB002
+[2018/9/19 11:17:02] BigData-> businessEvent :SB002
+[2018/9/19 11:48:00] BigData-> businessEvent :SB002
+[2018/9/19 12:18:55] BigData-> businessEvent :SB002
+[2018/9/19 12:49:51] BigData-> businessEvent :SB002
+[2018/9/19 14:33:06]  GridWing.Visibility : Visible
+[2018/9/19 14:33:13] GridWing.Visibility = Visibility.Collapsed
+[2018/9/19 14:33:13] GetGameNoDisStatus :False
+[2018/9/19 14:35:23] BigData-> businessEvent :SB002
+[2018/9/19 15:06:33] BigData-> businessEvent :SB002
+[2018/9/19 17:18:42] BigData-> businessEvent :SB002
+[2018/9/19 17:49:33] App_Deactivated
+[2018/9/19 17:49:42] App_Deactivated
+[2018/9/19 17:49:45] BigData-> businessEvent :SB002
+[2018/9/19 17:49:48] App_Deactivated
+[2018/9/19 17:49:53] App_Deactivated
+[2018/9/19 17:49:54] App_Deactivated
+[2018/9/19 17:49:56] App_Deactivated
+[2018/9/19 17:49:57] App_Deactivated
+[2018/9/19 17:50:04] App_Deactivated
+[2018/9/19 17:50:14] App_Deactivated
+[2018/9/19 17:50:42] App_Deactivated
+[2018/9/19 17:50:46] App_Deactivated
+[2018/9/19 17:51:04] App_Deactivated
+[2018/9/19 17:54:30] App_Deactivated
+[2018/9/19 18:20:32] BigData-> businessEvent :SB002
+[2018/9/19 18:37:45] App_Deactivated
+[2018/9/19 18:39:13] App_Deactivated
+[2018/9/19 18:53:36] BigData-> businessEvent :SB002
+[2018/9/19 19:17:15] App_Deactivated
+[2018/9/19 19:17:20] App_Deactivated
+[2018/9/19 19:17:20] App_Deactivated
+[2018/9/19 19:17:21] App_Deactivated
+[2018/9/19 19:17:26] App_Deactivated
+[2018/9/19 19:17:28] App_Deactivated
+[2018/9/20 9:13:01] AccelBall Start 
+[2018/9/20 9:13:01] IsXiaoXinPC   : True
+[2018/9/20 9:13:01] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/20 9:13:01] BigData-> clickEvent :SB011
+[2018/9/20 9:13:34] App_Deactivated
+[2018/9/20 9:21:10] App_Deactivated
+[2018/9/20 9:22:47] App_Deactivated
+[2018/9/20 9:22:59] App_Deactivated
+[2018/9/20 9:33:24] App_Deactivated
+[2018/9/20 9:33:39] App_Deactivated
+[2018/9/20 9:33:50] App_Deactivated
+[2018/9/20 9:41:30] App_Deactivated
+[2018/9/20 9:43:46] BigData-> businessEvent :SB002
+[2018/9/20 10:14:53] BigData-> businessEvent :SB002
+[2018/9/20 10:45:55] BigData-> businessEvent :SB002
+[2018/9/20 11:16:56] BigData-> businessEvent :SB002
+[2018/9/20 11:36:16] App_Deactivated
+[2018/9/20 11:37:52] App_Deactivated
+[2018/9/20 11:37:55] App_Deactivated
+[2018/9/20 11:38:06] App_Deactivated
+[2018/9/20 11:38:11] App_Deactivated
+[2018/9/20 11:47:56] BigData-> businessEvent :SB002
+[2018/9/20 12:18:54] BigData-> businessEvent :SB002
+[2018/9/20 12:49:52] BigData-> businessEvent :SB002
+[2018/9/20 14:28:08] BigData-> businessEvent :SB002
+[2018/9/20 14:30:33] App_Deactivated
+[2018/9/20 14:30:56] App_Deactivated
+[2018/9/20 14:31:20] App_Deactivated
+[2018/9/20 14:31:30] App_Deactivated
+[2018/9/20 14:45:26] App_Deactivated
+[2018/9/20 14:46:30] App_Deactivated
+[2018/9/20 14:54:24] App_Deactivated
+[2018/9/20 14:54:49] App_Deactivated
+[2018/9/20 14:59:05] BigData-> businessEvent :SB002
+[2018/9/20 15:04:11] App_Deactivated
+[2018/9/20 15:17:40] App_Deactivated
+[2018/9/20 15:18:08] App_Deactivated
+[2018/9/20 15:18:44] App_Deactivated
+[2018/9/20 15:18:51] App_Deactivated
+[2018/9/20 15:25:49] App_Deactivated
+[2018/9/20 15:27:46] App_Deactivated
+[2018/9/20 15:27:57] App_Deactivated
+[2018/9/20 15:28:03] App_Deactivated
+[2018/9/20 15:28:06] App_Deactivated
+[2018/9/20 15:30:21] BigData-> businessEvent :SB002
+[2018/9/20 15:35:58] App_Deactivated
+[2018/9/20 16:01:18] BigData-> businessEvent :SB002
+[2018/9/20 16:02:52] App_Deactivated
+[2018/9/20 16:03:00] App_Deactivated
+[2018/9/20 16:04:12] App_Deactivated
+[2018/9/20 16:04:49] App_Deactivated
+[2018/9/20 16:05:47] App_Deactivated
+[2018/9/20 16:05:48] App_Deactivated
+[2018/9/20 16:09:16] App_Deactivated
+[2018/9/20 16:10:21] App_Deactivated
+[2018/9/20 16:10:26] App_Deactivated
+[2018/9/20 16:10:39] App_Deactivated
+[2018/9/20 16:10:41] App_Deactivated
+[2018/9/20 16:10:44] App_Deactivated
+[2018/9/20 16:10:46] App_Deactivated
+[2018/9/20 16:11:29] App_Deactivated
+[2018/9/20 16:19:23] App_Deactivated
+[2018/9/20 16:32:21] BigData-> businessEvent :SB002
+[2018/9/20 16:47:24] App_Deactivated
+[2018/9/20 17:03:19] BigData-> businessEvent :SB002
+[2018/9/20 17:28:40] App_Deactivated
+[2018/9/20 17:34:17] BigData-> businessEvent :SB002
+[2018/9/20 18:05:17] BigData-> businessEvent :SB002
+[2018/9/20 18:36:27] BigData-> businessEvent :SB002
+[2018/9/20 19:05:02] App_Deactivated
+[2018/9/20 19:05:34] App_Deactivated
+[2018/9/20 19:05:35] App_Deactivated
+[2018/9/20 19:07:40] BigData-> businessEvent :SB002
+[2018/9/20 19:11:10] App_Deactivated
+[2018/9/20 19:11:12] App_Deactivated
+[2018/9/20 19:16:49] App_Deactivated
+[2018/9/20 19:16:56] App_Deactivated
+[2018/9/20 19:17:08] App_Deactivated
+[2018/9/20 19:17:30] App_Deactivated
+[2018/9/21 9:09:10] AccelBall Start 
+[2018/9/21 9:09:10] IsXiaoXinPC   : True
+[2018/9/21 9:09:10] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/21 9:09:10] BigData-> clickEvent :SB011
+[2018/9/21 9:17:56] App_Deactivated
+[2018/9/21 9:39:27] App_Deactivated
+[2018/9/21 9:39:46] BigData-> businessEvent :SB002
+[2018/9/21 9:39:48] App_Deactivated
+[2018/9/21 9:42:25] App_Deactivated
+[2018/9/21 9:59:50] App_Deactivated
+[2018/9/21 10:10:29] App_Deactivated
+[2018/9/21 10:10:29] App_Deactivated
+[2018/9/21 10:10:54] BigData-> businessEvent :SB002
+[2018/9/21 10:42:00] BigData-> businessEvent :SB002
+[2018/9/21 11:08:43] App_Deactivated
+[2018/9/21 11:13:06] BigData-> businessEvent :SB002
+[2018/9/21 11:44:12] BigData-> businessEvent :SB002
+[2018/9/21 12:14:59] BigData-> businessEvent :SB002
+[2018/9/21 13:25:02] BigData-> businessEvent :SB002
+[2018/9/21 14:29:52] BigData-> businessEvent :SB002
+[2018/9/21 15:00:48] BigData-> businessEvent :SB002
+[2018/9/21 15:30:29] App_Deactivated
+[2018/9/21 15:32:02] BigData-> businessEvent :SB002
+[2018/9/21 15:35:58] App_Deactivated
+[2018/9/21 15:36:18] App_Deactivated
+[2018/9/21 15:36:44] App_Deactivated
+[2018/9/21 15:36:45] App_Deactivated
+[2018/9/21 15:36:46] App_Deactivated
+[2018/9/21 15:36:51] App_Deactivated
+[2018/9/21 15:37:31] App_Deactivated
+[2018/9/21 15:37:32] App_Deactivated
+[2018/9/21 15:38:31] App_Deactivated
+[2018/9/21 15:38:41] App_Deactivated
+[2018/9/21 15:38:59] App_Deactivated
+[2018/9/21 15:39:17] App_Deactivated
+[2018/9/21 15:39:30] App_Deactivated
+[2018/9/21 15:39:37] App_Deactivated
+[2018/9/21 15:40:59] App_Deactivated
+[2018/9/21 16:03:13] BigData-> businessEvent :SB002
+[2018/9/21 16:34:20] BigData-> businessEvent :SB002
+[2018/9/21 16:52:09] App_Deactivated
+[2018/9/21 16:54:18] App_Deactivated
+[2018/9/21 16:55:18] App_Deactivated
+[2018/9/21 17:04:36] App_Deactivated
+[2018/9/21 17:04:47] App_Deactivated
+[2018/9/21 17:05:20] BigData-> businessEvent :SB002
+[2018/9/21 17:08:54] App_Deactivated
+[2018/9/21 17:36:26] BigData-> businessEvent :SB002
+[2018/9/21 18:07:28] BigData-> businessEvent :SB002
+[2018/9/21 18:20:22] App_Deactivated
+[2018/9/21 18:21:00] App_Deactivated
+[2018/9/21 18:21:05] App_Deactivated
+[2018/9/21 18:21:48] App_Deactivated
+[2018/9/21 18:22:16] App_Deactivated
+[2018/9/21 18:22:17] App_Deactivated
+[2018/9/21 18:38:34] BigData-> businessEvent :SB002
+[2018/9/21 19:09:36] BigData-> businessEvent :SB002
+[2018/9/21 19:40:40] BigData-> businessEvent :SB002
+[2018/9/21 20:11:43] BigData-> businessEvent :SB002
+[2018/9/21 20:42:46] BigData-> businessEvent :SB002
+[2018/9/21 21:06:49] App_Deactivated
+[2018/9/21 21:07:23] App_Deactivated
+[2018/9/21 21:07:27] App_Deactivated
+[2018/9/21 21:07:54] App_Deactivated
+[2018/9/21 21:09:38] App_Deactivated
+[2018/9/21 21:11:50] App_Deactivated
+[2018/9/21 21:13:52] BigData-> businessEvent :SB002
+[2018/9/21 21:21:14] App_Deactivated
+[2018/9/21 21:24:20] App_Deactivated
+[2018/9/21 21:28:59] App_Deactivated
+[2018/9/21 21:29:07] App_Deactivated
+[2018/9/21 21:30:39] App_Deactivated
+[2018/9/21 21:31:24] App_Deactivated
+[2018/9/21 21:31:40] App_Deactivated
+[2018/9/21 21:31:53] App_Deactivated
+[2018/9/21 21:32:17] App_Deactivated
+[2018/9/21 21:32:22] App_Deactivated
+[2018/9/21 21:33:35] App_Deactivated
+[2018/9/21 21:34:55] App_Deactivated
+[2018/9/25 9:31:26] AccelBall Start 
+[2018/9/25 9:31:26] IsXiaoXinPC   : True
+[2018/9/25 9:31:26] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/25 9:31:26] BigData-> clickEvent :SB011
+[2018/9/25 9:38:07] App_Deactivated
+[2018/9/25 9:38:30] App_Deactivated
+[2018/9/25 9:38:40] App_Deactivated
+[2018/9/25 9:39:24] App_Deactivated
+[2018/9/25 9:39:40] App_Deactivated
+[2018/9/25 9:39:55] App_Deactivated
+[2018/9/25 9:46:39] App_Deactivated
+[2018/9/25 10:02:23] BigData-> businessEvent :SB002
+[2018/9/25 10:33:27] BigData-> businessEvent :SB002
+[2018/9/25 11:04:35] BigData-> businessEvent :SB002
+[2018/9/25 11:35:59] BigData-> businessEvent :SB002
+[2018/9/25 12:07:02] BigData-> businessEvent :SB002
+[2018/9/25 12:38:18] BigData-> businessEvent :SB002
+[2018/9/25 13:09:42] BigData-> businessEvent :SB002
+[2018/9/25 13:41:07] BigData-> businessEvent :SB002
+[2018/9/25 14:12:17] BigData-> businessEvent :SB002
+[2018/9/25 14:24:48] App_Deactivated
+[2018/9/25 14:37:41]  GridWing.Visibility : Visible
+[2018/9/25 14:37:50] App_Deactivated
+[2018/9/25 14:37:51] App_Deactivated
+[2018/9/25 14:37:52] GridWing.Visibility = Visibility.Collapsed
+[2018/9/25 14:37:52] GetGameNoDisStatus :False
+[2018/9/25 14:43:27] BigData-> businessEvent :SB002
+[2018/9/25 14:44:55] App_Deactivated
+[2018/9/25 14:44:59] App_Deactivated
+[2018/9/25 14:57:02] App_Deactivated
+[2018/9/25 14:57:04] App_Deactivated
+[2018/9/25 14:57:09] App_Deactivated
+[2018/9/25 14:57:11] App_Deactivated
+[2018/9/25 15:14:49] BigData-> businessEvent :SB002
+[2018/9/25 15:22:14] App_Deactivated
+[2018/9/25 15:22:26] App_Deactivated
+[2018/9/25 15:22:54] App_Deactivated
+[2018/9/25 15:23:23] App_Deactivated
+[2018/9/25 15:24:13] App_Deactivated
+[2018/9/25 15:31:26] App_Deactivated
+[2018/9/25 15:31:31] App_Deactivated
+[2018/9/25 15:31:48] App_Deactivated
+[2018/9/25 15:45:55] BigData-> businessEvent :SB002
+[2018/9/25 16:12:14] App_Deactivated
+[2018/9/25 16:12:22] App_Deactivated
+[2018/9/25 16:16:49] BigData-> businessEvent :SB002
+[2018/9/25 16:22:41] App_Deactivated
+[2018/9/25 16:47:57] BigData-> businessEvent :SB002
+[2018/9/25 16:58:41] App_Deactivated
+[2018/9/25 16:58:43] App_Deactivated
+[2018/9/25 16:59:43] App_Deactivated
+[2018/9/25 16:59:56] App_Deactivated
+[2018/9/25 17:13:32] App_Deactivated
+[2018/9/25 17:15:52] BigData-> businessEvent :SB002
+[2018/9/25 17:18:03] App_Deactivated
+[2018/9/25 17:29:07] App_Deactivated
+[2018/9/25 17:30:16] App_Deactivated
+[2018/9/25 17:30:35] App_Deactivated
+[2018/9/25 17:35:28] App_Deactivated
+[2018/9/25 17:35:52] App_Deactivated
+[2018/9/25 17:36:05] App_Deactivated
+[2018/9/25 17:36:15] App_Deactivated
+[2018/9/25 17:41:34] App_Deactivated
+[2018/9/25 17:41:39] App_Deactivated
+[2018/9/25 17:43:31] App_Deactivated
+[2018/9/25 17:49:46] BigData-> businessEvent :SB002
+[2018/9/25 17:50:22] App_Deactivated
+[2018/9/25 17:50:27] App_Deactivated
+[2018/9/25 17:52:16] App_Deactivated
+[2018/9/25 18:05:47] App_Deactivated
+[2018/9/25 18:05:56] App_Deactivated
+[2018/9/25 18:20:43] BigData-> businessEvent :SB002
+[2018/9/25 18:27:08] App_Deactivated
+[2018/9/25 18:41:42] App_Deactivated
+[2018/9/25 18:41:44] App_Deactivated
+[2018/9/25 18:41:47] App_Deactivated
+[2018/9/25 18:41:55] App_Deactivated
+[2018/9/26 9:23:53] AccelBall Start 
+[2018/9/26 9:23:53] IsXiaoXinPC   : True
+[2018/9/26 9:23:53] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/26 9:23:53] BigData-> clickEvent :SB011
+[2018/9/26 9:25:45] App_Deactivated
+[2018/9/26 9:26:18] App_Deactivated
+[2018/9/26 9:46:16] App_Deactivated
+[2018/9/26 9:46:20] App_Deactivated
+[2018/9/26 9:53:48] BigData-> businessEvent :SB002
+[2018/9/26 10:06:53] App_Deactivated
+[2018/9/26 10:07:58] App_Deactivated
+[2018/9/26 10:24:57] BigData-> businessEvent :SB002
+[2018/9/26 10:35:08] App_Deactivated
+[2018/9/26 10:37:07] App_Deactivated
+[2018/9/26 10:40:34] App_Deactivated
+[2018/9/26 10:52:19] App_Deactivated
+[2018/9/26 10:52:35] App_Deactivated
+[2018/9/26 10:52:49] App_Deactivated
+[2018/9/26 10:52:58] App_Deactivated
+[2018/9/26 10:53:05] App_Deactivated
+[2018/9/26 10:53:07] App_Deactivated
+[2018/9/26 10:56:06] BigData-> businessEvent :SB002
+[2018/9/26 10:59:24] App_Deactivated
+[2018/9/26 11:23:05] App_Deactivated
+[2018/9/26 11:23:24] App_Deactivated
+[2018/9/26 11:24:10] App_Deactivated
+[2018/9/26 11:27:10] BigData-> businessEvent :SB002
+[2018/9/26 11:28:20] App_Deactivated
+[2018/9/26 11:44:58] App_Deactivated
+[2018/9/26 11:45:06] App_Deactivated
+[2018/9/26 11:45:26] App_Deactivated
+[2018/9/26 11:46:17] App_Deactivated
+[2018/9/26 11:53:42] App_Deactivated
+[2018/9/26 11:58:11] BigData-> businessEvent :SB002
+[2018/9/26 12:31:11] BigData-> businessEvent :SB002
+[2018/9/26 13:56:02] BigData-> businessEvent :SB002
+[2018/9/26 14:27:04] BigData-> businessEvent :SB002
+[2018/9/26 14:39:50] App_Deactivated
+[2018/9/26 14:40:00] App_Deactivated
+[2018/9/26 14:40:15] App_Deactivated
+[2018/9/26 14:43:39] App_Deactivated
+[2018/9/26 14:43:43] App_Deactivated
+[2018/9/26 14:58:03] BigData-> businessEvent :SB002
+[2018/9/26 15:28:59] BigData-> businessEvent :SB002
+[2018/9/26 15:59:52] BigData-> businessEvent :SB002
+[2018/9/26 16:30:53] BigData-> businessEvent :SB002
+[2018/9/26 16:54:03] App_Deactivated
+[2018/9/26 17:01:51] BigData-> businessEvent :SB002
+[2018/9/26 17:32:49] BigData-> businessEvent :SB002
+[2018/9/26 18:03:50] BigData-> businessEvent :SB002
+[2018/9/26 18:34:49] BigData-> businessEvent :SB002
+[2018/9/26 19:02:42] App_Deactivated
+[2018/9/26 19:05:53] BigData-> businessEvent :SB002
+[2018/9/26 19:19:15] App_Deactivated
+[2018/9/26 19:19:18] App_Deactivated
+[2018/9/26 19:19:22] App_Deactivated
+[2018/9/26 19:19:26] App_Deactivated
+[2018/9/26 19:19:26] App_Deactivated
+[2018/9/26 19:19:26] App_Deactivated
+[2018/9/27 9:11:17] AccelBall Start 
+[2018/9/27 9:11:17] IsXiaoXinPC   : True
+[2018/9/27 9:11:17] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/27 9:11:17] BigData-> clickEvent :SB011
+[2018/9/27 9:11:51] App_Deactivated
+[2018/9/27 9:11:58] App_Deactivated
+[2018/9/27 9:17:00] App_Deactivated
+[2018/9/27 9:39:48] App_Deactivated
+[2018/9/27 9:39:53] App_Deactivated
+[2018/9/27 9:42:23] BigData-> businessEvent :SB002
+[2018/9/27 10:13:24] BigData-> businessEvent :SB002
+[2018/9/27 10:29:34]  GridWing.Visibility : Visible
+[2018/9/27 10:29:35] App_Deactivated
+[2018/9/27 10:29:38] GridWing.Visibility = Visibility.Collapsed
+[2018/9/27 10:29:38] GetGameNoDisStatus :False
+[2018/9/27 10:44:31] BigData-> businessEvent :SB002
+[2018/9/27 11:10:15] App_Deactivated
+[2018/9/27 11:10:27] App_Deactivated
+[2018/9/27 11:11:24] App_Deactivated
+[2018/9/27 11:14:21] App_Deactivated
+[2018/9/27 11:14:24] App_Deactivated
+[2018/9/27 11:14:52] App_Deactivated
+[2018/9/27 11:14:55] App_Deactivated
+[2018/9/27 11:14:55] App_Deactivated
+[2018/9/27 11:14:56] App_Deactivated
+[2018/9/27 11:15:04] App_Deactivated
+[2018/9/27 11:15:23] BigData-> businessEvent :SB002
+[2018/9/28 9:07:29] AccelBall Start 
+[2018/9/28 9:07:29] IsXiaoXinPC   : True
+[2018/9/28 9:07:29] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/28 9:07:29] BigData-> clickEvent :SB011
+[2018/9/28 9:17:09] AccelBall Start 
+[2018/9/28 9:17:09] IsXiaoXinPC   : True
+[2018/9/28 9:17:09] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/28 9:17:09] BigData-> clickEvent :SB011
+[2018/9/28 9:17:18] App_Deactivated
+[2018/9/28 9:36:10] App_Deactivated
+[2018/9/28 9:39:39] App_Deactivated
+[2018/9/28 9:39:43] App_Deactivated
+[2018/9/28 9:39:45] App_Deactivated
+[2018/9/28 9:48:09] BigData-> businessEvent :SB002
+[2018/9/28 9:56:31] App_Deactivated
+[2018/9/28 9:59:40] App_Deactivated
+[2018/9/28 9:59:41] App_Deactivated
+[2018/9/28 9:59:43] App_Deactivated
+[2018/9/28 10:09:13] App_Deactivated
+[2018/9/28 10:11:16]  GridWing.Visibility : Visible
+[2018/9/28 10:13:49] GridWing.Visibility = Visibility.Collapsed
+[2018/9/28 10:13:49] GetGameNoDisStatus :False
+[2018/9/28 10:14:15] App_Deactivated
+[2018/9/28 10:14:17] App_Deactivated
+[2018/9/28 10:19:08] BigData-> businessEvent :SB002
+[2018/9/28 10:19:46] App_Deactivated
+[2018/9/28 10:50:05] BigData-> businessEvent :SB002
+[2018/9/28 11:21:11] BigData-> businessEvent :SB002
+[2018/9/28 11:27:25] App_Deactivated
+[2018/9/28 11:29:06] App_Deactivated
+[2018/9/28 11:29:17] App_Deactivated
+[2018/9/28 11:29:46] App_Deactivated
+[2018/9/28 11:31:58] App_Deactivated
+[2018/9/28 11:32:02] App_Deactivated
+[2018/9/28 11:32:04] App_Deactivated
+[2018/9/28 11:32:16] App_Deactivated
+[2018/9/28 11:40:24] App_Deactivated
+[2018/9/28 11:52:18] BigData-> businessEvent :SB002
+[2018/9/28 12:23:43] BigData-> businessEvent :SB002
+[2018/9/28 14:14:23] BigData-> businessEvent :SB002
+[2018/9/28 15:15:32] BigData-> businessEvent :SB002
+[2018/9/28 15:46:47] BigData-> businessEvent :SB002
+[2018/9/28 15:59:17]  GridWing.Visibility : Visible
+[2018/9/28 15:59:22] App_Deactivated
+[2018/9/28 15:59:23] GridWing.Visibility = Visibility.Collapsed
+[2018/9/28 15:59:23] GetGameNoDisStatus :False
+[2018/9/28 15:59:55] ClearMemory
+[2018/9/28 15:59:56]  GridWing.Visibility : Visible
+[2018/9/28 15:59:57] ClearMemory
+[2018/9/28 16:00:02] App_Deactivated
+[2018/9/28 16:00:07]  GridWing.Visibility : Visible
+[2018/9/28 16:00:27] GridWing.Visibility = Visibility.Collapsed
+[2018/9/28 16:00:27] GetGameNoDisStatus :False
+[2018/9/28 16:04:06] App_Deactivated
+[2018/9/28 16:11:51] App_Deactivated
+[2018/9/28 16:12:40] App_Deactivated
+[2018/9/28 16:13:03] App_Deactivated
+[2018/9/28 16:13:16] App_Deactivated
+[2018/9/28 16:15:34] App_Deactivated
+[2018/9/28 16:16:09] App_Deactivated
+[2018/9/28 16:16:42] App_Deactivated
+[2018/9/28 16:16:49] App_Deactivated
+[2018/9/28 16:17:07] App_Deactivated
+[2018/9/28 16:17:45] App_Deactivated
+[2018/9/28 16:17:45] BigData-> businessEvent :SB002
+[2018/9/28 16:18:53] App_Deactivated
+[2018/9/28 16:25:42] App_Deactivated
+[2018/9/28 16:25:47] App_Deactivated
+[2018/9/28 16:25:56] App_Deactivated
+[2018/9/28 16:27:01] App_Deactivated
+[2018/9/28 16:27:07] App_Deactivated
+[2018/9/28 16:27:07] App_Deactivated
+[2018/9/28 16:27:07] App_Deactivated
+[2018/9/29 15:41:08] AccelBall Start 
+[2018/9/29 15:41:08] IsXiaoXinPC   : True
+[2018/9/29 15:41:08] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/29 15:41:08] BigData-> clickEvent :SB011
+[2018/9/29 15:53:56] App_Deactivated
+[2018/9/29 15:54:16] App_Deactivated
+[2018/10/3 15:36:25] AccelBall Start 
+[2018/10/3 15:36:25] IsXiaoXinPC   : True
+[2018/10/3 15:36:26] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/10/3 15:36:26] BigData-> clickEvent :SB011
+[2018/10/3 16:07:20] BigData-> businessEvent :SB002
+[2018/10/3 16:38:06] App_Deactivated
+[2018/10/3 16:38:16] BigData-> businessEvent :SB002
+[2018/10/3 16:42:54] App_Deactivated
+[2018/10/3 16:44:40] AccelBall Start 
+[2018/10/3 16:44:40] IsXiaoXinPC   : True
+[2018/10/3 16:44:40] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/10/3 16:44:40] BigData-> clickEvent :SB011
+[2018/10/3 16:58:14] App_Deactivated
+[2018/10/3 17:31:13] AccelBall Start 
+[2018/10/3 17:31:13] IsXiaoXinPC   : True
+[2018/10/3 17:31:13] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/10/3 17:31:13] BigData-> clickEvent :SB011
+[2018/10/3 17:37:00] App_Deactivated
+[2018/10/3 18:46:48] AccelBall Start 
+[2018/10/3 18:46:48] IsXiaoXinPC   : True
+[2018/10/3 18:46:48] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/10/3 18:46:48] BigData-> clickEvent :SB011
+[2018/10/3 18:51:05] App_Deactivated
+[2018/10/3 18:55:27] App_Deactivated
+[2018/10/3 18:55:36] App_Deactivated
+[2018/10/3 19:17:50] BigData-> businessEvent :SB002
+[2018/10/3 19:19:35] App_Deactivated
+[2018/10/3 22:35:07] AccelBall Start 
+[2018/10/3 22:35:07] IsXiaoXinPC   : True
+[2018/10/3 22:35:08] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/10/3 22:35:08] BigData-> clickEvent :SB011
+[2018/10/3 23:06:12] BigData-> businessEvent :SB002
+[2018/10/3 23:07:49] App_Deactivated
+[2018/10/5 12:21:51] AccelBall Start 
+[2018/10/5 12:21:51] IsXiaoXinPC   : True
+[2018/10/5 12:21:51] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/10/5 12:21:51] BigData-> clickEvent :SB011
+[2018/10/5 12:24:03] App_Deactivated
+[2018/10/8 9:22:49] AccelBall Start 
+[2018/10/8 9:22:49] IsXiaoXinPC   : True
+[2018/10/8 9:22:49] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/10/8 9:22:49] BigData-> clickEvent :SB011
+[2018/10/8 9:23:39] App_Deactivated
+[2018/10/8 9:32:03] App_Deactivated
+[2018/10/8 9:43:48] App_Deactivated
+[2018/10/8 9:43:58] App_Deactivated
+[2018/10/8 9:53:26] BigData-> businessEvent :SB002
+[2018/10/8 9:56:49] App_Deactivated
+[2018/10/8 10:04:37] App_Deactivated
+[2018/10/8 10:04:51] App_Deactivated
+[2018/10/8 10:15:12] App_Deactivated
+[2018/10/8 10:24:23] BigData-> businessEvent :SB002
+[2018/10/8 10:33:19] App_Deactivated
+[2018/10/8 10:41:03] App_Deactivated
+[2018/10/8 10:41:05] App_Deactivated
+[2018/10/8 10:54:34] App_Deactivated
+[2018/10/8 10:54:55] App_Deactivated
+[2018/10/8 10:55:21] BigData-> businessEvent :SB002
+[2018/10/8 10:55:33] App_Deactivated
+[2018/10/8 10:55:44] App_Deactivated
+[2018/10/8 10:58:01] App_Deactivated
+[2018/10/8 10:59:56] App_Deactivated
+[2018/10/8 11:00:06] App_Deactivated
+[2018/10/8 11:00:07] App_Deactivated
+[2018/10/8 11:01:35] App_Deactivated
+[2018/10/8 11:01:46] App_Deactivated
+[2018/10/8 11:02:08] App_Deactivated
+[2018/10/8 11:03:23] App_Deactivated
+[2018/10/8 11:03:48] App_Deactivated
+[2018/10/8 11:03:57] App_Deactivated
+[2018/10/8 11:05:08] App_Deactivated
+[2018/10/8 11:05:16] App_Deactivated
+[2018/10/8 11:05:53] App_Deactivated
+[2018/10/8 11:06:08] App_Deactivated
+[2018/10/8 11:08:02] App_Deactivated
+[2018/10/8 11:08:10] App_Deactivated
+[2018/10/8 11:26:17] BigData-> businessEvent :SB002
+[2018/10/8 11:35:26] App_Deactivated
+[2018/10/8 11:39:53] App_Deactivated
+[2018/10/8 11:57:16] BigData-> businessEvent :SB002
+[2018/10/8 11:59:57] App_Deactivated
+[2018/10/8 12:28:04] BigData-> businessEvent :SB002
+[2018/10/8 12:59:06] BigData-> businessEvent :SB002
+[2018/10/8 14:03:11] App_Deactivated
+[2018/10/8 14:04:13] App_Deactivated
+[2018/10/8 14:05:09] App_Deactivated
+[2018/10/8 14:06:11] App_Deactivated
+[2018/10/8 14:06:56] App_Deactivated
+[2018/10/8 14:07:13] App_Deactivated
+[2018/10/8 14:08:09] App_Deactivated
+[2018/10/8 14:19:40] BigData-> businessEvent :SB002
+[2018/10/8 14:27:27] App_Deactivated
+[2018/10/8 14:28:30] App_Deactivated
+[2018/10/8 14:29:56] App_Deactivated
+[2018/10/8 14:31:33] App_Deactivated
+[2018/10/8 14:33:34] App_Deactivated
+[2018/10/8 14:35:21] App_Deactivated
+[2018/10/8 14:35:27] App_Deactivated
+[2018/10/8 14:37:48] App_Deactivated
+[2018/10/8 14:41:31] App_Deactivated
+[2018/10/8 14:50:43] BigData-> businessEvent :SB002
+[2018/10/8 14:53:45] App_Deactivated
+[2018/10/8 14:59:03] App_Deactivated
+[2018/10/8 15:02:20] App_Deactivated
+[2018/10/8 15:21:36] BigData-> businessEvent :SB002
+[2018/10/8 15:35:21] App_Deactivated
+[2018/10/8 15:35:22] App_Deactivated
+[2018/10/8 15:52:32] BigData-> businessEvent :SB002
+[2018/10/8 15:55:37] App_Deactivated
+[2018/10/8 16:14:55] App_Deactivated
+[2018/10/8 16:16:42] App_Deactivated
+[2018/10/8 16:17:48] App_Deactivated
+[2018/10/8 16:17:49] App_Deactivated
+[2018/10/8 16:17:51] App_Deactivated
+[2018/10/8 16:18:01] App_Deactivated
+[2018/10/8 16:18:02] App_Deactivated
+[2018/10/8 16:18:05] App_Deactivated
+[2018/10/8 16:18:19] App_Deactivated
+[2018/10/8 16:18:27] App_Deactivated
+[2018/10/8 16:18:42] App_Deactivated
+[2018/10/8 16:19:01] App_Deactivated
+[2018/10/8 16:23:27] BigData-> businessEvent :SB002
+[2018/10/8 16:24:33] App_Deactivated
+[2018/10/8 16:24:41] App_Deactivated
+[2018/10/8 16:26:58] App_Deactivated
+[2018/10/8 16:32:50] App_Deactivated
+[2018/10/8 16:36:00] App_Deactivated
+[2018/10/8 16:54:25] BigData-> businessEvent :SB002
+[2018/10/8 17:08:34] App_Deactivated
+[2018/10/8 17:08:40] App_Deactivated
+[2018/10/8 17:17:11] App_Deactivated
+[2018/10/8 17:17:35] App_Deactivated
+[2018/10/8 17:25:23] BigData-> businessEvent :SB002
+[2018/10/8 17:36:37] App_Deactivated
+[2018/10/8 17:36:38] App_Deactivated
+[2018/10/8 17:56:16] BigData-> businessEvent :SB002
+[2018/10/8 18:27:14] BigData-> businessEvent :SB002
+[2018/10/8 18:46:21] App_Deactivated
+[2018/10/8 18:46:25] App_Deactivated
+[2018/10/8 18:46:25] App_Deactivated
+[2018/10/8 18:46:25] App_Deactivated
+[2018/10/8 18:46:25] App_Deactivated
+[2018/10/8 18:46:31] App_Deactivated
+[2018/10/9 9:10:36] AccelBall Start 
+[2018/10/9 9:10:36] IsXiaoXinPC   : True
+[2018/10/9 9:10:36] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/10/9 9:10:36] BigData-> clickEvent :SB011
+[2018/10/9 9:13:05] App_Deactivated
+[2018/10/9 9:32:40] App_Deactivated
+[2018/10/9 9:34:52] App_Deactivated
+[2018/10/9 9:34:59] App_Deactivated
+[2018/10/9 9:35:17] App_Deactivated
+[2018/10/9 9:35:24] App_Deactivated
+[2018/10/9 9:37:54] App_Deactivated
+[2018/10/9 9:38:05] App_Deactivated
+[2018/10/9 9:41:32] BigData-> businessEvent :SB002
+[2018/10/9 10:12:33] BigData-> businessEvent :SB002
+[2018/10/9 10:15:42] App_Deactivated
+[2018/10/9 10:20:33] App_Deactivated
+[2018/10/9 10:20:35] App_Deactivated
+[2018/10/9 10:27:45] App_Deactivated
+[2018/10/9 10:28:05] App_Deactivated
+[2018/10/9 10:29:38] App_Deactivated
+[2018/10/9 10:43:32] BigData-> businessEvent :SB002
+[2018/10/9 11:32:44] BigData-> businessEvent :SB002
+[2018/10/9 11:35:34] App_Deactivated
+[2018/10/9 11:35:34] App_Deactivated
+[2018/10/9 11:55:24] App_Deactivated
+[2018/10/9 11:56:51] App_Deactivated
+[2018/10/9 12:03:44] BigData-> businessEvent :SB002
+[2018/10/9 12:34:53] BigData-> businessEvent :SB002
+[2018/10/9 13:06:00] BigData-> businessEvent :SB002
+[2018/10/9 13:37:04] BigData-> businessEvent :SB002
+[2018/10/9 14:08:08] BigData-> businessEvent :SB002
+[2018/10/9 14:39:13] BigData-> businessEvent :SB002
+[2018/10/9 14:41:23] App_Deactivated
+[2018/10/9 15:10:23] BigData-> businessEvent :SB002
+[2018/10/9 15:18:13] App_Deactivated
+[2018/10/9 15:41:32] BigData-> businessEvent :SB002
+[2018/10/9 16:12:38] BigData-> businessEvent :SB002
+[2018/10/9 16:43:48] BigData-> businessEvent :SB002
+[2018/10/9 17:14:49] BigData-> businessEvent :SB002
+[2018/10/9 17:45:55] BigData-> businessEvent :SB002
+[2018/10/9 18:17:03] BigData-> businessEvent :SB002
+[2018/10/9 18:37:52] App_Deactivated
+[2018/10/9 18:37:56] App_Deactivated
+[2018/10/10 9:31:42] AccelBall Start 
+[2018/10/10 9:31:42] IsXiaoXinPC   : True
+[2018/10/10 9:31:42] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/10/10 9:31:42] BigData-> clickEvent :SB011
+[2018/10/10 9:33:16] App_Deactivated
+[2018/10/10 9:33:31] App_Deactivated
+[2018/10/10 9:33:36] App_Deactivated
+[2018/10/10 9:34:11] App_Deactivated
+[2018/10/10 9:34:11] App_Deactivated
+[2018/10/10 9:40:35] App_Deactivated
+[2018/10/10 10:02:37] BigData-> businessEvent :SB002
+[2018/10/10 10:33:37] BigData-> businessEvent :SB002
+[2018/10/10 11:01:58] App_Deactivated
+[2018/10/10 11:02:12] App_Deactivated
+[2018/10/10 11:02:32] App_Deactivated
+[2018/10/10 11:03:05] App_Deactivated
+[2018/10/10 11:04:33] BigData-> businessEvent :SB002
+[2018/10/10 11:06:37] App_Deactivated
+[2018/10/10 11:08:44] App_Deactivated
+[2018/10/10 11:10:00] App_Deactivated
+[2018/10/10 11:10:53] App_Deactivated
+[2018/10/10 11:11:14] App_Deactivated
+[2018/10/10 11:11:59] App_Deactivated
+[2018/10/10 11:12:43] App_Deactivated
+[2018/10/10 11:14:08] App_Deactivated
+[2018/10/10 11:14:58] App_Deactivated
+[2018/10/10 11:15:09] App_Deactivated
+[2018/10/10 11:25:35] App_Deactivated
+[2018/10/10 11:33:11] App_Deactivated
+[2018/10/10 11:35:34] BigData-> businessEvent :SB002
+[2018/10/10 11:37:31] App_Deactivated
+[2018/10/10 11:39:17] App_Deactivated
+[2018/10/10 11:40:49] App_Deactivated
+[2018/10/10 11:40:57] App_Deactivated
+[2018/10/10 11:41:55] App_Deactivated
+[2018/10/10 11:42:37] App_Deactivated
+[2018/10/10 11:42:42] App_Deactivated
+[2018/10/10 11:43:25] App_Deactivated
+[2018/10/10 11:45:49] App_Deactivated
+[2018/10/10 11:45:56] App_Deactivated
+[2018/10/10 11:46:54] App_Deactivated
+[2018/10/10 11:47:08] App_Deactivated
+[2018/10/10 11:47:10] App_Deactivated
+[2018/10/10 11:47:33] App_Deactivated
+[2018/10/10 11:47:49] App_Deactivated
+[2018/10/10 11:47:58] App_Deactivated
+[2018/10/10 11:48:35] App_Deactivated
+[2018/10/10 12:06:38] BigData-> businessEvent :SB002
+[2018/10/10 14:21:37] App_Deactivated
+[2018/10/10 14:22:07] App_Deactivated
+[2018/10/10 14:22:18] App_Deactivated
+[2018/10/10 14:22:36] App_Deactivated
+[2018/10/10 14:23:04]  GridWing.Visibility : Visible
+[2018/10/10 14:23:07] GridWing.Visibility = Visibility.Collapsed
+[2018/10/10 14:23:07] GetGameNoDisStatus :False
+[2018/10/10 14:23:09] App_Deactivated
+[2018/10/10 14:23:14] App_Deactivated
+[2018/10/10 14:23:25] App_Deactivated
+[2018/10/10 14:23:41] BigData-> businessEvent :SB002
+[2018/10/10 14:24:24] App_Deactivated
+[2018/10/10 14:24:37] App_Deactivated
+[2018/10/10 14:24:47] App_Deactivated
+[2018/10/10 14:24:49] App_Deactivated
+[2018/10/10 14:54:51] BigData-> businessEvent :SB002
+[2018/10/10 15:01:52] App_Deactivated
+[2018/10/10 15:02:19] App_Deactivated
+[2018/10/10 15:02:31] App_Deactivated
+[2018/10/10 15:26:46] App_Deactivated
+[2018/10/10 15:30:31] App_Deactivated
+[2018/10/10 15:30:44] App_Deactivated
+[2018/10/10 15:30:52] App_Deactivated
+[2018/10/10 15:30:55] App_Deactivated
+[2018/10/10 15:30:57] App_Deactivated
+[2018/10/10 15:31:05] App_Deactivated
+[2018/10/10 15:31:16] App_Deactivated
+[2018/10/10 15:32:20] BigData-> businessEvent :SB002
+[2018/10/10 16:03:25] BigData-> businessEvent :SB002
+[2018/10/10 16:18:32] App_Deactivated
+[2018/10/10 16:34:31] BigData-> businessEvent :SB002
+[2018/10/10 16:40:14] App_Deactivated
+[2018/10/10 16:41:11] App_Deactivated
+[2018/10/10 16:41:24] App_Deactivated
+[2018/10/10 16:41:36] App_Deactivated
+[2018/10/10 16:41:36] App_Deactivated
+[2018/10/10 16:41:44] App_Deactivated
+[2018/10/10 16:41:54] App_Deactivated
+[2018/10/10 16:41:55] App_Deactivated
+[2018/10/10 16:42:56] App_Deactivated
+[2018/10/10 16:43:03] App_Deactivated
+[2018/10/10 16:43:05] App_Deactivated
+[2018/10/10 17:05:33] BigData-> businessEvent :SB002
+[2018/10/10 17:36:37] BigData-> businessEvent :SB002
+[2018/10/10 18:07:43] BigData-> businessEvent :SB002
+[2018/10/10 18:38:42] BigData-> businessEvent :SB002
+[2018/10/10 18:53:12] App_Deactivated
+[2018/10/10 18:53:14] App_Deactivated
+[2018/10/10 18:53:20] App_Deactivated
+[2018/10/10 19:09:56] BigData-> businessEvent :SB002
+[2018/10/10 19:34:05] App_Deactivated
+[2018/10/10 19:34:08] App_Deactivated
+[2018/10/10 19:34:15] App_Deactivated
+[2018/10/11 9:31:18] AccelBall Start 
+[2018/10/11 9:31:18] IsXiaoXinPC   : True
+[2018/10/11 9:31:18] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/10/11 9:31:18] BigData-> clickEvent :SB011
+[2018/10/11 9:42:21] App_Deactivated
+[2018/10/11 9:47:10] App_Deactivated
+[2018/10/11 10:01:56] App_Deactivated
+[2018/10/11 10:02:01] App_Deactivated
+[2018/10/11 10:02:03] App_Deactivated
+[2018/10/11 10:02:04] App_Deactivated
+[2018/10/11 10:02:06] App_Deactivated
+[2018/10/11 10:02:10] App_Deactivated
+[2018/10/11 10:02:12] App_Deactivated
+[2018/10/11 10:02:13] App_Deactivated
+[2018/10/11 10:02:16] App_Deactivated
+[2018/10/11 10:02:20] BigData-> businessEvent :SB002
+[2018/10/11 10:33:29] BigData-> businessEvent :SB002
+[2018/10/11 11:04:43] BigData-> businessEvent :SB002
+[2018/10/11 11:07:45]  GridWing.Visibility : Visible
+[2018/10/11 11:07:48] GridWing.Visibility = Visibility.Collapsed
+[2018/10/11 11:07:48] GetGameNoDisStatus :False
+[2018/10/11 11:07:49] App_Deactivated
+[2018/10/11 11:07:50] App_Deactivated
+[2018/10/11 11:35:54] BigData-> businessEvent :SB002
+[2018/10/11 12:07:07] BigData-> businessEvent :SB002
+[2018/10/11 12:38:38] BigData-> businessEvent :SB002
+[2018/10/11 14:16:58] BigData-> businessEvent :SB002
+[2018/10/11 14:48:01] BigData-> businessEvent :SB002
+[2018/10/11 15:19:41] BigData-> businessEvent :SB002
+[2018/10/11 16:02:15] App_Deactivated
+[2018/10/11 16:08:27] BigData-> businessEvent :SB002
+[2018/10/11 16:39:32] BigData-> businessEvent :SB002
+[2018/10/11 17:10:35] BigData-> businessEvent :SB002
+[2018/10/11 17:41:37] BigData-> businessEvent :SB002
+[2018/10/11 18:12:36] BigData-> businessEvent :SB002
+[2018/10/11 18:38:20] App_Deactivated
+[2018/10/11 18:38:25]  GridWing.Visibility : Visible
+[2018/10/11 18:38:28] App_Deactivated
+[2018/10/11 18:38:31] GridWing.Visibility = Visibility.Collapsed
+[2018/10/11 18:38:31] GetGameNoDisStatus :False
+[2018/10/11 18:43:32] BigData-> businessEvent :SB002
+[2018/10/11 19:14:25] BigData-> businessEvent :SB002
+[2018/10/11 19:21:18] App_Deactivated
+[2018/10/12 9:08:32] AccelBall Start 
+[2018/10/12 9:08:32] IsXiaoXinPC   : True
+[2018/10/12 9:08:32] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/10/12 9:08:32] BigData-> clickEvent :SB011
+[2018/10/12 9:11:28] App_Deactivated
+[2018/10/12 9:31:07] App_Deactivated
+[2018/10/12 9:31:19]  GridWing.Visibility : Visible
+[2018/10/12 9:31:20] App_Deactivated
+[2018/10/12 9:31:24] GridWing.Visibility = Visibility.Collapsed
+[2018/10/12 9:31:24] GetGameNoDisStatus :False
+[2018/10/12 9:31:37] App_Deactivated
+[2018/10/12 9:31:38] App_Deactivated
+[2018/10/12 9:38:11] App_Deactivated
+[2018/10/12 9:38:44] App_Deactivated
+[2018/10/12 9:39:28] BigData-> businessEvent :SB002
+[2018/10/12 10:10:59] BigData-> businessEvent :SB002
+[2018/10/12 10:23:10] App_Deactivated
+[2018/10/12 10:23:42] App_Deactivated
+[2018/10/12 10:24:35] App_Deactivated
+[2018/10/12 10:24:54] App_Deactivated
+[2018/10/12 10:51:28] BigData-> businessEvent :SB002
+[2018/10/12 11:22:16] BigData-> businessEvent :SB002
+[2018/10/12 11:50:37] App_Deactivated
+[2018/10/12 11:53:15] BigData-> businessEvent :SB002
+[2018/10/12 12:25:01] BigData-> businessEvent :SB002
+[2018/10/12 12:56:48] BigData-> businessEvent :SB002
+[2018/10/12 14:31:42] BigData-> businessEvent :SB002
+[2018/10/12 15:03:29] BigData-> businessEvent :SB002
+[2018/10/12 15:34:29] BigData-> businessEvent :SB002
+[2018/10/12 15:43:13] App_Deactivated
+[2018/10/12 16:05:45] BigData-> businessEvent :SB002
+[2018/10/12 16:36:41] BigData-> businessEvent :SB002
+[2018/10/12 17:07:37] BigData-> businessEvent :SB002
+[2018/10/12 17:38:39] BigData-> businessEvent :SB002
+[2018/10/12 18:09:45] BigData-> businessEvent :SB002
+[2018/10/12 18:40:38] BigData-> businessEvent :SB002
+[2018/10/12 18:43:30] App_Deactivated
+[2018/10/12 18:43:35] App_Deactivated
+[2018/10/12 18:44:15] App_Deactivated
+[2018/10/12 18:44:25] App_Deactivated
+[2018/10/12 18:44:32] App_Deactivated
+[2018/10/12 18:44:32] App_Deactivated
+[2018/10/12 18:44:53] App_Deactivated
+[2018/10/15 9:43:09] AccelBall Start 
+[2018/10/15 9:43:09] IsXiaoXinPC   : True
+[2018/10/15 9:43:09] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/10/15 9:43:09] BigData-> clickEvent :SB011
+[2018/10/15 9:48:31] App_Deactivated
+[2018/10/15 10:03:31] App_Deactivated
+[2018/10/15 10:05:18] App_Deactivated
+[2018/10/15 10:12:54] App_Deactivated
+[2018/10/15 10:12:55] App_Deactivated
+[2018/10/15 10:13:08] App_Deactivated
+[2018/10/15 10:13:59] BigData-> businessEvent :SB002
+[2018/10/15 10:17:15] App_Deactivated
+[2018/10/15 10:18:50] App_Deactivated
+[2018/10/15 10:18:52] App_Deactivated
+[2018/10/15 10:45:03] BigData-> businessEvent :SB002
+[2018/10/15 11:16:02] BigData-> businessEvent :SB002
+[2018/10/15 11:25:52] App_Deactivated
+[2018/10/15 11:30:45] App_Deactivated
+[2018/10/15 11:45:48] App_Deactivated
+[2018/10/15 11:47:04] BigData-> businessEvent :SB002
+[2018/10/15 12:18:09] BigData-> businessEvent :SB002
+[2018/10/15 12:53:37] BigData-> businessEvent :SB002
+[2018/10/15 14:20:49] App_Deactivated
+[2018/10/15 14:21:07] App_Deactivated
+[2018/10/15 14:21:42] App_Deactivated
+[2018/10/15 14:22:10] App_Deactivated
+[2018/10/15 14:22:23] App_Deactivated
+[2018/10/15 14:29:48] BigData-> businessEvent :SB002
+[2018/10/15 14:47:42] App_Deactivated
+[2018/10/15 14:49:08] App_Deactivated
+[2018/10/15 15:00:52] BigData-> businessEvent :SB002
+[2018/10/15 15:31:56] BigData-> businessEvent :SB002
+[2018/10/15 16:03:00] BigData-> businessEvent :SB002
+[2018/10/15 16:34:02] BigData-> businessEvent :SB002
+[2018/10/15 17:05:04] BigData-> businessEvent :SB002
+[2018/10/15 17:36:05] BigData-> businessEvent :SB002
+[2018/10/15 18:07:02] BigData-> businessEvent :SB002
+[2018/10/15 18:36:54] App_Deactivated
+[2018/10/15 18:37:07] App_Deactivated
+[2018/10/15 18:38:08] BigData-> businessEvent :SB002
+[2018/10/15 18:41:44] App_Deactivated
+[2018/10/15 18:41:55] App_Deactivated
+[2018/10/15 18:46:41] App_Deactivated
+[2018/10/15 18:46:43] App_Deactivated
+[2018/10/15 18:46:43] App_Deactivated
+[2018/10/15 18:46:43] App_Deactivated
+[2018/10/15 18:48:59] App_Deactivated
+[2018/10/16 9:26:26] AccelBall Start 
+[2018/10/16 9:26:26] IsXiaoXinPC   : True
+[2018/10/16 9:26:27] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/10/16 9:26:27] BigData-> clickEvent :SB011
+[2018/10/16 9:26:50] App_Deactivated
+[2018/10/16 9:26:58] App_Deactivated
+[2018/10/16 9:26:58] App_Deactivated
+[2018/10/16 9:35:02] App_Deactivated
+[2018/10/16 9:36:06] App_Deactivated
+[2018/10/16 9:36:53] App_Deactivated
+[2018/10/16 9:42:18] App_Deactivated
+[2018/10/16 9:44:48] App_Deactivated
+[2018/10/16 9:57:29] BigData-> businessEvent :SB002
+[2018/10/16 10:21:55] App_Deactivated
+[2018/10/16 10:28:39] BigData-> businessEvent :SB002
+[2018/10/16 10:48:30] App_Deactivated
+[2018/10/16 10:59:41] BigData-> businessEvent :SB002
+[2018/10/16 11:02:01] App_Deactivated
+[2018/10/16 11:30:46] BigData-> businessEvent :SB002
+[2018/10/16 11:37:26] App_Deactivated
+[2018/10/16 11:48:47] App_Deactivated
+[2018/10/16 11:50:14] App_Deactivated
+[2018/10/16 11:51:23] App_Deactivated
+[2018/10/16 11:53:20] App_Deactivated
+[2018/10/16 11:54:55] App_Deactivated
+[2018/10/16 12:01:51] BigData-> businessEvent :SB002
+[2018/10/16 12:32:54] BigData-> businessEvent :SB002
+[2018/10/16 14:11:52] App_Deactivated
+[2018/10/16 14:19:49] BigData-> businessEvent :SB002
+[2018/10/16 14:21:41] App_Deactivated
+[2018/10/16 14:50:57] BigData-> businessEvent :SB002
+[2018/10/16 15:19:42] App_Deactivated
+[2018/10/16 15:19:47] App_Deactivated
+[2018/10/16 15:19:49] App_Deactivated
+[2018/10/16 15:19:59] App_Deactivated
+[2018/10/16 15:21:14] App_Deactivated
+[2018/10/16 15:21:59] BigData-> businessEvent :SB002
+[2018/10/16 15:53:03] BigData-> businessEvent :SB002
+[2018/10/16 16:11:02] App_Deactivated
+[2018/10/16 16:12:08] App_Deactivated
+[2018/10/16 16:24:04] BigData-> businessEvent :SB002
+[2018/10/16 16:55:04] BigData-> businessEvent :SB002
+[2018/10/16 17:26:09] BigData-> businessEvent :SB002
+[2018/10/16 17:57:17] BigData-> businessEvent :SB002
+[2018/10/16 18:28:11] BigData-> businessEvent :SB002
+[2018/10/16 18:59:08] BigData-> businessEvent :SB002
+[2018/10/16 19:09:43] App_Deactivated
+[2018/10/16 19:09:47] App_Deactivated
+[2018/10/16 19:09:47] App_Deactivated
+[2018/10/16 19:09:48] App_Deactivated
+[2018/10/16 19:09:53] App_Deactivated
+[2018/10/16 19:09:57] App_Deactivated
+[2018/10/17 9:19:59] AccelBall Start 
+[2018/10/17 9:19:59] IsXiaoXinPC   : True
+[2018/10/17 9:20:00] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/10/17 9:20:00] BigData-> clickEvent :SB011
+[2018/10/17 9:26:29] App_Deactivated
+[2018/10/17 9:50:55] BigData-> businessEvent :SB002
+[2018/10/17 10:21:56] BigData-> businessEvent :SB002
+[2018/10/17 10:52:54] BigData-> businessEvent :SB002
+[2018/10/17 10:53:17] App_Deactivated
+[2018/10/17 11:23:56] BigData-> businessEvent :SB002
+[2018/10/17 11:54:51] BigData-> businessEvent :SB002
+[2018/10/17 12:25:47] BigData-> businessEvent :SB002
+[2018/10/17 14:09:13] BigData-> businessEvent :SB002
+[2018/10/17 14:40:00] BigData-> businessEvent :SB002
+[2018/10/17 15:10:51] BigData-> businessEvent :SB002
+[2018/10/17 15:41:38] BigData-> businessEvent :SB002
+[2018/10/17 15:56:45] App_Deactivated
+[2018/10/17 16:12:33] BigData-> businessEvent :SB002
+[2018/10/17 16:43:33] BigData-> businessEvent :SB002
+[2018/10/17 16:53:13] App_Deactivated
+[2018/10/17 16:53:15] App_Deactivated
+[2018/10/17 16:55:03] App_Deactivated
+[2018/10/17 16:57:40] App_Deactivated
+[2018/10/17 17:06:43] App_Deactivated
+[2018/10/17 17:11:49] App_Deactivated
+[2018/10/17 17:14:34] BigData-> businessEvent :SB002
+[2018/10/17 17:45:32] BigData-> businessEvent :SB002
+[2018/10/17 18:16:39] BigData-> businessEvent :SB002
+[2018/10/17 18:41:56] App_Deactivated
+[2018/10/17 18:42:01] App_Deactivated
+[2018/10/17 18:47:41] BigData-> businessEvent :SB002
+[2018/10/17 18:57:13] App_Deactivated
+[2018/10/17 18:57:24] App_Deactivated
+[2018/10/17 18:57:32] App_Deactivated
+[2018/10/17 18:57:34] App_Deactivated
+[2018/10/18 9:08:28] AccelBall Start 
+[2018/10/18 9:08:28] IsXiaoXinPC   : True
+[2018/10/18 9:08:29] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/10/18 9:08:29] BigData-> clickEvent :SB011
+[2018/10/18 9:11:26] App_Deactivated
+[2018/10/18 9:39:24] BigData-> businessEvent :SB002
+[2018/10/18 9:55:36] App_Deactivated
+[2018/10/18 10:08:43] App_Deactivated
+[2018/10/18 10:10:18] BigData-> businessEvent :SB002
+[2018/10/18 10:11:14] App_Deactivated
+[2018/10/18 10:11:42] App_Deactivated
+[2018/10/18 10:17:34] App_Deactivated
+[2018/10/18 10:17:47] App_Deactivated
+[2018/10/18 10:17:50] App_Deactivated
+[2018/10/18 10:17:51] App_Deactivated
+[2018/10/18 10:23:19] App_Deactivated
+[2018/10/18 10:41:27] BigData-> businessEvent :SB002
+[2018/10/18 11:12:20] BigData-> businessEvent :SB002
+[2018/10/18 11:56:50] BigData-> businessEvent :SB002
+[2018/10/18 14:24:12] App_Deactivated
+[2018/10/18 14:24:44] App_Deactivated
+[2018/10/18 14:25:31] App_Deactivated
+[2018/10/18 14:28:01] App_Deactivated
+[2018/10/18 14:28:03] App_Deactivated
+[2018/10/18 14:29:15] App_Deactivated
+[2018/10/18 14:29:56] BigData-> businessEvent :SB002
+[2018/10/18 14:38:00] App_Deactivated
+[2018/10/18 14:38:02] App_Deactivated
+[2018/10/18 14:52:13] App_Deactivated
+[2018/10/18 15:01:00] BigData-> businessEvent :SB002
+[2018/10/18 15:32:39] BigData-> businessEvent :SB002
+[2018/10/18 15:51:22] App_Deactivated
+[2018/10/18 15:52:10] App_Deactivated
+[2018/10/18 15:58:09] App_Deactivated
+[2018/10/18 15:58:11] App_Deactivated
+[2018/10/18 16:03:34] BigData-> businessEvent :SB002
+[2018/10/18 16:34:34] BigData-> businessEvent :SB002
+[2018/10/18 17:05:32] BigData-> businessEvent :SB002
+[2018/10/18 17:36:28] BigData-> businessEvent :SB002
+[2018/10/18 18:07:28] BigData-> businessEvent :SB002
+[2018/10/18 19:46:27] App_Deactivated
+[2018/10/18 19:53:39] BigData-> businessEvent :SB002
+[2018/10/18 19:56:14] App_Deactivated
+[2018/10/19 9:27:12] AccelBall Start 
+[2018/10/19 9:27:12] IsXiaoXinPC   : True
+[2018/10/19 9:27:12] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/10/19 9:27:12] BigData-> clickEvent :SB011
+[2018/10/19 9:30:00] App_Deactivated
+[2018/10/19 9:53:59] App_Deactivated
+[2018/10/19 9:56:15] App_Deactivated
+[2018/10/19 9:56:38] App_Deactivated
+[2018/10/19 9:57:53] BigData-> businessEvent :SB002
+[2018/10/19 9:58:37] App_Deactivated
+[2018/10/19 9:58:44] App_Deactivated
+[2018/10/19 10:02:20] App_Deactivated
+[2018/10/19 10:02:26] App_Deactivated
+[2018/10/19 10:28:50] BigData-> businessEvent :SB002
+[2018/10/19 10:59:43] BigData-> businessEvent :SB002
+[2018/10/19 11:30:31] BigData-> businessEvent :SB002
+[2018/10/19 12:01:18] BigData-> businessEvent :SB002
+[2018/10/19 12:32:11] BigData-> businessEvent :SB002
+[2018/10/19 14:59:06] BigData-> businessEvent :SB002
+[2018/10/19 15:29:54] BigData-> businessEvent :SB002
+[2018/10/19 16:04:27] BigData-> businessEvent :SB002
+[2018/10/19 16:35:19] BigData-> businessEvent :SB002
+[2018/10/19 17:06:00] BigData-> businessEvent :SB002
+[2018/10/19 17:27:42] App_Deactivated
+[2018/10/19 17:28:43] App_Deactivated
+[2018/10/19 17:36:45] BigData-> businessEvent :SB002
+[2018/10/19 17:59:55] App_Deactivated
+[2018/10/19 18:07:33] BigData-> businessEvent :SB002
+[2018/10/19 18:28:12] App_Deactivated
+[2018/10/19 18:33:10] App_Deactivated
+[2018/10/19 18:34:04] App_Deactivated
+[2018/10/19 18:34:07] App_Deactivated
+[2018/10/19 18:34:07] App_Deactivated
+[2018/10/22 9:12:10] AccelBall Start 
+[2018/10/22 9:12:10] IsXiaoXinPC   : True
+[2018/10/22 9:12:10] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/10/22 9:12:10] BigData-> clickEvent :SB011
+[2018/10/22 9:15:44] App_Deactivated
+[2018/10/22 9:15:49] App_Deactivated
+[2018/10/22 9:16:18] App_Deactivated
+[2018/10/22 9:16:20] App_Deactivated
+[2018/10/22 9:21:17] App_Deactivated
+[2018/10/22 9:21:44] App_Deactivated
+[2018/10/22 9:25:41] App_Deactivated
+[2018/10/22 9:25:44] App_Deactivated
+[2018/10/22 9:25:50] App_Deactivated
+[2018/10/22 9:25:51] App_Deactivated
+[2018/10/22 9:26:21] App_Deactivated
+[2018/10/22 9:28:10] App_Deactivated
+[2018/10/22 9:43:04] BigData-> businessEvent :SB002
+[2018/10/22 10:14:09] BigData-> businessEvent :SB002
+[2018/10/22 10:35:39] App_Deactivated
+[2018/10/22 10:45:10] BigData-> businessEvent :SB002
+[2018/10/22 11:16:13] BigData-> businessEvent :SB002
+[2018/10/22 11:45:23] App_Deactivated
+[2018/10/22 11:45:48] App_Deactivated
+[2018/10/22 11:46:51] App_Deactivated
+[2018/10/22 11:47:08] BigData-> businessEvent :SB002
+[2018/10/22 12:18:01] BigData-> businessEvent :SB002
+[2018/10/22 12:48:48] BigData-> businessEvent :SB002
+[2018/10/22 14:36:26] BigData-> businessEvent :SB002
+[2018/10/22 15:07:14] BigData-> businessEvent :SB002
+[2018/10/22 15:53:20] BigData-> businessEvent :SB002
+[2018/10/22 16:20:00] App_Deactivated
+[2018/10/22 16:20:03] App_Deactivated
+[2018/10/22 16:20:05] App_Deactivated
+[2018/10/22 16:20:31] App_Deactivated
+[2018/10/22 16:21:52] App_Deactivated
+[2018/10/22 16:29:58] App_Deactivated
+[2018/10/22 16:32:33] BigData-> businessEvent :SB002
+[2018/10/22 17:03:31] BigData-> businessEvent :SB002
+[2018/10/22 17:12:06] App_Deactivated
+[2018/10/22 17:12:17] App_Deactivated
+[2018/10/22 17:12:58] App_Deactivated
+[2018/10/22 17:13:11] App_Deactivated
+[2018/10/22 17:13:19] App_Deactivated
+[2018/10/22 17:13:50] App_Deactivated
+[2018/10/22 17:13:56] App_Deactivated
+[2018/10/22 17:14:08] App_Deactivated
+[2018/10/22 17:14:15] App_Deactivated
+[2018/10/22 17:14:32] App_Deactivated
+[2018/10/22 17:14:44] App_Deactivated
+[2018/10/22 17:14:50] App_Deactivated
+[2018/10/22 17:15:01] App_Deactivated
+[2018/10/22 17:17:00] App_Deactivated
+[2018/10/22 17:34:27] BigData-> businessEvent :SB002
+[2018/10/22 18:05:22] BigData-> businessEvent :SB002
+[2018/10/22 18:36:21] BigData-> businessEvent :SB002
+[2018/10/22 18:42:25] App_Deactivated
+[2018/10/22 18:42:45] App_Deactivated
+[2018/10/22 18:43:16] App_Deactivated
+[2018/10/22 18:43:16] App_Deactivated
+[2018/10/22 18:43:16] App_Deactivated
+[2018/10/22 18:43:16] App_Deactivated
+[2018/10/23 9:16:36] AccelBall Start 
+[2018/10/23 9:16:36] IsXiaoXinPC   : True
+[2018/10/23 9:16:36] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/10/23 9:16:36] BigData-> clickEvent :SB011
+[2018/10/23 9:17:45] App_Deactivated
+[2018/10/23 9:18:45] App_Deactivated
+[2018/10/23 9:47:23] BigData-> businessEvent :SB002
+[2018/10/23 9:51:37] App_Deactivated
+[2018/10/23 10:18:17] BigData-> businessEvent :SB002
+[2018/10/23 10:49:17] BigData-> businessEvent :SB002
+[2018/10/23 11:20:14] BigData-> businessEvent :SB002
+[2018/10/23 11:29:26] App_Deactivated
+[2018/10/23 11:39:26] App_Deactivated
+[2018/10/23 11:51:19] BigData-> businessEvent :SB002
+[2018/10/23 12:22:28] BigData-> businessEvent :SB002
+[2018/10/23 14:54:24] App_Deactivated
+[2018/10/23 14:54:27] BigData-> businessEvent :SB002
+[2018/10/23 14:54:37] App_Deactivated
+[2018/10/23 14:54:40] App_Deactivated
+[2018/10/23 14:56:38] App_Deactivated
+[2018/10/23 15:00:20] App_Deactivated
+[2018/10/23 15:00:27] App_Deactivated
+[2018/10/23 15:00:47] App_Deactivated
+[2018/10/23 15:00:48] App_Deactivated
+[2018/10/23 15:24:07] App_Deactivated
+[2018/10/23 15:25:37] BigData-> businessEvent :SB002
+[2018/10/23 15:29:51] App_Deactivated
+[2018/10/23 15:50:35] App_Deactivated
+[2018/10/23 15:56:41] BigData-> businessEvent :SB002
+[2018/10/23 16:17:14] App_Deactivated
+[2018/10/23 16:23:08] App_Deactivated
+[2018/10/23 16:27:43] BigData-> businessEvent :SB002
+[2018/10/23 16:43:11] App_Deactivated
+[2018/10/23 16:53:02] App_Deactivated
+[2018/10/23 16:58:47] BigData-> businessEvent :SB002
+[2018/10/23 17:18:15] App_Deactivated
+[2018/10/23 17:21:20] App_Deactivated
+[2018/10/23 17:29:53] BigData-> businessEvent :SB002
+[2018/10/23 18:00:57] BigData-> businessEvent :SB002
+[2018/10/23 18:27:36] App_Deactivated
+[2018/10/23 18:31:59] BigData-> businessEvent :SB002
+[2018/10/23 18:53:44] App_Deactivated
+[2018/10/23 18:53:52] App_Deactivated
+[2018/10/24 9:06:15] AccelBall Start 
+[2018/10/24 9:06:15] IsXiaoXinPC   : True
+[2018/10/24 9:06:15] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/10/24 9:06:15] BigData-> clickEvent :SB011
+[2018/10/24 9:10:04] App_Deactivated
+[2018/10/24 9:11:47] App_Deactivated
+[2018/10/24 9:23:38] App_Deactivated
+[2018/10/24 9:27:00] App_Deactivated
+[2018/10/24 9:37:13] BigData-> businessEvent :SB002
+[2018/10/24 10:08:19] BigData-> businessEvent :SB002
+[2018/10/24 10:22:25] App_Deactivated
+[2018/10/24 10:22:26] App_Deactivated
+[2018/10/24 10:22:32] App_Deactivated
+[2018/10/24 10:39:19] BigData-> businessEvent :SB002
+[2018/10/24 10:46:28] App_Deactivated
+[2018/10/24 11:10:17] BigData-> businessEvent :SB002
+[2018/10/24 11:36:35] App_Deactivated
+[2018/10/24 11:36:38] App_Deactivated
+[2018/10/24 11:36:38] App_Deactivated
+[2018/10/24 11:38:00] App_Deactivated
+[2018/10/24 11:41:16] BigData-> businessEvent :SB002
+[2018/10/24 11:51:28] App_Deactivated
+[2018/10/24 12:12:18] BigData-> businessEvent :SB002
+[2018/10/24 14:31:52] App_Deactivated
+[2018/10/24 14:39:50]  GridWing.Visibility : Visible
+[2018/10/24 14:39:52] App_Deactivated
+[2018/10/24 14:39:54] GetGameNoDisStatus :False
+[2018/10/24 14:39:55] BigData-> clickEvent :SB013
+[2018/10/24 14:39:55] BigData-> clickEvent :SB020
+[2018/10/24 14:39:55] UnInitGameZone : True
+[2018/10/24 14:39:55] SetOCStatus(False) :False
+[2018/10/24 14:39:55] App_Deactivated
+[2018/10/25 9:27:20] AccelBall Start 
+[2018/10/25 9:27:20] IsXiaoXinPC   : True
+[2018/10/25 9:27:21] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/10/25 9:27:21] BigData-> clickEvent :SB011
+[2018/10/25 9:30:19] App_Deactivated
+[2018/10/25 9:33:33] App_Deactivated
+[2018/10/25 9:33:41] App_Deactivated
+[2018/10/25 9:34:03] App_Deactivated
+[2018/10/25 9:35:16] App_Deactivated
+[2018/10/25 9:37:12] App_Deactivated
+[2018/10/25 9:37:25] App_Deactivated
+[2018/10/25 9:45:51] App_Deactivated
+[2018/10/25 9:46:10] App_Deactivated
+[2018/10/25 9:48:01] App_Deactivated
+[2018/10/25 9:48:28] App_Deactivated
+[2018/10/25 9:49:42] App_Deactivated
+[2018/10/25 9:50:39] App_Deactivated
+[2018/10/25 9:50:51] App_Deactivated
+[2018/10/25 9:53:14] App_Deactivated
+[2018/10/25 9:54:57] App_Deactivated
+[2018/10/25 9:55:13] App_Deactivated
+[2018/10/25 9:57:04] App_Deactivated
+[2018/10/25 9:57:46] App_Deactivated
+[2018/10/25 9:57:59] App_Deactivated
+[2018/10/25 9:58:22] BigData-> businessEvent :SB002
+[2018/10/25 9:58:30] App_Deactivated
+[2018/10/25 10:00:18] App_Deactivated
+[2018/10/25 10:03:12] App_Deactivated
+[2018/10/25 10:06:39] App_Deactivated
+[2018/10/25 10:06:46] App_Deactivated
+[2018/10/25 10:08:33] App_Deactivated
+[2018/10/25 10:10:49] App_Deactivated
+[2018/10/25 10:12:50] App_Deactivated
+[2018/10/25 10:13:19] App_Deactivated
+[2018/10/25 10:14:16] App_Deactivated
+[2018/10/25 10:14:26] App_Deactivated
+[2018/10/25 10:14:34] App_Deactivated
+[2018/10/25 10:15:06] App_Deactivated
+[2018/10/25 10:19:22] App_Deactivated
+[2018/10/25 10:20:31] App_Deactivated
+[2018/10/25 10:20:33] App_Deactivated
+[2018/10/25 10:23:24] App_Deactivated
+[2018/10/25 10:25:49] App_Deactivated
+[2018/10/25 10:28:23] App_Deactivated
+[2018/10/25 10:29:26] BigData-> businessEvent :SB002
+[2018/10/25 10:30:42] App_Deactivated
+[2018/10/25 11:00:32] BigData-> businessEvent :SB002
+[2018/10/25 11:01:33] App_Deactivated
+[2018/10/25 11:01:50] App_Deactivated
+[2018/10/25 11:31:43] BigData-> businessEvent :SB002
+[2018/10/25 11:45:08] App_Deactivated
+[2018/10/25 11:46:25] App_Deactivated
+[2018/10/25 11:47:57] App_Deactivated
+[2018/10/25 11:49:06] App_Deactivated
+[2018/10/25 11:49:28] App_Deactivated
+[2018/10/25 11:49:56] App_Deactivated
+[2018/10/25 11:50:19] App_Deactivated
+[2018/10/25 11:50:21] App_Deactivated
+[2018/10/25 12:02:47] BigData-> businessEvent :SB002
+[2018/10/25 12:24:36] App_Deactivated
+[2018/10/25 12:27:59] App_Deactivated
+[2018/10/25 12:28:25] App_Deactivated
+[2018/10/25 12:33:47] BigData-> businessEvent :SB002
+[2018/10/25 12:34:09] App_Deactivated
+[2018/10/25 12:52:09] App_Deactivated
+[2018/10/25 13:04:46] BigData-> businessEvent :SB002
+[2018/10/25 13:57:21] BigData-> businessEvent :SB002
+[2018/10/25 14:19:40] App_Deactivated
+[2018/10/25 14:28:27] BigData-> businessEvent :SB002
+[2018/10/25 14:59:12] BigData-> businessEvent :SB002
+[2018/10/25 15:06:19] App_Deactivated
+[2018/10/25 15:06:26] App_Deactivated
+[2018/10/25 15:06:32] App_Deactivated
+[2018/10/25 15:06:33] App_Deactivated
+[2018/10/25 15:06:36] App_Deactivated
+[2018/10/25 15:09:50] App_Deactivated
+[2018/10/25 15:10:33] App_Deactivated
+[2018/10/25 15:12:47] App_Deactivated
+[2018/10/25 15:12:49] App_Deactivated
+[2018/10/25 15:12:50] App_Deactivated
+[2018/10/25 15:30:00] BigData-> businessEvent :SB002
+[2018/10/25 15:39:32] App_Deactivated
+[2018/10/25 15:55:14] App_Deactivated
+[2018/10/25 16:00:51] BigData-> businessEvent :SB002
+[2018/10/25 16:19:16] App_Deactivated
+[2018/10/25 16:19:48] App_Deactivated
+[2018/10/25 16:20:07] App_Deactivated
+[2018/10/25 16:20:12] App_Deactivated
+[2018/10/25 16:20:33] App_Deactivated
+[2018/10/25 16:20:34] App_Deactivated
+[2018/10/25 16:31:43] BigData-> businessEvent :SB002
+[2018/10/25 17:02:32] BigData-> businessEvent :SB002
+[2018/10/25 17:33:24] BigData-> businessEvent :SB002
+[2018/10/25 17:36:21] App_Deactivated
+[2018/10/25 17:54:33] App_Deactivated
+[2018/10/25 18:04:19] BigData-> businessEvent :SB002
+[2018/10/25 18:35:09] BigData-> businessEvent :SB002
+[2018/10/25 18:41:32] App_Deactivated
+[2018/10/25 19:04:12] App_Deactivated
+[2018/10/26 9:15:05] AccelBall Start 
+[2018/10/26 9:15:05] IsXiaoXinPC   : True
+[2018/10/26 9:15:05] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/10/26 9:15:05] BigData-> clickEvent :SB011
+[2018/10/26 9:15:16] App_Deactivated
+[2018/10/26 9:27:09] App_Deactivated
+[2018/10/26 9:27:41] App_Deactivated
+[2018/10/26 9:27:41] App_Deactivated
+[2018/10/26 9:27:53] App_Deactivated
+[2018/10/26 9:28:07] App_Deactivated
+[2018/10/26 9:32:22] App_Deactivated
+[2018/10/26 9:32:25] App_Deactivated
+[2018/10/26 9:35:01] App_Deactivated
+[2018/10/26 9:38:59] App_Deactivated
+[2018/10/26 9:40:10] App_Deactivated
+[2018/10/26 9:40:12] App_Deactivated
+[2018/10/26 9:46:05] BigData-> businessEvent :SB002
+[2018/10/26 9:49:49] App_Deactivated
+[2018/10/26 9:53:07] App_Deactivated
+[2018/10/26 9:56:48] App_Deactivated
+[2018/10/26 10:17:12] BigData-> businessEvent :SB002
+[2018/10/26 10:19:16] App_Deactivated
+[2018/10/26 10:20:40] App_Deactivated
+[2018/10/26 10:26:12] App_Deactivated
+[2018/10/26 10:26:16] App_Deactivated
+[2018/10/26 10:33:36] App_Deactivated
+[2018/10/26 10:48:20] BigData-> businessEvent :SB002
+[2018/10/26 11:19:29] BigData-> businessEvent :SB002
+[2018/10/26 11:50:44] BigData-> businessEvent :SB002
+[2018/10/26 12:21:47] BigData-> businessEvent :SB002
+[2018/10/26 12:44:42] App_Deactivated
+[2018/10/26 12:44:46] App_Deactivated
+[2018/10/26 12:54:47] App_Deactivated
+[2018/10/26 12:55:35] App_Deactivated
+[2018/10/26 12:55:36] App_Deactivated
+[2018/10/26 12:55:59] App_Deactivated
+[2018/10/26 12:56:06] App_Deactivated
+[2018/10/26 12:56:24] App_Deactivated
+[2018/10/26 13:06:19] BigData-> businessEvent :SB002
+[2018/10/26 14:01:30] App_Deactivated
+[2018/10/26 14:07:09] BigData-> businessEvent :SB002
+[2018/10/26 14:38:17] BigData-> businessEvent :SB002
+[2018/10/26 15:09:25] BigData-> businessEvent :SB002
+[2018/10/26 15:20:17] App_Deactivated
+[2018/10/26 15:40:39] BigData-> businessEvent :SB002
+[2018/10/26 16:11:48] BigData-> businessEvent :SB002
+[2018/10/26 16:24:44] App_Deactivated
+[2018/10/26 16:31:36] App_Deactivated
+[2018/10/26 16:42:59] BigData-> businessEvent :SB002
+[2018/10/26 17:09:10] App_Deactivated
+[2018/10/26 17:09:24] App_Deactivated
+[2018/10/26 17:12:50] App_Deactivated
+[2018/10/26 17:14:02] BigData-> businessEvent :SB002
+[2018/10/26 17:14:02] App_Deactivated
+[2018/10/26 17:26:26] App_Deactivated
+[2018/10/26 17:26:39] App_Deactivated
+[2018/10/26 17:26:41] App_Deactivated
+[2018/10/26 17:27:16] App_Deactivated
+[2018/10/26 17:27:52] App_Deactivated
+[2018/10/26 17:37:52] App_Deactivated
+[2018/10/26 17:37:58] App_Deactivated
+[2018/10/26 17:40:46] App_Deactivated
+[2018/10/26 17:40:54] App_Deactivated
+[2018/10/26 17:42:29] App_Deactivated
+[2018/10/26 17:43:10] App_Deactivated
+[2018/10/26 17:43:38] App_Deactivated
+[2018/10/26 17:43:40] App_Deactivated
+[2018/10/26 17:45:07] BigData-> businessEvent :SB002
+[2018/10/26 17:53:28] App_Deactivated
+[2018/10/26 18:16:14] BigData-> businessEvent :SB002
+[2018/10/26 18:47:20] BigData-> businessEvent :SB002
+[2018/10/26 18:58:38] App_Deactivated
+[2018/10/26 18:59:03] App_Deactivated
+[2018/10/26 19:04:23] App_Deactivated
+[2018/10/26 19:13:41] App_Deactivated
+[2018/10/26 19:13:49] App_Deactivated
+[2018/10/26 19:16:50] App_Deactivated
+[2018/10/26 19:18:21] App_Deactivated
+[2018/10/26 19:18:21] BigData-> businessEvent :SB002
+[2018/10/26 19:18:43] App_Deactivated
+[2018/10/26 19:19:05] App_Deactivated
+[2018/10/26 19:19:06] App_Deactivated
+[2018/10/26 19:19:07] App_Deactivated
+[2018/10/26 19:19:24] App_Deactivated
+[2018/10/26 19:19:31] App_Deactivated
+[2018/10/26 19:19:33] App_Deactivated
+[2018/10/26 19:21:47] App_Deactivated
+[2018/10/26 19:33:06] App_Deactivated
+[2018/10/26 19:39:12] App_Deactivated
+[2018/10/26 19:49:02] App_Deactivated
+[2018/10/26 19:49:31] BigData-> businessEvent :SB002
+[2018/10/26 19:50:44] App_Deactivated
+[2018/10/26 20:00:13] App_Deactivated
+[2018/10/26 20:08:13] App_Deactivated
+[2018/10/26 20:08:16] App_Deactivated
+[2018/10/26 20:15:00] App_Deactivated
+[2018/10/26 20:15:11] App_Deactivated
+[2018/10/26 20:15:50] App_Deactivated
+[2018/10/26 20:16:32] App_Deactivated
+[2018/10/26 20:16:43] App_Deactivated
+[2018/10/26 20:16:45] App_Deactivated
+[2018/10/26 20:16:46] App_Deactivated
+[2018/10/26 20:16:46] App_Deactivated
+[2018/10/26 20:16:46] App_Deactivated
+[2018/10/29 9:10:37] AccelBall Start 
+[2018/10/29 9:10:37] IsXiaoXinPC   : True
+[2018/10/29 9:10:37] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/10/29 9:10:37] BigData-> clickEvent :SB011
+[2018/10/29 9:11:02] App_Deactivated
+[2018/10/29 9:19:00] App_Deactivated
+[2018/10/29 9:19:13] App_Deactivated
+[2018/10/29 9:20:48] App_Deactivated
+[2018/10/29 9:24:17] App_Deactivated
+[2018/10/29 9:24:32] App_Deactivated
+[2018/10/29 9:26:40] App_Deactivated
+[2018/10/29 9:28:37] App_Deactivated
+[2018/10/29 9:28:43] App_Deactivated
+[2018/10/29 9:29:37] App_Deactivated
+[2018/10/29 9:30:08] App_Deactivated
+[2018/10/29 9:31:14] App_Deactivated
+[2018/10/29 9:34:49] App_Deactivated
+[2018/10/29 9:40:36] App_Deactivated
+[2018/10/29 9:41:33] BigData-> businessEvent :SB002
+[2018/10/29 9:42:40] App_Deactivated
+[2018/10/29 9:42:49] App_Deactivated
+[2018/10/29 9:43:09] App_Deactivated
+[2018/10/29 9:43:20] App_Deactivated
+[2018/10/29 9:43:40] App_Deactivated
+[2018/10/29 9:43:58] App_Deactivated
+[2018/10/29 9:44:19] App_Deactivated
+[2018/10/29 9:44:43] App_Deactivated
+[2018/10/29 9:49:10] App_Deactivated
+[2018/10/29 9:49:40] App_Deactivated
+[2018/10/29 9:52:56] App_Deactivated
+[2018/10/29 9:53:29] App_Deactivated
+[2018/10/29 9:54:00] App_Deactivated
+[2018/10/29 9:54:30] App_Deactivated
+[2018/10/29 9:54:55] App_Deactivated
+[2018/10/29 10:12:34] BigData-> businessEvent :SB002
+[2018/10/29 10:41:10]  GridWing.Visibility : Visible
+[2018/10/29 10:41:16] GridWing.Visibility = Visibility.Collapsed
+[2018/10/29 10:41:16] GetGameNoDisStatus :False
+[2018/10/29 10:41:19] App_Deactivated
+[2018/10/29 10:43:47] BigData-> businessEvent :SB002
+[2018/10/29 10:53:17] App_Deactivated
+[2018/10/29 10:53:21] App_Deactivated
+[2018/10/29 10:54:37] App_Deactivated
+[2018/10/29 10:54:41] App_Deactivated
+[2018/10/29 10:54:45] App_Deactivated
+[2018/10/29 10:54:47] App_Deactivated
+[2018/10/29 11:14:55] BigData-> businessEvent :SB002
+[2018/10/29 11:45:58] BigData-> businessEvent :SB002
+[2018/10/29 12:17:08] BigData-> businessEvent :SB002
+[2018/10/29 12:48:13] BigData-> businessEvent :SB002
+[2018/10/29 13:19:18] BigData-> businessEvent :SB002
+[2018/10/29 13:50:22] BigData-> businessEvent :SB002
+[2018/10/29 14:13:45] App_Deactivated
+[2018/10/29 14:18:21] App_Deactivated
+[2018/10/29 14:18:53] App_Deactivated
+[2018/10/29 14:18:58] App_Deactivated
+[2018/10/29 14:21:11] App_Deactivated
+[2018/10/29 14:21:29] BigData-> businessEvent :SB002
+[2018/10/29 14:29:22] App_Deactivated
+[2018/10/29 14:29:56] App_Deactivated
+[2018/10/29 14:52:35] BigData-> businessEvent :SB002
+[2018/10/29 15:03:21] App_Deactivated
+[2018/10/29 15:06:46] App_Deactivated
+[2018/10/29 15:06:55] App_Deactivated
+[2018/10/29 15:23:42] BigData-> businessEvent :SB002
+[2018/10/29 15:46:56] App_Deactivated
+[2018/10/29 15:48:08] App_Deactivated
+[2018/10/29 15:48:37] App_Deactivated
+[2018/10/29 15:54:54] BigData-> businessEvent :SB002
+[2018/10/29 16:26:14] BigData-> businessEvent :SB002
+[2018/10/29 16:27:49] App_Deactivated
+[2018/10/29 16:57:16] BigData-> businessEvent :SB002
+[2018/10/29 17:21:01] App_Deactivated
+[2018/10/29 17:21:30] App_Deactivated
+[2018/10/29 17:28:25] BigData-> businessEvent :SB002
+[2018/10/29 17:54:36] App_Deactivated
+[2018/10/29 17:54:40] App_Deactivated
+[2018/10/29 17:55:22] App_Deactivated
+[2018/10/29 17:59:38] BigData-> businessEvent :SB002
+[2018/10/29 18:30:47] BigData-> businessEvent :SB002
+[2018/10/29 18:53:58] App_Deactivated
+[2018/10/29 18:54:18] App_Deactivated
+[2018/10/29 19:01:59] BigData-> businessEvent :SB002
+[2018/10/29 19:13:39] App_Deactivated
+[2018/10/29 19:13:43] App_Deactivated
+[2018/10/29 19:13:46] App_Deactivated
+[2018/10/29 19:13:49] App_Deactivated
+[2018/10/29 19:13:51] App_Deactivated
+[2018/10/29 19:13:51] App_Deactivated
+[2018/10/29 19:13:52] App_Deactivated
+[2018/10/29 19:13:52] App_Deactivated
+[2018/10/30 8:53:15] AccelBall Start 
+[2018/10/30 8:53:15] IsXiaoXinPC   : True
+[2018/10/30 8:53:15] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/10/30 8:53:15] BigData-> clickEvent :SB011
+[2018/10/30 8:58:25] App_Deactivated
+[2018/10/30 8:58:58] App_Deactivated
+[2018/10/30 8:59:20] App_Deactivated
+[2018/10/30 9:10:34] App_Deactivated
+[2018/10/30 9:10:43] App_Deactivated
+[2018/10/30 9:12:04] App_Deactivated
+[2018/10/30 9:12:30] App_Deactivated
+[2018/10/30 9:12:38] App_Deactivated
+[2018/10/30 9:12:43] App_Deactivated
+[2018/10/30 9:12:57] App_Deactivated
+[2018/10/30 9:13:31] App_Deactivated
+[2018/10/30 9:24:11] BigData-> businessEvent :SB002
+[2018/10/30 9:55:21] BigData-> businessEvent :SB002
+[2018/10/30 10:26:16] BigData-> businessEvent :SB002
+[2018/10/30 10:57:14] BigData-> businessEvent :SB002
+[2018/10/30 11:28:09] BigData-> businessEvent :SB002
+[2018/10/30 11:59:10] BigData-> businessEvent :SB002
+[2018/10/30 12:07:17] App_Deactivated
+[2018/10/30 12:30:01] BigData-> businessEvent :SB002
+[2018/10/30 13:32:04] BigData-> businessEvent :SB002
+[2018/10/30 14:02:28] App_Deactivated
+[2018/10/30 14:24:17] BigData-> businessEvent :SB002
+[2018/10/30 14:28:33] App_Deactivated
+[2018/10/30 14:29:01] App_Deactivated
+[2018/10/30 14:29:41] App_Deactivated
+[2018/10/30 14:30:05] App_Deactivated
+[2018/10/30 14:39:02] App_Deactivated
+[2018/10/30 14:55:22] BigData-> businessEvent :SB002
+[2018/10/30 15:26:32] BigData-> businessEvent :SB002
+[2018/10/30 15:35:09] App_Deactivated
+[2018/10/30 15:36:25] App_Deactivated
+[2018/10/30 15:36:28] App_Deactivated
+[2018/10/30 15:38:18] App_Deactivated
+[2018/10/30 15:57:43] BigData-> businessEvent :SB002
+[2018/10/30 16:17:34] App_Deactivated
+[2018/10/30 16:28:54] BigData-> businessEvent :SB002
+[2018/10/30 17:00:04] BigData-> businessEvent :SB002
+[2018/10/30 17:31:12] BigData-> businessEvent :SB002
+[2018/10/30 17:34:59] App_Deactivated
+[2018/10/30 17:36:52] App_Deactivated
+[2018/10/30 17:38:10] App_Deactivated
+[2018/10/30 17:38:17] App_Deactivated
+[2018/10/30 17:39:16] App_Deactivated
+[2018/10/30 17:39:45] App_Deactivated
+[2018/10/30 17:49:52] App_Deactivated
+[2018/10/30 18:02:13] BigData-> businessEvent :SB002
+[2018/10/30 18:27:26] App_Deactivated
+[2018/10/30 18:27:43] App_Deactivated
+[2018/10/30 18:27:53] App_Deactivated
+[2018/10/30 18:27:55] App_Deactivated
+[2018/10/30 18:28:24] App_Deactivated
+[2018/10/30 18:28:31] App_Deactivated
+[2018/10/30 18:30:43] App_Deactivated
+[2018/10/30 18:30:54] App_Deactivated
+[2018/10/30 18:31:16] App_Deactivated
+[2018/10/30 18:32:38] App_Deactivated
+[2018/10/30 18:33:19] BigData-> businessEvent :SB002
+[2018/10/30 18:35:07] App_Deactivated
+[2018/10/30 18:35:41] App_Deactivated
+[2018/10/30 18:38:04] App_Deactivated
+[2018/10/30 18:38:08] App_Deactivated
+[2018/10/30 18:38:13] App_Deactivated
+[2018/10/30 18:38:13] App_Deactivated
+[2018/10/30 18:38:13] App_Deactivated
+[2018/10/31 9:02:01] AccelBall Start 
+[2018/10/31 9:02:01] IsXiaoXinPC   : True
+[2018/10/31 9:02:01] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/10/31 9:02:01] BigData-> clickEvent :SB011
+[2018/10/31 9:02:39] App_Deactivated
+[2018/10/31 9:33:00] BigData-> businessEvent :SB002
+[2018/10/31 9:41:29] App_Deactivated
+[2018/10/31 10:00:37] App_Deactivated
+[2018/10/31 10:01:11] App_Deactivated
+[2018/10/31 10:07:15] BigData-> businessEvent :SB002
+[2018/10/31 10:38:13] BigData-> businessEvent :SB002
+[2018/10/31 10:46:45] App_Deactivated
+[2018/10/31 10:46:55] App_Deactivated
+[2018/10/31 10:47:39] App_Deactivated
+[2018/10/31 10:50:54] App_Deactivated
+[2018/10/31 10:51:34] App_Deactivated
+[2018/10/31 10:51:35] App_Deactivated
+[2018/10/31 10:52:23] App_Deactivated
+[2018/10/31 10:52:46] App_Deactivated
+[2018/10/31 10:55:42] App_Deactivated
+[2018/10/31 10:56:11] App_Deactivated
+[2018/10/31 10:56:42] App_Deactivated
+[2018/10/31 11:09:13] BigData-> businessEvent :SB002
+[2018/10/31 11:13:33] App_Deactivated
+[2018/10/31 11:16:39] App_Deactivated
+[2018/10/31 11:17:33] App_Deactivated
+[2018/10/31 11:18:56] App_Deactivated
+[2018/10/31 11:18:58] App_Deactivated
+[2018/10/31 11:30:53] App_Deactivated
+[2018/10/31 11:31:19] App_Deactivated
+[2018/10/31 11:31:26] App_Deactivated
+[2018/10/31 11:31:46] App_Deactivated
+[2018/10/31 11:31:52] App_Deactivated
+[2018/10/31 11:32:43] App_Deactivated
+[2018/10/31 11:32:45] App_Deactivated
+[2018/10/31 11:40:14] BigData-> businessEvent :SB002
+[2018/10/31 11:52:57] App_Deactivated
+[2018/10/31 11:53:16] App_Deactivated
+[2018/10/31 11:53:16] App_Deactivated
+[2018/10/31 11:53:22] App_Deactivated
+[2018/10/31 11:53:46] App_Deactivated
+[2018/10/31 12:00:27] App_Deactivated
+[2018/10/31 12:01:21] App_Deactivated
+[2018/10/31 12:06:02] App_Deactivated
+[2018/10/31 12:11:16] BigData-> businessEvent :SB002
+[2018/10/31 14:20:51] App_Deactivated
+[2018/10/31 14:21:41] App_Deactivated
+[2018/10/31 14:21:45] App_Deactivated
+[2018/10/31 14:21:55] BigData-> businessEvent :SB002
+[2018/10/31 14:26:50] App_Deactivated
+[2018/10/31 14:28:32] App_Deactivated
+[2018/10/31 14:52:58] BigData-> businessEvent :SB002
+[2018/10/31 15:24:00] BigData-> businessEvent :SB002
+[2018/10/31 15:55:03] BigData-> businessEvent :SB002
+[2018/10/31 16:26:00] BigData-> businessEvent :SB002
+[2018/10/31 16:56:59] BigData-> businessEvent :SB002
+[2018/10/31 17:13:28] App_Deactivated
+[2018/10/31 17:27:59] BigData-> businessEvent :SB002
+[2018/10/31 17:58:57] BigData-> businessEvent :SB002
+[2018/10/31 18:29:53] BigData-> businessEvent :SB002
+[2018/10/31 18:31:45] App_Deactivated
+[2018/10/31 18:32:00] App_Deactivated
+[2018/10/31 18:32:05] App_Deactivated
+[2018/11/1 9:11:34] AccelBall Start 
+[2018/11/1 9:11:34] IsXiaoXinPC   : True
+[2018/11/1 9:11:34] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/11/1 9:11:34] BigData-> clickEvent :SB011
+[2018/11/1 9:11:39]  GridWing.Visibility : Visible
+[2018/11/1 9:11:40] App_Deactivated
+[2018/11/1 9:11:42] GridWing.Visibility = Visibility.Collapsed
+[2018/11/1 9:11:42] GetGameNoDisStatus :False
+[2018/11/1 9:13:47] App_Deactivated
+[2018/11/1 9:13:48] App_Deactivated
+[2018/11/1 9:14:00] App_Deactivated
+[2018/11/1 9:15:41] App_Deactivated
+[2018/11/1 9:29:27] App_Deactivated
+[2018/11/1 9:32:41] App_Deactivated
+[2018/11/1 9:32:50] App_Deactivated
+[2018/11/1 9:34:56] App_Deactivated
+[2018/11/1 9:42:35] BigData-> businessEvent :SB002
+[2018/11/1 10:13:47] BigData-> businessEvent :SB002
+[2018/11/1 10:45:04] BigData-> businessEvent :SB002
+[2018/11/1 10:48:46] App_Deactivated
+[2018/11/1 10:59:58] App_Deactivated
+[2018/11/1 11:00:35] App_Deactivated
+[2018/11/1 11:00:37] App_Deactivated
+[2018/11/1 11:01:14] App_Deactivated
+[2018/11/1 11:01:29] App_Deactivated
+[2018/11/1 11:01:32] App_Deactivated
+[2018/11/1 11:01:38] App_Deactivated
+[2018/11/1 11:01:49] App_Deactivated
+[2018/11/1 11:01:55] App_Deactivated
+[2018/11/1 11:02:02] App_Deactivated
+[2018/11/1 11:02:05] App_Deactivated
+[2018/11/1 11:02:15] App_Deactivated
+[2018/11/1 11:02:17] App_Deactivated
+[2018/11/1 11:02:18] App_Deactivated
+[2018/11/1 11:02:28] App_Deactivated
+[2018/11/1 11:02:55] App_Deactivated
+[2018/11/1 11:04:42] App_Deactivated
+[2018/11/1 11:07:19] App_Deactivated
+[2018/11/1 11:07:37] App_Deactivated
+[2018/11/1 11:09:04] App_Deactivated
+[2018/11/1 11:09:07] App_Deactivated
+[2018/11/1 11:10:05] App_Deactivated
+[2018/11/1 11:10:35] App_Deactivated
+[2018/11/1 11:10:48] App_Deactivated
+[2018/11/1 11:11:25] App_Deactivated
+[2018/11/1 11:11:34] App_Deactivated
+[2018/11/1 11:12:32] App_Deactivated
+[2018/11/1 11:13:00] App_Deactivated
+[2018/11/1 11:16:02] BigData-> businessEvent :SB002
+[2018/11/1 11:47:02] BigData-> businessEvent :SB002
+[2018/11/1 11:49:44] App_Deactivated
+[2018/11/1 11:52:10] App_Deactivated
+[2018/11/1 11:52:18] App_Deactivated
+[2018/11/1 11:52:22] App_Deactivated
+[2018/11/1 12:18:06] BigData-> businessEvent :SB002
+[2018/11/1 12:49:12] BigData-> businessEvent :SB002
+[2018/11/1 13:53:18] BigData-> businessEvent :SB002
+[2018/11/1 14:06:15] App_Deactivated
+[2018/11/1 14:31:29] BigData-> businessEvent :SB002
+[2018/11/1 14:44:21] App_Deactivated
+[2018/11/1 14:44:28] App_Deactivated
+[2018/11/1 14:44:31] App_Deactivated
+[2018/11/1 14:44:33] App_Deactivated
+[2018/11/1 14:44:36] App_Deactivated
+[2018/11/1 14:46:09] App_Deactivated
+[2018/11/1 14:46:56] App_Deactivated
+[2018/11/1 14:47:34] App_Deactivated
+[2018/11/1 14:47:36] App_Deactivated
+[2018/11/1 14:47:40] App_Deactivated
+[2018/11/1 15:02:27] BigData-> businessEvent :SB002
+[2018/11/1 15:07:45] App_Deactivated
+[2018/11/1 15:22:58] App_Deactivated
+[2018/11/1 15:33:14] BigData-> businessEvent :SB002
+[2018/11/1 16:02:07] App_Deactivated
+[2018/11/1 16:03:57] BigData-> businessEvent :SB002
+[2018/11/1 16:34:54] BigData-> businessEvent :SB002
+[2018/11/1 17:05:50] BigData-> businessEvent :SB002
+[2018/11/1 17:36:45] BigData-> businessEvent :SB002
+[2018/11/1 17:42:21] App_Deactivated
+[2018/11/1 17:42:25] App_Deactivated
+[2018/11/1 17:42:27] App_Deactivated
+[2018/11/1 17:42:29] App_Deactivated
+[2018/11/1 17:44:44] App_Deactivated
+[2018/11/1 17:46:10] App_Deactivated
+[2018/11/1 18:07:28] BigData-> businessEvent :SB002
+[2018/11/1 18:28:02] App_Deactivated
+[2018/11/1 18:33:37] App_Deactivated
+[2018/11/2 9:25:36] AccelBall Start 
+[2018/11/2 9:25:36] IsXiaoXinPC   : True
+[2018/11/2 9:25:36] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/11/2 9:25:36] BigData-> clickEvent :SB011
+[2018/11/2 9:40:09] App_Deactivated
+[2018/11/2 9:40:29] App_Deactivated
+[2018/11/2 9:40:50] App_Deactivated
+[2018/11/2 9:40:54] App_Deactivated
+[2018/11/2 9:40:56] App_Deactivated
+[2018/11/2 9:41:32] App_Deactivated
+[2018/11/2 9:43:03] App_Deactivated
+[2018/11/2 9:56:36] BigData-> businessEvent :SB002
+[2018/11/2 10:27:40] BigData-> businessEvent :SB002
+[2018/11/2 11:08:00] BigData-> businessEvent :SB002
+[2018/11/2 11:09:15] App_Deactivated
+[2018/11/2 11:09:53] App_Deactivated
+[2018/11/2 11:13:19] App_Deactivated
+[2018/11/2 11:14:16] App_Deactivated
+[2018/11/2 11:16:04] App_Deactivated
+[2018/11/2 11:16:18] App_Deactivated
+[2018/11/2 11:16:23] App_Deactivated
+[2018/11/2 11:23:50] App_Deactivated
+[2018/11/2 11:28:30] App_Deactivated
+[2018/11/2 11:39:10] BigData-> businessEvent :SB002
+[2018/11/2 11:50:27] App_Deactivated
+[2018/11/2 11:50:57] App_Deactivated
+[2018/11/2 11:52:55] App_Deactivated
+[2018/11/2 11:54:54] App_Deactivated
+[2018/11/2 11:54:55] App_Deactivated
+[2018/11/2 11:54:56] App_Deactivated
+[2018/11/2 11:54:57] App_Deactivated
+[2018/11/2 11:54:58] App_Deactivated
+[2018/11/2 11:54:59] App_Deactivated
+[2018/11/2 11:57:26] App_Deactivated
+[2018/11/2 11:57:29] App_Deactivated
+[2018/11/2 12:10:18] BigData-> businessEvent :SB002
+[2018/11/2 12:20:10] App_Deactivated
+[2018/11/2 12:25:37] App_Deactivated
+[2018/11/2 12:41:28] BigData-> businessEvent :SB002
+[2018/11/2 14:00:10] App_Deactivated
+[2018/11/2 14:00:54] App_Deactivated
+[2018/11/2 14:01:04] App_Deactivated
+[2018/11/2 14:01:30] App_Deactivated
+[2018/11/2 14:02:32] App_Deactivated
+[2018/11/2 14:04:32] App_Deactivated
+[2018/11/2 14:04:40] App_Deactivated
+[2018/11/2 14:04:41] App_Deactivated
+[2018/11/2 14:04:42] App_Deactivated
+[2018/11/2 14:25:33] BigData-> businessEvent :SB002
+[2018/11/2 14:56:38] BigData-> businessEvent :SB002
+[2018/11/2 15:23:54] App_Deactivated
+[2018/11/2 15:24:57] App_Deactivated
+[2018/11/2 15:32:52] BigData-> businessEvent :SB002
+[2018/11/2 15:41:45] App_Deactivated
+[2018/11/2 15:42:56] App_Deactivated
+[2018/11/2 15:43:51] App_Deactivated
+[2018/11/2 15:43:57] App_Deactivated
+[2018/11/2 15:44:01] App_Deactivated
+[2018/11/2 15:44:03] App_Deactivated
+[2018/11/2 15:47:09] App_Deactivated
+[2018/11/2 16:01:03] App_Deactivated
+[2018/11/2 16:02:00] App_Deactivated
+[2018/11/2 16:03:57] BigData-> businessEvent :SB002
+[2018/11/2 16:35:02] BigData-> businessEvent :SB002
+[2018/11/2 17:06:06] BigData-> businessEvent :SB002
+[2018/11/2 17:37:21] BigData-> businessEvent :SB002
+[2018/11/2 17:43:53] App_Deactivated
+[2018/11/2 17:53:36] App_Deactivated
+[2018/11/2 17:54:03] App_Deactivated
+[2018/11/2 18:08:20] BigData-> businessEvent :SB002
+[2018/11/2 18:18:42] App_Deactivated
+[2018/11/2 18:21:41] App_Deactivated
+[2018/11/2 18:21:46] App_Deactivated
+[2018/11/2 18:23:12] App_Deactivated
+[2018/11/2 18:25:28] App_Deactivated
+[2018/11/2 18:25:29] App_Deactivated
+[2018/11/2 18:25:31] App_Deactivated
+[2018/11/2 18:25:32] App_Deactivated
+[2018/11/2 18:25:46] App_Deactivated
+[2018/11/2 18:25:58] App_Deactivated
+[2018/11/2 18:26:08] App_Deactivated
+[2018/11/2 18:31:08] App_Deactivated
+[2018/11/2 18:39:15] BigData-> businessEvent :SB002
+[2018/11/2 18:41:45] App_Deactivated
+[2018/11/2 18:47:22] App_Deactivated
+[2018/11/2 18:49:25] App_Deactivated
+[2018/11/2 18:50:08] App_Deactivated
+[2018/11/2 18:50:12] App_Deactivated
+[2018/11/2 18:51:37] App_Deactivated
+[2018/11/2 18:52:46] App_Deactivated
+[2018/11/2 18:53:03] App_Deactivated
+[2018/11/2 18:54:27] App_Deactivated
+[2018/11/2 18:54:28] App_Deactivated
+[2018/11/2 18:54:58] App_Deactivated
+[2018/11/2 18:55:00] App_Deactivated
+[2018/11/2 18:55:25] App_Deactivated
+[2018/11/2 18:55:31] App_Deactivated
+[2018/11/2 18:55:33] App_Deactivated
+[2018/11/2 18:55:39] App_Deactivated
+[2018/11/2 19:00:49] App_Deactivated
+[2018/11/2 19:00:57] App_Deactivated
+[2018/11/2 19:03:06] App_Deactivated
+[2018/11/2 19:04:54] App_Deactivated
+[2018/11/2 19:06:34] App_Deactivated
+[2018/11/2 19:06:37] App_Deactivated
+[2018/11/2 19:07:49] App_Deactivated
+[2018/11/2 19:07:55] App_Deactivated
+[2018/11/2 19:08:24] App_Deactivated
+[2018/11/2 19:10:12] BigData-> businessEvent :SB002
+[2018/11/2 19:33:40] App_Deactivated
+[2018/11/2 19:33:52] App_Deactivated
+[2018/11/2 19:33:59] App_Deactivated
+[2018/11/2 19:34:01] App_Deactivated
+[2018/11/2 19:34:01] App_Deactivated
+[2018/11/2 19:34:02] App_Deactivated
+[2018/11/5 8:55:37] AccelBall Start 
+[2018/11/5 8:55:37] IsXiaoXinPC   : True
+[2018/11/5 8:55:37] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/11/5 8:55:37] BigData-> clickEvent :SB011
+[2018/11/5 8:56:38] App_Deactivated
+[2018/11/5 8:58:51] App_Deactivated
+[2018/11/5 9:10:54] App_Deactivated
+[2018/11/5 9:11:05] App_Deactivated
+[2018/11/5 9:11:06] App_Deactivated
+[2018/11/5 9:26:31] BigData-> businessEvent :SB002
+[2018/11/5 9:57:27] BigData-> businessEvent :SB002
+[2018/11/5 10:00:53] App_Deactivated
+[2018/11/5 10:01:09] App_Deactivated
+[2018/11/5 10:01:42] App_Deactivated
+[2018/11/5 10:02:37] App_Deactivated
+[2018/11/5 10:02:42] App_Deactivated
+[2018/11/5 10:02:54] App_Deactivated
+[2018/11/5 10:05:38] App_Deactivated
+[2018/11/5 10:08:17] App_Deactivated
+[2018/11/5 10:28:23] BigData-> businessEvent :SB002
+[2018/11/5 10:59:22] BigData-> businessEvent :SB002
+[2018/11/5 11:16:50] App_Deactivated
+[2018/11/5 11:17:48] App_Deactivated
+[2018/11/5 11:30:19] BigData-> businessEvent :SB002
+[2018/11/5 12:01:16] BigData-> businessEvent :SB002
+[2018/11/5 14:34:45] App_Deactivated
+[2018/11/5 14:39:09] BigData-> businessEvent :SB002
+[2018/11/5 14:55:10] App_Deactivated
+[2018/11/5 15:10:10] BigData-> businessEvent :SB002
+[2018/11/5 15:10:14] App_Deactivated
+[2018/11/5 15:29:40] App_Deactivated
+[2018/11/5 15:30:02] App_Deactivated
+[2018/11/5 15:41:12] BigData-> businessEvent :SB002
+[2018/11/5 16:05:09] App_Deactivated
+[2018/11/5 16:12:09] BigData-> businessEvent :SB002
+[2018/11/5 16:33:27] App_Deactivated
+[2018/11/5 16:43:05] BigData-> businessEvent :SB002
+[2018/11/5 17:07:50] App_Deactivated
+[2018/11/5 17:07:51] App_Deactivated
+[2018/11/5 17:07:56] App_Deactivated
+[2018/11/5 17:07:57] App_Deactivated
+[2018/11/5 17:07:58] App_Deactivated
+[2018/11/5 17:07:59] App_Deactivated
+[2018/11/5 17:08:01] App_Deactivated
+[2018/11/5 17:08:02] App_Deactivated
+[2018/11/5 17:08:03] App_Deactivated
+[2018/11/5 17:14:04] BigData-> businessEvent :SB002
+[2018/11/5 17:45:00] BigData-> businessEvent :SB002
+[2018/11/5 17:48:45] App_Deactivated
+[2018/11/5 17:48:50] App_Deactivated
+[2018/11/5 18:16:07] BigData-> businessEvent :SB002
+[2018/11/5 18:22:04]  GridWing.Visibility : Visible
+[2018/11/5 18:23:29] GridWing.Visibility = Visibility.Collapsed
+[2018/11/5 18:23:29] GetGameNoDisStatus :False
+[2018/11/5 18:37:00] App_Deactivated
+[2018/11/5 18:37:05] App_Deactivated
+[2018/11/5 18:37:14] App_Deactivated
+[2018/11/5 18:45:18] App_Deactivated
+[2018/11/5 18:45:21] App_Deactivated
+[2018/11/5 18:45:22] App_Deactivated
+[2018/11/5 18:45:26] App_Deactivated
+[2018/11/5 18:45:29] App_Deactivated
+[2018/11/6 9:33:38] AccelBall Start 
+[2018/11/6 9:33:38] IsXiaoXinPC   : True
+[2018/11/6 9:33:38] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/11/6 9:33:38] BigData-> clickEvent :SB011
+[2018/11/6 9:33:53] App_Deactivated
+[2018/11/6 9:35:08] App_Deactivated
+[2018/11/6 9:37:25] App_Deactivated
+[2018/11/6 9:44:26] App_Deactivated
+[2018/11/6 9:44:54] App_Deactivated
+[2018/11/6 10:04:37] BigData-> businessEvent :SB002
+[2018/11/6 10:35:38] BigData-> businessEvent :SB002
+[2018/11/6 10:47:08] App_Deactivated
+[2018/11/6 11:06:39] BigData-> businessEvent :SB002
+[2018/11/6 11:12:11] App_Deactivated
+[2018/11/6 11:12:18] App_Deactivated
+[2018/11/6 11:14:49] App_Deactivated
+[2018/11/6 11:16:22] App_Deactivated
+[2018/11/6 11:37:39] BigData-> businessEvent :SB002
+[2018/11/6 12:08:35] BigData-> businessEvent :SB002
+[2018/11/6 14:33:05] BigData-> businessEvent :SB002
+[2018/11/6 15:03:59] BigData-> businessEvent :SB002
+[2018/11/6 15:34:53] BigData-> businessEvent :SB002
+[2018/11/6 15:46:14] App_Deactivated
+[2018/11/6 15:46:20] App_Deactivated
+[2018/11/6 16:05:47] BigData-> businessEvent :SB002
+[2018/11/6 16:36:42] BigData-> businessEvent :SB002
+[2018/11/6 17:07:36] BigData-> businessEvent :SB002
+[2018/11/6 17:38:30] BigData-> businessEvent :SB002
+[2018/11/6 18:09:27] BigData-> businessEvent :SB002
+[2018/11/6 18:38:17] App_Deactivated
+[2018/11/6 18:40:01] App_Deactivated
+[2018/11/6 18:40:25] BigData-> businessEvent :SB002
+[2018/11/6 18:41:11] App_Deactivated
+[2018/11/6 18:41:23] App_Deactivated
+[2018/11/6 18:41:28] App_Deactivated
+[2018/11/6 18:41:46] App_Deactivated
+[2018/11/7 9:13:24] AccelBall Start 
+[2018/11/7 9:13:24] IsXiaoXinPC   : True
+[2018/11/7 9:13:25] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/11/7 9:13:25] BigData-> clickEvent :SB011
+[2018/11/7 9:14:23] App_Deactivated
+[2018/11/7 9:16:17] App_Deactivated
+[2018/11/7 9:22:59] App_Deactivated
+[2018/11/7 9:29:46] App_Deactivated
+[2018/11/7 9:33:03] App_Deactivated
+[2018/11/7 9:41:09] App_Deactivated
+[2018/11/7 9:44:18] BigData-> businessEvent :SB002
+[2018/11/7 10:15:20] BigData-> businessEvent :SB002
+[2018/11/7 10:52:16] BigData-> businessEvent :SB002
+[2018/11/7 11:19:20] App_Deactivated
+[2018/11/7 11:19:21] App_Deactivated
+[2018/11/7 11:23:09] BigData-> businessEvent :SB002
+[2018/11/7 11:54:06] BigData-> businessEvent :SB002
+[2018/11/7 12:25:01] BigData-> businessEvent :SB002
+[2018/11/7 14:22:07] BigData-> businessEvent :SB002
+[2018/11/7 14:53:07] BigData-> businessEvent :SB002
+[2018/11/7 15:32:17] BigData-> businessEvent :SB002
+[2018/11/7 16:03:14] BigData-> businessEvent :SB002
+[2018/11/7 16:34:16] BigData-> businessEvent :SB002
+[2018/11/7 17:05:12] BigData-> businessEvent :SB002
+[2018/11/7 17:36:13] BigData-> businessEvent :SB002
+[2018/11/7 18:04:22] App_Deactivated
+[2018/11/7 18:04:24] App_Deactivated
+[2018/11/7 18:07:13] BigData-> businessEvent :SB002
+[2018/11/7 18:38:12] BigData-> businessEvent :SB002
+[2018/11/7 18:43:13] App_Deactivated
+[2018/11/7 18:43:22] App_Deactivated
+[2018/11/7 18:43:55] App_Deactivated
+[2018/11/7 18:44:19] App_Deactivated
+[2018/11/7 18:44:25] App_Deactivated
+[2018/11/7 18:44:30] App_Deactivated
+[2018/11/7 18:44:30] App_Deactivated
+[2018/11/7 18:44:30] App_Deactivated
+[2018/11/7 18:44:31] App_Deactivated
+[2018/11/8 9:09:30] AccelBall Start 
+[2018/11/8 9:09:30] IsXiaoXinPC   : True
+[2018/11/8 9:09:30] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/11/8 9:09:30] BigData-> clickEvent :SB011
+[2018/11/8 9:25:38] App_Deactivated
+[2018/11/8 9:25:44] App_Deactivated
+[2018/11/8 9:25:50] App_Deactivated
+[2018/11/8 9:25:53] App_Deactivated
+[2018/11/8 9:40:31] BigData-> businessEvent :SB002
+[2018/11/8 10:11:27] BigData-> businessEvent :SB002
+[2018/11/8 10:42:22] BigData-> businessEvent :SB002
+[2018/11/8 10:50:25] App_Deactivated
+[2018/11/8 11:00:36] App_Deactivated
+[2018/11/8 11:00:41] App_Deactivated
+[2018/11/8 11:06:03] App_Deactivated
+[2018/11/8 11:06:44] App_Deactivated
+[2018/11/8 11:09:13] App_Deactivated
+[2018/11/8 11:10:15] App_Deactivated
+[2018/11/8 11:11:33] App_Deactivated
+[2018/11/8 11:13:18] BigData-> businessEvent :SB002
+[2018/11/8 11:44:18] BigData-> businessEvent :SB002
+[2018/11/8 11:53:00] App_Deactivated
+[2018/11/8 11:53:09] App_Deactivated
+[2018/11/8 12:15:19] BigData-> businessEvent :SB002
+[2018/11/8 14:23:36] App_Deactivated
+[2018/11/8 14:23:47] App_Deactivated
+[2018/11/8 14:23:49] App_Deactivated
+[2018/11/8 14:24:00] App_Deactivated
+[2018/11/8 14:28:34] BigData-> businessEvent :SB002
+[2018/11/8 14:59:36] BigData-> businessEvent :SB002
+[2018/11/8 15:06:25] App_Deactivated
+[2018/11/8 15:28:49] App_Deactivated
+[2018/11/8 15:30:40] BigData-> businessEvent :SB002
+[2018/11/8 16:01:37] BigData-> businessEvent :SB002
+[2018/11/8 16:17:09] App_Deactivated
+[2018/11/8 16:17:19] App_Deactivated
+[2018/11/8 16:17:52] App_Deactivated
+[2018/11/8 16:17:57] App_Deactivated
+[2018/11/8 16:18:18] App_Deactivated
+[2018/11/8 16:32:31] BigData-> businessEvent :SB002
+[2018/11/8 16:35:13] App_Deactivated
+[2018/11/8 16:35:50] App_Deactivated
+[2018/11/8 17:03:26] BigData-> businessEvent :SB002
+[2018/11/8 17:34:18] BigData-> businessEvent :SB002
+[2018/11/8 18:05:12] BigData-> businessEvent :SB002
+[2018/11/8 18:09:26] App_Deactivated
+[2018/11/8 18:10:26] App_Deactivated
+[2018/11/8 18:36:10] BigData-> businessEvent :SB002
+[2018/11/8 19:02:51] App_Deactivated
+[2018/11/8 19:07:10] BigData-> businessEvent :SB002
+[2018/11/8 19:16:36] App_Deactivated
+[2018/11/8 19:21:03] App_Deactivated
+[2018/11/8 19:21:09] App_Deactivated
+[2018/11/8 19:21:41] App_Deactivated
+[2018/11/8 19:21:58] App_Deactivated
+[2018/11/8 19:23:08] App_Deactivated
+[2018/11/8 19:24:20] App_Deactivated
+[2018/11/8 19:25:09] App_Deactivated
+[2018/11/8 19:25:13] App_Deactivated
+[2018/11/8 19:25:16] App_Deactivated
+[2018/11/8 19:25:16] App_Deactivated
+[2018/11/8 19:25:17] App_Deactivated
+[2018/11/8 19:25:19] App_Deactivated
+[2018/11/9 9:18:02] AccelBall Start 
+[2018/11/9 9:18:02] IsXiaoXinPC   : True
+[2018/11/9 9:18:02] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/11/9 9:18:02] BigData-> clickEvent :SB011
+[2018/11/9 9:20:04] App_Deactivated
+[2018/11/9 9:20:27] App_Deactivated
+[2018/11/9 9:23:26] App_Deactivated
+[2018/11/9 9:23:41] App_Deactivated
+[2018/11/9 9:23:54] App_Deactivated
+[2018/11/9 9:25:49] App_Deactivated
+[2018/11/9 9:25:52] App_Deactivated
+[2018/11/9 9:49:03] BigData-> businessEvent :SB002
+[2018/11/9 9:53:10] App_Deactivated
+[2018/11/9 10:11:26] App_Deactivated
+[2018/11/9 10:20:08] BigData-> businessEvent :SB002
+[2018/11/9 10:51:19] BigData-> businessEvent :SB002
+[2018/11/9 11:22:18] BigData-> businessEvent :SB002
+[2018/11/9 11:53:15] BigData-> businessEvent :SB002
+[2018/11/9 14:13:42] BigData-> businessEvent :SB002
+[2018/11/9 14:44:44] BigData-> businessEvent :SB002
+[2018/11/9 15:15:43] BigData-> businessEvent :SB002
+[2018/11/9 15:46:47] BigData-> businessEvent :SB002
+[2018/11/9 16:10:52] App_Deactivated
+[2018/11/9 16:11:52] App_Deactivated
+[2018/11/9 16:14:29] App_Deactivated
+[2018/11/9 16:14:43] App_Deactivated
+[2018/11/9 16:15:00] App_Deactivated
+[2018/11/9 16:16:00] App_Deactivated
+[2018/11/9 16:17:47] BigData-> businessEvent :SB002
+[2018/11/9 16:21:28] App_Deactivated
+[2018/11/9 16:48:51] BigData-> businessEvent :SB002
+[2018/11/9 17:19:56] BigData-> businessEvent :SB002
+[2018/11/9 17:51:00] BigData-> businessEvent :SB002
+[2018/11/9 18:11:42] App_Deactivated
+[2018/11/9 18:22:01] BigData-> businessEvent :SB002
+[2018/11/9 18:53:04] BigData-> businessEvent :SB002
+[2018/11/9 19:11:13] App_Deactivated
+[2018/11/9 19:24:07] BigData-> businessEvent :SB002
+[2018/11/9 19:55:06] BigData-> businessEvent :SB002
+[2018/11/9 19:59:13] App_Deactivated
+[2018/11/9 19:59:49] App_Deactivated
+[2018/11/9 19:59:57] App_Deactivated
+[2018/11/9 20:02:41] App_Deactivated
+[2018/11/9 20:03:40] App_Deactivated
+[2018/11/9 20:03:49] App_Deactivated
+[2018/11/9 20:04:23] App_Deactivated
+[2018/11/9 20:06:18] App_Deactivated
+[2018/11/9 20:06:22] App_Deactivated
+[2018/11/9 20:06:42] App_Deactivated
+[2018/11/9 20:07:32] App_Deactivated
+[2018/11/9 20:09:48] App_Deactivated
+[2018/11/9 20:11:48] App_Deactivated
+[2018/11/9 20:12:11] App_Deactivated
+[2018/11/9 20:12:15] App_Deactivated
+[2018/11/9 20:12:20] App_Deactivated
+[2018/11/9 20:12:21] App_Deactivated
+[2018/11/9 20:12:22] App_Deactivated
+[2018/11/9 20:12:23] App_Deactivated
+[2018/11/9 20:12:25] App_Deactivated
+[2018/11/9 20:12:34] App_Deactivated
+[2018/11/9 20:13:48] App_Deactivated
+[2018/11/9 20:25:06] App_Deactivated
+[2018/11/9 20:25:28] App_Deactivated
+[2018/11/9 20:25:33] App_Deactivated
+[2018/11/9 20:25:33] App_Deactivated
+[2018/11/9 20:25:44] App_Deactivated
+[2018/11/9 20:26:04] BigData-> businessEvent :SB002
+[2018/11/12 8:59:32] AccelBall Start 
+[2018/11/12 8:59:32] IsXiaoXinPC   : True
+[2018/11/12 8:59:32] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/11/12 8:59:32] BigData-> clickEvent :SB011
+[2018/11/12 9:26:36] App_Deactivated
+[2018/11/12 9:30:25] BigData-> businessEvent :SB002
+[2018/11/12 9:31:36] App_Deactivated
+[2018/11/12 9:31:41] App_Deactivated
+[2018/11/12 9:45:57] App_Deactivated
+[2018/11/12 10:01:17] BigData-> businessEvent :SB002
+[2018/11/12 10:11:54] App_Deactivated
+[2018/11/12 10:16:17] App_Deactivated
+[2018/11/12 10:16:35] App_Deactivated
+[2018/11/12 10:17:13] App_Deactivated
+[2018/11/12 10:17:15] App_Deactivated
+[2018/11/12 10:18:41] App_Deactivated
+[2018/11/12 10:18:42] App_Deactivated
+[2018/11/12 10:29:18] App_Deactivated
+[2018/11/12 10:29:57] App_Deactivated
+[2018/11/12 10:30:09] App_Deactivated
+[2018/11/12 10:30:41] App_Deactivated
+[2018/11/12 10:30:49] App_Deactivated
+[2018/11/12 10:30:59] App_Deactivated
+[2018/11/12 10:32:11] BigData-> businessEvent :SB002
+[2018/11/12 10:39:10] App_Deactivated
+[2018/11/12 11:03:12] BigData-> businessEvent :SB002
+[2018/11/12 11:03:46] App_Deactivated
+[2018/11/12 11:03:59] App_Deactivated
+[2018/11/12 11:04:29] App_Deactivated
+[2018/11/12 11:04:56] App_Deactivated
+[2018/11/12 11:34:13] BigData-> businessEvent :SB002
+[2018/11/12 12:05:14] BigData-> businessEvent :SB002
+[2018/11/12 12:36:13] BigData-> businessEvent :SB002
+[2018/11/12 13:07:10] BigData-> businessEvent :SB002
+[2018/11/12 13:38:10] BigData-> businessEvent :SB002
+[2018/11/12 14:09:06] BigData-> businessEvent :SB002
+[2018/11/12 14:33:55] App_Deactivated
+[2018/11/12 14:34:19] App_Deactivated
+[2018/11/12 14:34:21] App_Deactivated
+[2018/11/12 14:40:02] BigData-> businessEvent :SB002
+[2018/11/12 15:10:52] BigData-> businessEvent :SB002
+[2018/11/12 15:41:49] BigData-> businessEvent :SB002
+[2018/11/12 16:12:55] BigData-> businessEvent :SB002
+[2018/11/12 16:22:03] App_Deactivated
+[2018/11/12 16:40:22] App_Deactivated
+[2018/11/12 16:41:26] App_Deactivated
+[2018/11/12 16:43:48] BigData-> businessEvent :SB002
+[2018/11/12 16:53:31] App_Deactivated
+[2018/11/12 17:12:29] App_Deactivated
+[2018/11/12 17:14:47] BigData-> businessEvent :SB002
+[2018/11/12 17:45:46] BigData-> businessEvent :SB002
+[2018/11/12 17:57:14] App_Deactivated
+[2018/11/12 17:57:40] App_Deactivated
+[2018/11/12 17:57:45] App_Deactivated
+[2018/11/12 17:58:11] App_Deactivated
+[2018/11/12 17:58:15] App_Deactivated
+[2018/11/12 17:58:32] App_Deactivated
+[2018/11/12 18:16:40] BigData-> businessEvent :SB002
+[2018/11/12 19:37:19] App_Deactivated
+[2018/11/12 19:37:26] App_Deactivated
+[2018/11/12 19:37:28] App_Deactivated
+[2018/11/12 19:38:11] App_Deactivated
+[2018/11/13 9:08:13] AccelBall Start 
+[2018/11/13 9:08:13] IsXiaoXinPC   : True
+[2018/11/13 9:08:13] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/11/13 9:08:13] BigData-> clickEvent :SB011
+[2018/11/13 9:13:58] App_Deactivated
+[2018/11/13 9:14:17] App_Deactivated
+[2018/11/13 9:39:10] BigData-> businessEvent :SB002
+[2018/11/13 9:48:19] App_Deactivated
+[2018/11/13 9:48:46] App_Deactivated
+[2018/11/13 9:56:51] App_Deactivated
+[2018/11/13 9:58:52] App_Deactivated
+[2018/11/13 10:05:36] App_Deactivated
+[2018/11/13 10:05:37] App_Deactivated
+[2018/11/13 10:07:11] App_Deactivated
+[2018/11/13 10:10:10] BigData-> businessEvent :SB002
+[2018/11/13 10:26:05] App_Deactivated
+[2018/11/13 10:29:17] App_Deactivated
+[2018/11/13 10:35:09] App_Deactivated
+[2018/11/13 10:35:20] App_Deactivated
+[2018/11/13 10:41:02] BigData-> businessEvent :SB002
+[2018/11/13 11:12:10] BigData-> businessEvent :SB002
+[2018/11/13 11:43:20] BigData-> businessEvent :SB002
+[2018/11/13 12:14:24] BigData-> businessEvent :SB002
+[2018/11/13 12:45:30] BigData-> businessEvent :SB002
+[2018/11/13 14:48:55] BigData-> businessEvent :SB002
+[2018/11/13 15:00:30] App_Deactivated
+[2018/11/13 15:00:40] App_Deactivated
+[2018/11/13 15:00:42] App_Deactivated
+[2018/11/13 15:10:39] App_Deactivated
+[2018/11/13 15:19:58] BigData-> businessEvent :SB002
+[2018/11/13 15:29:53] App_Deactivated
+[2018/11/13 15:51:05] BigData-> businessEvent :SB002
+[2018/11/13 16:09:57] App_Deactivated
+[2018/11/13 16:11:17] App_Deactivated
+[2018/11/13 16:11:29] App_Deactivated
+[2018/11/13 16:11:38] App_Deactivated
+[2018/11/13 16:11:46] App_Deactivated
+[2018/11/13 16:11:54] App_Deactivated
+[2018/11/13 16:12:12] App_Deactivated
+[2018/11/13 16:12:27] App_Deactivated
+[2018/11/13 16:13:04] App_Deactivated
+[2018/11/13 16:13:04] App_Deactivated
+[2018/11/13 16:22:00] BigData-> businessEvent :SB002
+[2018/11/13 16:52:48] BigData-> businessEvent :SB002
+[2018/11/13 17:23:46] BigData-> businessEvent :SB002
+[2018/11/13 17:54:43] BigData-> businessEvent :SB002
+[2018/11/13 18:25:40] BigData-> businessEvent :SB002
+[2018/11/13 18:56:34] BigData-> businessEvent :SB002
+[2018/11/13 19:08:46] App_Deactivated
+[2018/11/13 19:09:37] App_Deactivated
+[2018/11/13 19:18:24] App_Deactivated
+[2018/11/13 19:19:06] App_Deactivated
+[2018/11/13 19:26:28] App_Deactivated
+[2018/11/13 19:27:33] BigData-> businessEvent :SB002
+[2018/11/13 19:27:50] App_Deactivated
+[2018/11/13 19:27:54] App_Deactivated
+[2018/11/13 19:30:41] App_Deactivated
+[2018/11/13 19:31:13] App_Deactivated
+[2018/11/13 19:31:19] App_Deactivated
+[2018/11/13 19:31:23] App_Deactivated
+[2018/11/13 19:33:28] App_Deactivated
+[2018/11/14 9:21:02] AccelBall Start 
+[2018/11/14 9:21:02] IsXiaoXinPC   : True
+[2018/11/14 9:21:02] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/11/14 9:21:02] BigData-> clickEvent :SB011
+[2018/11/14 9:21:06] App_Deactivated
+[2018/11/14 9:21:27] App_Deactivated
+[2018/11/14 9:40:26] App_Deactivated
+[2018/11/14 9:51:59] BigData-> businessEvent :SB002
+[2018/11/14 9:52:09] App_Deactivated
+[2018/11/14 10:06:09] App_Deactivated
+[2018/11/14 10:15:17] App_Deactivated
+[2018/11/14 10:16:48] App_Deactivated
+[2018/11/14 10:16:48] App_Deactivated
+[2018/11/14 10:20:22] App_Deactivated
+[2018/11/14 10:20:28] App_Deactivated
+[2018/11/14 10:21:55] App_Deactivated
+[2018/11/14 10:22:44] BigData-> businessEvent :SB002
+[2018/11/14 10:23:43] App_Deactivated
+[2018/11/14 10:23:56] App_Deactivated
+[2018/11/14 10:32:26] App_Deactivated
+[2018/11/14 10:53:35] BigData-> businessEvent :SB002
+[2018/11/14 11:13:59] App_Deactivated
+[2018/11/14 11:16:18] App_Deactivated
+[2018/11/14 11:16:21] App_Deactivated
+[2018/11/14 11:16:31] App_Deactivated
+[2018/11/14 11:16:32] App_Deactivated
+[2018/11/14 11:16:44] App_Deactivated
+[2018/11/14 11:16:46] App_Deactivated
+[2018/11/14 11:16:47] App_Deactivated
+[2018/11/14 11:16:50] App_Deactivated
+[2018/11/14 11:16:51] App_Deactivated
+[2018/11/14 11:17:35] App_Deactivated
+[2018/11/14 11:17:38] App_Deactivated
+[2018/11/14 11:17:53] App_Deactivated
+[2018/11/14 11:24:24] BigData-> businessEvent :SB002
+[2018/11/14 11:55:13] BigData-> businessEvent :SB002
+[2018/11/14 11:58:20] App_Deactivated
+[2018/11/14 12:26:04] BigData-> businessEvent :SB002
+[2018/11/14 14:40:45] App_Deactivated
+[2018/11/14 14:57:23] BigData-> businessEvent :SB002
+[2018/11/14 15:00:37] App_Deactivated
+[2018/11/14 15:01:23] App_Deactivated
+[2018/11/14 15:28:12] BigData-> businessEvent :SB002
+[2018/11/14 15:46:44] App_Deactivated
+[2018/11/14 15:49:33] App_Deactivated
+[2018/11/14 15:49:40] App_Deactivated
+[2018/11/14 15:49:43] App_Deactivated
+[2018/11/14 15:51:56] App_Deactivated
+[2018/11/14 15:54:20] App_Deactivated
+[2018/11/14 15:54:22] App_Deactivated
+[2018/11/14 15:59:00] BigData-> businessEvent :SB002
+[2018/11/14 16:29:46] BigData-> businessEvent :SB002
+[2018/11/14 16:52:27] App_Deactivated
+[2018/11/14 16:52:31] App_Deactivated
+[2018/11/14 16:53:43] App_Deactivated
+[2018/11/14 16:55:56] App_Deactivated
+[2018/11/14 16:55:58] App_Deactivated
+[2018/11/14 17:00:32] BigData-> businessEvent :SB002
+[2018/11/14 17:07:59] App_Deactivated
+[2018/11/14 17:08:27] App_Deactivated
+[2018/11/14 17:08:29] App_Deactivated
+[2018/11/14 17:11:12] App_Deactivated
+[2018/11/14 17:12:19] App_Deactivated
+[2018/11/14 17:28:51] App_Deactivated
+[2018/11/14 17:31:20] BigData-> businessEvent :SB002
+[2018/11/14 18:02:06] BigData-> businessEvent :SB002
+[2018/11/14 18:32:51] BigData-> businessEvent :SB002
+[2018/11/14 18:55:51] App_Deactivated
+[2018/11/14 18:56:00] App_Deactivated
+[2018/11/14 18:56:03] App_Deactivated
+[2018/12/30 14:09:30] AccelBall Start 
+[2018/12/30 14:09:30] IsXiaoXinPC   : True
+[2018/12/30 14:09:30] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/12/30 14:09:30] BigData-> clickEvent :SB011
+[2018/12/30 14:09:32] App_Deactivated
+[2018/12/30 14:09:36] App_Deactivated
+[2018/12/30 14:09:40] App_Deactivated
+[2018/12/30 14:09:43] App_Deactivated
+[2018/12/30 14:10:34] App_Deactivated
+[2018/12/30 14:12:41] App_Deactivated
+[2018/12/30 14:12:54] App_Deactivated
